@@ -1,0 +1,28 @@
+Project Yuki - The Videogame about Videogames.
+
+Main
+======================
+Project Yuki is a 2.5D real-time business simulation/tactical shooting game written in C++. It uses SVG for all of its graphics. The game is designed from the ground up to have a visually appealing, touch-friendly interface for tablet computers. 
+
+Much of the game's interaction is based around its narrative, a satire of the modern video game industry. The game is primarily in Japanese and French.
+
+
+Main Documentation
+======================
+
+Installation instructions, license information, and more are in the 
+
+Project Yuki Developer Wiki:  http://canvasfoundation.org/fhqwhgads.
+
+Project Yuki Developer IRC Channel: irc://irc.freenode.com/yuki
+
+Main Repository: http://github.com/torchie/yukikito/
+
+Dependencies
+======================
+* SDL
+* SDL_mixer
+* libxml++
+* cairo
+
+Under consideration is the static linking of all dependencies to the release binary.
