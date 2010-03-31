@@ -9,7 +9,6 @@ Much of the game's interaction is based around its narrative, a satire of the mo
 
 Main Documentation
 ======================
-
 Installation instructions, license information, and more are in the 
 
 Project Yuki Developer Wiki:  http://canvasfoundation.org/fhqwhgads.
@@ -18,11 +17,14 @@ Project Yuki Developer IRC Channel: irc://irc.freenode.com/yuki
 
 Main Repository: http://github.com/torchie/yukikito/
 
+
 Dependencies
 ======================
 * SDL
-* SDL_mixer
-* libxml++
 * cairo
+
+Dependencies-to-be:
+- libxml++
+- SDL_mixer
 
 Under consideration is the static linking of all dependencies to the release binary.
