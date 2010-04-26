@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="61000" point="syringe" localizationstatus="original" fictionaldate="2011-09-04" status="final">
+	<part>
+		<narration>Yuki, flips through a multitude of channels.<comment>Player is in charge of the switch.</comment></narration>
+		<line id="1000" speaker="tv" voicelang="en">Aren't you too old for video games &#x2014;</line>
+		<line id="2000" speaker="tv" voicelang="en">&#x2014; Social deviants play video games &#x2014;</line>
+		<line id="3000" speaker="tv" voicelang="ja">Virginia Tech &#x2014; Akihabara &#x2014; Columbine &#x2014; all gamers &#x2014;</line>
+		<narration>Yuki shuts down the television.</narration>
+		<line id="4000" speaker="yuki" voicelang="fr">The advantage of passive media is its greater potential to herd sheep.</line>
+		<line id="5000" speaker="yuki" voicelang="fr">The syringe-media perception that those who work and play with video games are "bad people,"</line>
+		<line id="6000" speaker="yuki" voicelang="fr">messes everything up for the good ones.</line>
+		<line id="7000" speaker="yuki" voicelang="fr">Go ahead. Keep calling us the demons.</line>
+		<line id="8000" speaker="yuki" voicelang="fr">And we will all become zombies.</line>
+	</part>
+</scriptment>

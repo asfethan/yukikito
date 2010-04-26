@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="11000" point="yuki_3years" localizationstatus="original" fictionaldate="2008-06-20" status="final" >
+	<part>
+		<narration>Yuki slams the door. Silence. Comfort. Her fringe caresses her eyebrow. She sighs. She looks at the clock and breathes unto herself her serene affirmations.</narration>
+		<line id="900" speaker="yuki" voicelang="fr">I love being alone.</line>
+		<line id="910" speaker="yuki" voicelang="fr">If there's nobody to talk to, then I can stay silent forever.</line>
+		<narration>Crickets chirp as the sun sets.</narration>
+		<line id="1000" speaker="yuki" voicelang="fr">Night. I want to be asleep.</line>
+		
+		<narration>Yuki walks to her bed.<comment>No progression until going to bed. Main Action is to go to sleep.</comment></narration>
+		<line id="2000" speaker="yuki" voicelang="fr">Goodbye, world.</line>
+		<narration>Yuki falls to her bed. <comment>Tons upon tons of sprite changes here. While Yuki is falling, perform three-year time lapse. Don't use a sprite set, just override all entity sprites with time-period sprite.</comment>Yuki remains at her house, where it is quiet. Where it is lonely. Where it is safe. Every day, there are a few more instant ramen packets on the ground. Every day, there's another video game box on the floor. Every day, there's another piece of clothing thrown astray. Three years pass.</narration>
+	</part>
+	<part id="yuki_2011" fictionaldate="2011-06-20">
+		<narration>2011. Yuki raises from yet another good night's sleep, her controlled face years-devoid of a glimpse of natural light. A single lightbulb on a lamp near a television flickers. Yuki can't remember the last time she wore a shirt with sleeves, or pants with pockets. Her hair is a mess, but the fringe remains. It caresses her brow. Yuki does the chores.<comment>In place of dialogue, there are Xbox Live-style "achievements" for every action here. These actions are performed by the player.</comment>There is some instant ramen on the counter, and a bowl of water in the open microwave. The bed is messy. There is an envelope on the table with rent money.</narration>
+
+		<narration>Yuki shuts the microwave. She turns on the microwave. 10 seconds. Done. The water is still cold. She throws in the instant ramen.</narration>
+		<line id="3000" speaker="game">Achivement Unlocked</line>
+		<line id="3000" speaker="game">Prepared delicious Japanese cuisine</line>
+		<narration>Yuki halfway makes the bed.</narration>
+		<line id="4000" speaker="game">Precisely reseated misplaced comforters</line>
+		<narration>Yuki slips an empty envelope under the door.</narration>
+		<line id="4100" speaker="game">Paid the rent</line>
+		<narration>Yuki yawns.</narration>
+		<line id="5000" speaker="game">Finished a hard day's work</line>
+		<narration>Yuki jumps back into bed. She fidgets a bit under the sheets. Her tank-top drops to the ground. Her pajama-pants fling over the television set. Lying on her back, Yuki pokes her head and only her head out from under the sheets. She pulls from under her pillow a thin-book. On the cover of said thin-book are reviews of cosmetics, advertisements of skin-care products, picture of Actresses. She holds it one-handed.<comment>The Main Action flips the pages. Every time the Player flips a page, Yuki pulls her left hand from under the covers, turns the page, and jets the hand back under the covers. </comment>Yuki barely focuses on the written content of the publication.<comment>Vision text appears for the book. Jumbles around frequently.</comment></narration>
+		<line id="6000" speaker="game">Failed attempt at reading</line>
+		<narration>Time goes on. Yuki laughs a little. Yuki begins to breathe hard. Cessation. Eyes shut.</narration>
+		<line id="7000" speaker="game">Reached point of no return</line>
+		<narration>Yuki sighs. Cross eyed and low-lidded, she gazes at the ceiling.</narration>
+		<line id="8000" speaker="yuki" voicelang="fr">In the tranquility of loneliness, nothing bests a little death.</line>
+		<line id="8100" speaker="yuki" voicelang="fr">Silence is golden—</line>
+		<narration>Knocks. Front door. Loud, abrupt, sharp. Wanting. Yuki blinks. It's The Landlord.</narration>
+		<line id="9000" speaker="landlord" voicelang="ja">Ms. Takeshi!</line>
+		<narration>Voices! Yuki flails about and drops to the ground. She moves about the house to the extent that a startled naked woman scrambling under a comforter in a Japanese apartment can.</narration>
+		<line id="10000" speaker="landlord" voicelang="ja">This envelope is empty.</line>
+		<line id="11000" speaker="landlord" voicelang="ja">You didn't pay the water bill.</line>
+		<line id="12000" speaker="landlord" voicelang="ja">I still have here the money for the internet and electricity.</line>
+		<line id="13000" speaker="landlord" voicelang="ja">Are you sure you don't want to use that money for water instead?</line>
+		
+		<narration>Yuki remains silent.</narration>
+		
+		<line id="14000" speaker="landlord" voicelang="ja">You'll have to decide what you're paying for, here.</line>
+		<narration>Silence.</narration>
+		<line id="15000" speaker="landlord" voicelang="ja">Water, or a glance over an internet forum on a friday night?</line>
+		<line id="16000" speaker="landlord" voicelang="ja">The basis of all life, or One More Game of Sonic the Hedgehog?</line>
+		<line id="17000" speaker="landlord" voicelang="ja">Seriously, are you still contemplating this?</line>
+		<line id="18000" speaker="landlord" voicelang="ja">Have you forgotten how to speak?</line>
+		<line id="19000" speaker="landlord" voicelang="ja">Are you dead?</line>
+		<line id="20000" speaker="landlord" voicelang="ja">Or are you just stupid—</line>
+		
+		<line id="21000" speaker="yuki" voicelang="fr">Shut up!</line>
+		
+		<narration>From the other side of the thin apartment wall speaks some confused woman.</narration>
+		<line id="22000" speaker="woman" voicelang="ja">What's all that ruckus? Does somebody live next door?</line>
+		<narration>Yuki glares at the wall. She looks back at the front door.</narration>
+		<line id="23000" speaker="yuki" voicelang="ja">Keep electricity, don't want water!</line>
+		<line id="24000" speaker="yuki" voicelang="ja">I pay you a corpse when I die of waterlessness!</line>
+		<narration>The Landlord's feet shuffle. Footsteps leading away.</narration>
+		<line id="25000" speaker="landlord" voicelang="ja">Damn NEETs. They always get unreasonable after a few years.</line>
+		<narration>The Landlord leaves.</narration>
+		<line id="26000" speaker="game">Pissed off the guy putting a roof over your head</line>
+		<narration>Yuki crouches and whimpers.</narration>
+		<line id="27000" speaker="yuki" voicelang="fr">Oh god, I'm broke—</line>
+		<narration>The other-side-of-the-walled woman:</narration>
+		<line id="28000" speaker="woman" voicelang="ja">So someone does live over there! Mademoiselle, what's your name?</line>
+		<narration>Yuki curls up and mumbles.</narration>
+		<line id="29000" speaker="yuki" voicelang="fr">Go away, go away, go away, go away, go away, go away,</line>
+		<line id="30000" speaker="woman" voicelang="ja">I'm Nozomi!</line>
+		<line id="31000" speaker="yuki" voicelang="fr">Go away, go away, go away, go away, go away, go away, go away,</line>
+		<line id="32000" speaker="nozomi" voicelang="ja">Nozomi Hasegawa!</line>
+		<line id="33000" speaker="nozomi" voicelang="ja">Next-door neighbor, why not make with the small talk&#x2014;</line>
+		<line id="34000" speaker="yuki" voicelang="ja">Go away!</line>
+		<line id="35000" speaker="yuki" voicelang="ja">Never speak again!</line>
+		<narration>No response. Once again, all is quiet. Yuki falls to her back. She stares up at the ceiling. Vow of silence, broken.</narration>
+		<narration>Jiggles. Doorknob. Loud, abrupt, sharp. The door opens. Yuki convulses. Mouth agape, she stares at the intruder. It's Hasegawa.<comment>Sudden Cut to next part.</comment></narration>
+	</part>
+	<part id="yuki_out">
+		<narration>The ramen packets are thrown away. The video game boxes are on the shelf. The clothes are folded. The noodles are hot. The envelope is full. The bed is made. The tenant and intruder sit on the edge of the bed. Yuki is crying.</narration>
+		<line id="36000" speaker="yuki" voicelang="fr">I knew it, I knew it, this happened because I yelled, this happened because I was too loud&#x2014;</line>
+		<narration>Nozomi pats Yuki on the back.</narration>
+		<line id="37000" speaker="nozomi" voicelang="ja">You said not to speak to you,</line>
+		<line id="38000" speaker="nozomi" voicelang="ja">so I did the next best thing and broke into your house.</line>
+		<line id="39000" speaker="nozomi" voicelang="ja">I thought most of the SIA immigrants were still in Nagoya. What are you doing in Tokyo?</line>
+		<narration>From her palms, Yuki looks up.</narration>
+		<line id="40000" speaker="yuki" voicelang="ja">My dad got a job at Sega.</line>
+		<narration>Nozomi gasps. Yuki raises a brow.</narration>
+		<line id="41000" speaker="yuki" voicelang="ja">What?</line>
+		<line id="42000" speaker="nozomi" voicelang="ja">Oh &#x2014; I didn't ask about your dad, I asked about you! How are you?</line>
+		<condition>
+			
+				<choice number="1">
+					<line id="43000" speaker="yuki" voicelang="ja">Terrible.</line>
+					<line id="44000" speaker="nozomi" voicelang="ja">Oh my!</line>
+				</choice>
+				
+				<choice number="2">
+					<line id="45000" speaker="yuki" voicelang="ja">Awful.</line>
+					<line id="46000" speaker="nozomi" voicelang="ja">Oh no!</line>
+				</choice>
+		</condition>
+		<narration>Nozomi hugs her girl and rocks back and forth.</narration>
+		<line id="47000" speaker="nozomi" voicelang="ja">You poor soul!</line>
+		<line id="48000" speaker="nozomi" voicelang="ja">Thrown into such a strange land at such a young age,</line>
+		<line id="49000" speaker="nozomi" voicelang="ja">How were you able to adjust?</line>
+		<line id="50000" speaker="nozomi" voicelang="ja">Being a foreigner must be so hard!</line>
+		<line id="50100" speaker="nozomi" voicelang="ja">Do you want a cookie? How about we go on a date and watch a feel-good romantic comedy?</line>
+		<narration>Yuki breaks into laughter.<comment>Bring the closet to the player's attention.</comment></narration>
+		<line id="51000" speaker="yuki" voicelang="fr">Stop, stop!</line>
+		<line id="52000" speaker="nozomi" voicelang="ja">Did I say something funny?</line>
+		
+		<line id="53000" speaker="yuki" voicelang="ja">Funny to me.</line>
+		<line id="53100" speaker="yuki" voicelang="ja">Now I must put on clothes.</line>
+		<narration>Yuki goes into her closet. She drops the comforter that once covered her. Nozomi stares? She shakes her head. She says:</narration>
+		<line id="54000" speaker="nozomi" voicelang="ja">Ready to be helped?</line>
+		<line id="55000" speaker="yuki" voicelang="ja">"Helped?"</line>
+		<narration>Nozomi crouches and walks towards Yuki, nice and slow. Yuki shields her face with her hands.</narration>
+		<line id="56000" speaker="yuki" voicelang="fr">What are you doing?</line>
+		<narration>Nozomi lunges at Yuki. Yuki jumps out of the way.<comment>In her first attempts, Nozomi misses and trips over things to give the Player a chance to gain their "running legs."</comment> Nozomi continues to chase her around the room. <comment>Main Action is a shake-off.</comment>Yuki flails.</narration>
+		<line id="57000" speaker="yuki" voicelang="fr">Get away!</line>
+		<line id="58000" speaker="nozomi" voicelang="ja">I'll get away when you get out of the house!</line>
+		<line id="59000" speaker="yuki" voicelang="fr">I like the house!</line>
+		<line id="60000" speaker="nozomi" voicelang="fr">You'll like the world more!</line>
+		<narration>Nozomi catches Yuki and drags her to the front door. Nozomi kicks the door open and throws Yuki out of the house. Yuki stumbles onto the balcony rail. She opens her eyes. She raises her head. She gasps.</narration>
+		<narration><comment>Zoom out.</comment>The front yard of the complex is a field of gently wafting flowers. Lavender. A single petal frees itself from mother earth's will and, as it passes by, caresses Yuki's cheek.<comment>Show logo against black background.</comment>The breeze blows. </narration> 
+		<line id="61000" speaker="yuki" voicelang="ja">Job.</line>
+		<line id="62000" speaker="nozomi" voicelang="ja">What?</line>
+		<line id="63000" speaker="yuki" voicelang="ja">I need a job.</line>
+		<line id="61000" speaker="nozomi" voicelang="ja">No problem, I'll hook you up.</line>
+		<narration>Yuki goes into the house. She closes the door. Nozomi waits. Yuki returns, straight of hair. Clumps about lashes. Clouds atop lids. Sham of lab-coat.</narration>
+	</part>
+</scriptment>

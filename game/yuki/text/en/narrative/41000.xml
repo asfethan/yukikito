@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="41000" point="experience" localizationstatus="original" fictionaldate="2011-07-29" status="final">
+	<part>
+		<narration>Yuki &#x2014; NoLifeQueen &#x2014; Yuki &#x2014; scans the blank, empty, virtual room. Onward howls the invisible wind. She is alone. Seems familiar. She must be sleeping. Pointing in some direction is a wooden sign. It reads:</narration>
+		<line id="1000" speaker="game">This way to Material Experience</line>
+		<narration>Yuki goes in that direction. She thinks to herself.</narration>
+		<line id="2000" speaker="yuki" voicelang="fr">Simulation leaves us content with an inferior representation of a state of affairs.</line>
+		<line id="3000" speaker="yuki" voicelang="fr">Simulation is not escapism; it is an expression of the desire for an experience.</line>
+		<line id="4000" speaker="yuki" voicelang="fr">There are two classes of this experience; the first of which is Material Experience&#x2014;</line>
+		<narration><comment>Cut to a distance from Yuki. A biplane is now visible on screen.</comment>Yuki finds a biplane! She tosses happily in her sleep, flailing arms about.<comment>Cut to Yuki sleeping. Cut back to the dream.</comment></narration>
+		<narration>Yuki's biplane turns into a car! She tosses happily in her sleep, flailing arms about.<comment>Cut to Yuki sleeping. Cut back to the dream.</comment></narration>
+		<narration>Yuki saves the princess from a dragon! She tosses happily in her sleep, flailing arms about.<comment>Cut to Yuki sleeping. Cut back to the dream.</comment>The car and princess and dragon disappear. Yuki, once driving, now runs in place. A point-counter appears in the corner of her mind. <comment>Appear GUI widget of fake-points in the middle of a screen.</comment> It rolls up. There is another sign.</narration>
+		<line id="4000" speaker="game">This way to Conceptual Experience</line>
+
+		<line id="5000" speaker="yuki" voicelang="fr">The second is Conceptual Experience.</line>
+		<narration>As Yuki walks past the sign, her point counter continues to roll up. Yuki looks at it. To the left of the point-counter appears a word:</narration>
+		<line id="6000" speaker="game">Quantity</line>
+		<narration>Three rings appear nearby. Rings to collect to gain points. One ring is obtainable. The other is too high for Yuki to reach. The third is behind an impassable cage chained to a crane. Over all of the rings appears the text:</narration>
+		<line id="7000" speaker="game">Quality</line>
+		<narration>A button appears near the third ring's cage. When Yuki presses the button, the crane rises the cage.</narration>
+		<line id="8000" speaker="game">Relation</line>
+		<narration>A full level design fades into view. Platforms and verdure and objects and people with dependent behaviors necessary for their existence. Revealed in this mind-game is its Realm of Possibility. Above all relevant objects appears the text:</narration>
+		<line id="9000" speaker="game">Modality</line>
+		<narration>For a time, bliss.</narration>
+		<narration>Everything disappears. Yuki hears a voice. It's like hers. It is hers. This is her. This is Yuki.</narration>
+		<line id="10000" speaker="clone" voicelang="fr">I'm the only person in the world important to you.</line>
+		<line id="11000" speaker="yuki" voicelang="fr">What&#x2014;</line>
+		<narration>Brazenly, boldly, comes a clone-Yuki from the left.<comment>For the sake of confusing the Player, every clone-Yuki uses the exact same sprite set as the real-Yuki. Whatever happens in the scene is up to the Player; real-Yuki has no dialogue of her own.</comment></narration>
+		<line id="12000" speaker="clone" voicelang="fr">Don't you care about how I feel?</line>
+		<narration>Timidly, hurried, comes a clone-Yuki from the right.</narration>
+		<line id="13000" speaker="clone" voicelang="fr">Life hath too many judges I dont want people to think about me lock the door&#x2014;</line>
+		<narration>Hyperventilating comes clone-Yuki from the mid.</narration>
+		<line id="14000" speaker="clone" voicelang="fr">I'm damaged goods &#x2014; I'm a terrible person &#x2014; Nozomi is too good for me &#x2014;</line>
+		<narration>And enter another.</narration>
+		<line id="15000" speaker="clone" voicelang="fr">Remember The Actress? Wow. Actresses are much more beautiful than Actors&#x2014;</line>
+		<narration>And enter another.</narration>
+		<line id="16000" speaker="clone" voicelang="fr">Actors have what is had by no Actress.</line>
+		<narration>And enter another.</narration>
+		<line id="17000" speaker="clone" voicelang="fr">Why not just have both?</line>
+		<narration>And enter another.</narration>
+		<line id="18000" speaker="clone" voicelang="fr">Oh, that's Parisian-Nagoyan thinking!</line>
+		<narration>And enter another.</narration>
+		<line id="19000" speaker="clone" voicelang="fr">I wish something about me was real &#x2014; or beautiful &#x2014; or Japanese &#x2014;</line>
+		<narration>And enter another. Extension&#x2014; eventually one-hundred-twenty-eight clones swarm about the purgatory. All copies announce:</narration>
+		<line id="20000" speaker="clone" voicelang="fr">All is naught in the pursuit of superiority &#x2014; birth is immutable.</line>
+		<narration>Morning! Alarm clock chirped, let's get a move on, Yuki jumps out of bed. Truncation&#x2014; half the clones have left. The other half laze about the house, sleeping, sulking, crying. Yuki ignores the clones, pushes through them, trudges through the trenches, prepares for a new day &#x2014;<comment>It's up to the Player to make it out of the house.</comment> They continue.</narration>
+		<line id="21000" speaker="clone" voicelang="fr">Leave not your house! Critics walk the streets!</line>
+		<line id="22000" speaker="clone" voicelang="fr">I am not fit for society!</line>
+		<line id="23000" speaker="clone" voicelang="fr">Whatever I have belongs not to me!</line>
+		<line id="24000" speaker="clone" voicelang="fr">No rein is mine to hold&#x2014; this is not my world!</line>
+		<line id="25000" speaker="clone" voicelang="fr">You're not real &#x2014;</line>
+		<line id="26000" speaker="yuki" voicelang="fr">You're not real!</line>
+		<narration>Yuki flings her arms to God, scattering the clones.</narration>
+		<narration>The other Yukis &#x2014; the hallucinations &#x2014; fade away. Yuki rushes out of the door and slams it shut. She drops down and sighs. Fringe caresses cheek. Thoughts successfully suppressed. After all, they're not real.</narration>
+	</part>
+</scriptment>
