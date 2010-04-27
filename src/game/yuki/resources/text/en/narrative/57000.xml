@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="57000" point="participation" localizationstatus="original" fictionaldate="2011-08-21" status="final">
+	<part>
+		<narration>Yuki sits at park bench. She fidgets a little. In comes a real Japanese lady and her cute little corgi. Yuki turns to them.</narration>
+		<line id="1000" speaker="yuki" voicelang="ja">Oh &#x2014; you must be Mrs. Sayama &#x2014;</line>
+		<narration>The lady raises a brow.</narration>
+		<line id="2000" speaker="lady" voicelang="ja">And you're the dog walker?</line>
+		<line id="3000" speaker="yuki" voicelang="ja">Yes, ma'am.</line>
+		<narration>The conversation drones on. The lady asks why Yuki is walking dogs. Yuki tells her that it is because she needs the money. They go on about the economy. Then they go on about how hot it is for August. Then the lady goes on about all of those pesky Pommes. Yuki covers any visible blonde hair with her coolie. The lady strokes the rim of her silk cloche. Yuki takes her mind elsewhere.</narration>
+		<line id="4000" speaker="yuki" voicelang="fr">Interactivity brings to us the element missing from all other mediums&#x2014;</line>
+		<line id="5000" speaker="lady" voicelang="ja">Hey.</line>
+		<line id="6000" speaker="lady" voicelang="ja">Do you know how to walk my dog?</line>
+		<line id="7000" speaker="yuki" voicelang="ja">Well &#x2014;</line>
+		<narration>The lady hands her a dog-walking pamphlet. Yuki looks at it.<comment>Yuki urges the player to get a look. Oh, the barrier of linguistic communication. No vision text here.</comment>Yuki stares at it. To the lady she speaks, softly.</narration>
+		<line id="8000" speaker="yuki" voicelang="fr">Static language-dependent representation of a state of affairs &#x2014;</line>
+		<line id="9000" speaker="lady" voicelang="ja">Not too fond of the written word?</line>
+		<line id="10000" speaker="lady" voicelang="ja">Fine, then; watch.</line>
+		<narration>The lady walks back and forth across the grass, corgi in leash. Yuki watches it. To the lady she speaks, softly.</narration>
+		<line id="11000" speaker="yuki" voicelang="fr">That's just observation&#x2014;</line>
+		<line id="12000" speaker="lady" voicelang="ja">Not a fan of the motion picture?</line>
+		<line id="13000" speaker="lady" voicelang="ja">Take the reins. Walk the dog.</line>
+		<narration>The lady gives Yuki the leash. Yuki walks dog. <comment>Player walks Yuki.</comment> Yuki walks the dog. Back and forth, back and forth. Yuki understands it. To the lady she speaks:</narration>
+		<line id="14000" speaker="yuki" voicelang="fr">Participation.</line>
+	</part>
+</scriptment>

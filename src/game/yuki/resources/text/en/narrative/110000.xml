@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="110000" point="end" localizationstatus="original" fictionaldate="2011-12-12" status="final">
+	<part>
+		<line id="1000" speaker="yuki" voicelang="fr">No!</line>
+		<line id="2000" speaker="yuki" voicelang="ja">No!</line>
+		<line id="3000" speaker="yuki" voicelang="en">No!</line>
+		<narration>Yuki stands at structure's edge. She looks to the heavens. She smiles. She looks to the flame. The lady breathes hard. She shuts her lids, spreads her arms, and backward walks.<comment>The Player controls the walking. No scene progression until the Player moves in a way that obscures Yuki from the screen. Upon that,</comment></narration>
+		<narration>Yuki — NoLifeQueen — toward structure's edge — runs. She shuts her lids, spreads her arms, and forward leaps. The universe fades. Nothing in the realm exists but wind, dusk, and memory.<comment>Screen black.</comment></narration>
+		<narration>NoLifeQueen thumps to the roof of a so-called building. Watching over her are the so-called night-darkened clouds. The wind tumbles some so-called pebbles. There are no stars. <comment>No scene progression for a long while.</comment></narration>
+		<narration>From the earth engulfs flame. Flame that shifts. Flame that shapes. Flame with structure. It morphs into a Policeman with a picket-sign. The flaming Policeman splinters the sign over his knee. At NoLifeQueen he hurls hunks of the sign.</narration>
+		<line id="4000" speaker="policeman" voicelang="fr">Escape — Escape — Escape —</line>
+		<narration>NoLifeQueen is trapped amongst the fragments. The flaming Policeman grins. He raises his hand. The hand becomes a fist. He pulls his fist back. He lunges at NoLifeQueen. <comment>Unavoidable.</comment></narration>
+		<narration>The flaming Policeman beats the Yuki out of NoLifeQueen. Yuki peels herself from the wall and brushes herself off. She looks at NoLifeQueen. NoLifeQueen looks at her. Yuki looks up. There is one star.<comment>Player controls Yuki. NoLifeQueen is the game's singular instance of a character who opposes the Player despite being in the party.</comment></narration>
+		<narration>NoLifeQueen runs down the stairway. The Policeman readies again his fist. Yuki runs down the stairway.</narration>
+		<narration>The flame subsides. The Policeman is out of sight. NoLifeQueen keeps running.  The windows erupt with structured flame; peeking through the window are two flaming Salarymen. The Salarymen heave up their fired battering rams. They thrust the rams through the windows.</narration>
+		<line id="5000" speaker="salaryman" voicelang="ja">Break free — Break free — Break free —</line>
+		<narration>NoLifeQueen dodges the first thrust. She runs to Yuki, grabs her, and throws her into the path of the second. And the third. And the fourth. And all after.<comment>The Player is to throw NoLifeQueen into the paths of the rams.</comment></narration>
+		<narration>The Salarymen disappear, for a moment. Yuki glares at NoLifeQueen. NoLifeQueen glares at Yuki. Yuki looks up. There are two stars. Ram comes from the side.<comment>Could hit anyone.</comment></narration>
+		<narration>NoLifeQueen rushes into the elevator. The Salarymen ready again their battering rams. Yuki rushes into the elevator.</narration>
+		<narration>Yuki and NoLifeQueen next to each other in the elevator wait. They shift their eyes to each other, keeping watch. In the space's corner appears a small flame. Now a mid-size flame. Now a large flame. Now two flames. Now three figures. Three Actresses.</narration>
+		<line id="6000" speaker="actress" voicelang="fr">Speak truth — Speak truth — Speak truth —</line>
+		<narration>The Actresses scream and each tear off the elevator's carpeting and panels and poles and use them in attempt to trip NoLifeQueen and Yuki. NoLifeQueen forces Yuki into the oh-so-trippable elevator's open middle. Three floors left.</narration>
+		<narration>The Actresses tear apart the walls of the elevator and attempt to hit NoLifeQueen and Yuki with them. NoLifeQueen throws Yuki into the paths of the oft-swung walls. Two floors left.</narration>
+		<narration>Two of the Actresses grab Yuki and NoLifeQueen and on opposite sides of the elevator propel them toward the contraptions and gears of the elevator. The third actress stands in the middle, towering a bit over the blondes. She then paces back and forth, ignoring them.<comment>The Player uses the Main Action to get an Actress' attention.</comment></narration>
+		<narration>Both Yuki and NoLifeQueen struggle and with one arm extended for that Actress and pull on her dress.<comment>Zoom in continuously on Yuki.</comment></narration>
+		<narration>The third Actress eventually takes her hand from behind her back — in that hand — something shiny — a gun.<comment>Main Action changes to reaching for the gun.</comment> That Actress waves the gun around in the face of Yuki, then NoLifeQueen, then again Yuki, pacing back and forth between the two.<comment>The Player must accurately aim the cursor at the gun and use the Main Action to grab it. NoLifeQueen must attempt and fail the first grab to show the Player the goal of this section.</comment></narration>
+		<condition>
+			<choice number="1">
+				<narration>NoLifeQueen gets her gun.</narration>
+				<narration>She shoots Yuki's Actress. Yuki hits her head on a gear and collapses.</narration>
+				<narration>Yuki wakes up in a room.</narration>
+			</choice>
+			<choice number="2">
+				<narration>Yuki gets her gun.</narration>
+				<narration>She shoots NoLifeQueen's Actress. The bullet hits some sort of tank and explodes.</narration>
+				<narration>Yuki is thrust into a room.</narration>
+			</choice>
+		</condition>
+		<narration>Yuki gets up. She looks around. A sea of towers lay before her, whirring, beating, living. NoLifeQueen runs past her.</narration>
+		<line id="7000" speaker="nolifequeen" voicelang="fr">It's hot!</line>
+		<narration>Yuki walks past a tower. <comment>No scene progression until walking past that first tower.</comment>She looks down.</narration>
+		<line id="8000" speaker="yuki" voicelang="ja">Server rooms usually are.</line>
+		<narration>The server whirs and beats and pulses and grows redder and louder and shakier and, finally, explodes. Blazes. Flames. Its flames become — The Actress.<comment>The single Actress that the Player had Yuki tug at in Scene 5000.</comment>The Actress stands.</narration>
+		<line id="9000" speaker="actress" voicelang="fr">Live — Live — Live.</line>
+		<narration>The Actress obscures all exits and marches at Yuki.<comment>Crushing wall effect.</comment>Invading time, invading mind, invading space — she throws towers through the building's glass edge. It breaks. She marches. The Actress leaves Yuki and the Queen of No Life but a smidgeon of space with which to find their resolve; Yuki has the vantage, NoLifeQueen gets the edge. NoLifeQueen shuts her lids, spreads her arms, and standstill waits.<comment>The Player gets the option of how to send her off the edge.</comment></narration>
+		<condition>
+			<choice number="1">
+				<narration>Yuki gets her gun and shoots NoLifeQueen in the stomach.</narration>
+				<narration>NoLifeQueen screams and writhes and falls forward. She, of her own accord, delivers herself from the building's edge.</narration>
+			</choice>
+			<choice number="2">
+				<narration>Yuki pushes NoLifeQueen.</narration>
+				<narration>NoLifeQueen stumbles and,<comment>Slow motion,</comment>gazes at Yuki and smiles. She, of Yuki's choosing, falls from the building's edge.</narration>
+			</choice>
+		</condition>
+		<narration>Yuki's towers topple and crackle and send flames to Yuki — around her — on her. Yuki's fringe catches flame. Yuki's fringe caresses her cheek. Yuki's face is lit ablaze. Yuki screams and writhes and slams her palms to her cheeks, stumbling among the floor.<comment>Player is still in control. Regardless of the action,</comment></narration>
+		<narration>Yuki falls from structure's edge.</narration>
+		<narration>The wind howls. The smoke rises. The sirens blare. Yet, all concrete matters not. <comment>Fade inanimate objects to a near-invisible alpha transparency.</comment>And so enters dawn.</narration>
+		<narration><comment>Pedestal down. Zoom out.</comment>Hanging — Backwards — From the building's edge — is Yuki. With all her might, she grasps that little edge. With all her might, she keeps open her eyes. With all her might, she cries, and yells, and howls:</narration>
+		<line id="10000" speaker="yuki" voicelang="fr">My name is Yuki Soleil-Takeshi,</line>
+		<line id="11000" speaker="yuki" voicelang="fr">and I am not French nor Japanese.</line>
+		<line id="12000" speaker="yuki" voicelang="fr">My name is Yuki Soleil-Takeshi,</line>
+		<line id="13000" speaker="yuki" voicelang="fr">and I am not Real nor Fake.</line>
+		<line id="14000" speaker="yuki" voicelang="fr">My name is Yuki Soleil-Takeshi, </line>
+		<line id="15000" speaker="yuki" voicelang="fr">and I am not Perfect nor Flawed.</line>
+		<line id="16000" speaker="yuki" voicelang="fr">My name is Yuki Soleil-Takeshi, and I am alive.</line>
+		<narration><comment>Roll credits.</comment>Before Yuki lies all with true tongue, all with true beauty, all with true truth. Endless possibility — endless chaos — and yet — endless structure — life. The world. And she likes it more.</narration>
+	</part>
+</scriptment>

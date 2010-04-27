@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="98000" point="power_out" localizationstatus="original" fictionaldate="2011-12-04" status="final">
+	<part>
+		<narration>Through Yuki's apartment echo the sounds of sonic boom, sonic boom, sonic boom. Nozomi pushes buttons. Yuki laughs. From the edge of the bed Nozomi raises.</narration>
+		<line id="1000" speaker="nozomi" voicelang="ja">I'm gonna go get something out of the other house, okay?</line>
+		<line id="2000" speaker="yuki" voicelang="ja">Don't be gone too long.</line>
+		<narration><comment>Dolly out of the door.</comment>Yuki stares out the door as Nozomi leaves. <comment>Cut back to keep only the room in view.</comment></narration>
+		<narration>The single lightbulb on the lamp near the television flickers. Yuki raises her brow.<comment>Yuki urges Player to get a look at the bulb.</comment></narration>
+		<narration>Yuki observes the bulb. It flickers and the television turns off.<comment>Here, the Player can use Main Action to attempt to turn the device back on.</comment>Attempts to revive it fail.</narration>
+		<narration>Yuki views electric to electric to electric, and with every view they die and fail to be revived.<comment>The various electric items in the room are brought to the Player's attention, and every time the Player goes to observe one, another dies in the distance.</comment></narration>
+		<narration>All that remains is the single lightbulb on the single lamp near the single television with its last flicker. Yuki nears it. It dies. Not a single whirr or buzz lives in this room. Only Yuki. Only Yuki. Only Yuki, who drops to knees. Only Yuki, who curls fetal. Only Yuki, who tears by eyes and stares out wide and into the cracks of walls sings:</narration>
+		<line id="3000" speaker="yuki" voicelang="en">You don't have to win to be happy~</line>
+		<line id="4000" speaker="yuki" voicelang="en">But being happy is just how you win~</line>
+		<narration>Nozomi enters the room and the thing she got drops. She gasps and runs to her wife's side. Yuki rocks back and forth and sings:</narration>
+		<line id="5000" speaker="yuki" voicelang="en">So why do we all fight for freedom~</line>
+		<line id="6000" speaker="yuki" voicelang="en">When we all had freedom within~</line>
+		<line id="7000" speaker="yuki" voicelang="en">Together, your hands, and calm, your heart~</line>
+		<line id="8000" speaker="yuki" voicelang="en">Your circumstances aren't your mind~</line>
+		<line id="9000" speaker="yuki" voicelang="en">I know we aren't all from the same world~</line>
+		<line id="10000" speaker="yuki" voicelang="en">But we all live in the same time~</line>
+		<line id="11000" speaker="yuki" voicelang="en">We're bridging the gap~</line>
+		<narration>Yuki focuses on her voice, her downcast eyes shielded by her side-swept fringe. <comment>Zoom in on Yuki's face. Sudden shift.</comment></narration>
+	</part>
+</scriptment>

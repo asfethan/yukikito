@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="70000" point="dream_abyss" localizationstatus="original" fictionaldate="2011-10-09" status="final">
+	<part>
+		<narration>NoLifeQueen &#x2014; Yuki &#x2014; NoLifeQueen comes to. She looks around. All else is pitch black.<comment>NoLifeQueen looks at the camera.</comment></narration>
+		<line id="1000" speaker="nolifequeen" voicelang="fr">Yuki, I knew I would end up in your dreams.</line>
+		<narration>NoLifeQueen twirls.</narration>
+		<line id="2000" speaker="nolifequeen" voicelang="fr">Is it because I'm prettier than you?</line>
+		<narration>NoLifeQueen flexes her little arm through the sleeveless dress.</narration>
+		<line id="3000" speaker="nolifequeen" voicelang="fr">Is it because I'm stronger than you?</line>
+		<narration>NoLifeQueen smirks.</narration>
+		<line id="4000" speaker="nolifequeen" voicelang="fr">Is it because I'm more real than you?</line>
+		<line id="5000" speaker="nolifequeen" voicelang="fr">Gamers are so predictable.</line>
+		<line id="6000" speaker="nolifequeen" voicelang="fr">What is a dream but One More Game?</line>
+		<narration><comment>Zoom out.</comment>Galaxies materialize and fly past NoLifeQueen. One blinds her. When it is long gone, she looks up.</narration>
+		<narration>A skeleton strapped to a rocket. His karategi catches the celestial flame. His old bones creak to an otherworldly shriek. He looks down on the little lady.</narration>
+		<line id="7000" speaker="segata" voicelang="ja">You have put forth no true effort to save Sega.</line>
+		<condition>
+			<choice number="1">
+				<comment>The Player decided to do a sequel in any Conceptualization stage so far.</comment>
+				<line id="8000" speaker="segata" voicelang="ja">You have bastardized generations of Sega's work with your reimaginings.</line>
+			</choice>
+			<choice number="2">
+				<comment>The Player never made a sequel in any Conceptualization stage so far.</comment>
+				<line id="9000" speaker="segata" voicelang="ja">You have made no effort to continue Sega's legacy.</line>
+			</choice>
+		</condition>
+		<condition>
+			<choice number="1">
+				<comment>The Player hired every candidate during any Expansion so far.</comment>
+				<line id="10000" speaker="segata" voicelang="ja">You accepted every Tom, Dick, and Harry that came your way.</line>
+			</choice>
+			<choice>
+				<comment>The Player did not hire every candidate during Expansion so far.</comment>
+				<line id="11000" speaker="segata" voicelang="ja">Your selection process dashed your so-called equal opportunity employment effort.</line>
+			</choice>
+		</condition>
+		<condition>
+			<choice number="1">
+				<comment>The Player wrote too many documents for Planning and Elaboration.</comment>
+				<line id="12000" speaker="segata" voicelang="ja">You spent too much time planning and had very little action.</line>
+			</choice>
+			<choice number="2">
+				<comment>The Player didn't write enough documents, leaving them to deprecate during Planning and Elaboration.</comment>
+				<line id="13000" speaker="segata" voicelang="ja">Your development process was directionless and undisciplined.</line>
+			</choice>
+		</condition>
+		<condition>
+			<choice number="1">
+				<comment>The Player often dismissed Design attributes in any Tuning stage.</comment>
+				<line id="14000" speaker="segata" voicelang="ja">You often disregarded the most important element of a game: its design.</line>
+			</choice>
+			<choice number="2">
+				<comment>The Player often dismissed non-Design attributes in any Tuning stage.</comment>
+				<line id="15000" speaker="segata" voicelang="ja">You did not bring your game's elements into a coherent whole.</line>
+			</choice>
+		</condition>
+		<condition>
+			<choice number="1">
+				<comment>The Player decided not to reserve any employees during any Shipping stage so far.</comment>
+				<line id="16000" speaker="segata" voicelang="ja">You fruitlessly overworked your employees when the job was done.</line>
+			</choice>
+			<choice number="2">
+				<comment>The Player reserved many employees during any Shipping stage so far.</comment>
+				<line id="17000" speaker="segata" voicelang="ja">You didn't keep your employees up to speed when the job was done.</line>
+			</choice>
+		</condition>
+		<condition>
+			<choice number="1">
+				<comment>The Player often agreed with critics during the Review stage.</comment>
+				<line id="18000" speaker="segata" voicelang="ja">You too often acknowledged the unsightly opinions of game journalists.</line>
+			</choice>
+			<choice number="2">
+				<comment>The Player often disagreed with critics during the Review stage.</comment>
+				<line id="19000" speaker="segata" voicelang="ja">You too often feared criticism.</line>
+			</choice>
+		</condition>
+		<line id="20000" speaker="segata" voicelang="ja">You are a disgrace to Sega.</line>
+		<narration>The skeleton wails. The stars implode. The rocket sets its way to explode. The light of flame reveals, written on all of the rocket's sides, in all the world's tongues, a single phrase.</narration>
+		<line id="21000" speaker="game" voicelang="ja">Your Future</line>
+	</part>
+</scriptment>

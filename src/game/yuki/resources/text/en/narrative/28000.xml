@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="28000" point="clan2_sunsetdocks" localizationstatus="original" fictionaldate="2011-07-01" status="final">
+	<part>
+		<narration>Yuki &#x2014; NoLifeQueen &#x2014; surfaces from the sea. In the distance surfaces a woman in pajamas. satchmo_omega, reads her tag.</narration>
+		<line id="1000" speaker="satchmo_omega" voicelang="ja">Yuki!</line>
+		<line id="2000" speaker="satchmo_omega" voicelang="ja">It's your girl, Nozomi!</line>
+		<line id="3000" speaker="yuki" voicelang="fr">You're sitting next to me In Real Life.</line>
+		<narration>Bullets pound the once-serene waves.</narration>
+		<line id="4000" speaker="satchmo_omega" voicelang="ja">We're sitting ducks! Get out of the water!</line>
+		<narration>satchmo darts to land. NoLifeQueen follows.</narration>
+		<line id="5000" speaker="satchmo_omega" voicelang="ja">We've been getting reports of a group of players modifying accounts.</line>
+		<line id="6000" speaker="satchmo_omega" voicelang="ja">They plan on modifying game databases next.</line>
+		<line id="7000" speaker="satchmo_omega" voicelang="ja">We'll have to beat them to the library&#x2014;</line>
+		<narration>A group of players rush past on jet-skis.<comment>The music stops for a second.</comment></narration>
+		<line id="8000" speaker="nolifequeen" voicelang="ja">We gotta go. Yuki, get on the ski.</line>
+		<narration>NoLifeQueen makes her decision.<comment>The Player can choose between chasing the jet-ski riders on foot or by jet-ski. Both are at similar speeds. Chasing by foot provides more opportunities for cover, while chasing by ski provides more opportunity for attack.</comment></narration>
+		<narration>After a time, the two men go into a manmade tunnel and close the entrance. The jet-ski satchmo's riding slams into the closed gate and explodes. The explosion sends NoLifeQueen hundreds of feet into the air.<comment>Impressment opportunity.</comment>She lands in a crowd of players. Davis is there!</narration>
+		<line id="9000" speaker="davis" voicelang="en">Yuki, darling!</line>
+		<line id="10000" speaker="satchmo_omega" voicelang="en">Hey, what about me?</line>
+		<narration>satchmo and Davis laugh.</narration>
+		<line id="11000" speaker="davis" voicelang="en">Nozomi, darling! I'll never forget the woman who drew this&#x2014;</line>
+		<line id="12000" speaker="nolifequeen" voicelang="en">We have perps to follow.</line>
+		<line id="13000" speaker="nolifequeen" voicelang="en">Everybody, move out.</line>
+		<narration>Everyone mans one of the multitudes of vehicles scattered around the area. Allies follow the path of the tunnel.</narration>
+		<line id="14000" speaker="satchmo_omega" voicelang="ja">We'll cut them off at the pass.</line>
+		<narration>The allies once again cross paths with the perpetrators.</narration>
+		<line id="15000" speaker="davis" voicelang="en">There they are. Let's show them a good time, eh?</line>
+		<line id="16000" speaker="perp" voicelang="en">No, it is you who is going to be the very sad!</line>
+		<narration>The secondary riders on the perpetrator jet-skis break out the rocket launchers.</narration>
+		<line id="17000" speaker="davis" voicelang="en">Fffffffff&#x2014;</line>
+		<narration>The perps begin launching rockets astray. NoLifeQueen attempts to comfort everyone.</narration>
+		<line id="18000" speaker="nolifequeen" voicelang="en">Stay calm, stay alive, stay&#x2014;</line>
+		<narration>The perps launch a rocket into a rocket. The resulting explosion launches a wave one hundred feet high.<comment>The splash should completely blind the Player for a time.</comment></narration>
+		<narration>Riding the remains of a wrecked machine are a lonely lovely couple. NoLifeQueen and satchmo_omega emerge from the smoke and splash, triumphant.</narration>
+		<line id="19000" speaker="satchmo_omega" voicelang="ja">Saved your life!</line>
+		<narration>Half of the perps zoom by.<comment>It's only the riders, and they're setting traps. Don't tell the Player that it's only some of the perps.</comment></narration>
+		<line id="20000" speaker="nolifequeen" voicelang="ja">Let's get those guys.</line>
+		<narration>NoLifeQueen and satchmo_omega chase after them.<comment>The Player can actually beat them this time.</comment></narration>
+		<narration>For their final act, the perpetrators lay an inescapable trap &#x2014; a barrier of corrupted data that, when collided with, destroys vehicles and exploits the physics system to launch people. The lovely couple hits it; Nozomi flies hundreds of feet west and NoLifeQueen far east. Yuki, watching her avatar zoom through miles of forest independent of her control, pouts.<comment>Dolly out camera from The Clan to Real Life.</comment>Yuki and Nozomi are playing on laptops in the newly established Bar.</narration>
+		 <line id="21000" speaker="yuki" voicelang="fr">So these guys are physics crackers.</line>
+		<narration>Conservatively-dressed Ayane, neutral mouth and still-right-hair, brings the lovely couple coffee. As she walks away, Nozomi breaks from the screen to get a view of her from behind? Nozomi goes back to the game.</narration>
+		<line id="22000" speaker="nozomi" voicelang="en">Davis, Yuki's in Act 2.</line>
+		<line id="23000" speaker="yuki" voicelang="en">Act 2?</line>
+		<narration>Yuki looks back at the game.<comment>Sudden cut to The Clan.</comment>NoLifeQueen is flying, flying, flying and she crashes through the Library window. Nozomi is next to Yuki in person but not in game. Nozomi looks at Yuki's screen.</narration>
+		<line id="24000" speaker="nozomi" voicelang="ja">Yuki, make sure those books don't get deleted.</line>
+		<line id="25000" speaker="nozomi" voicelang="ja">Every book represents a user account.</line>
+		<line id="26000" speaker="nozomi" voicelang="ja">We lose a book, we lose a player.</line>
+		<line id="27000" speaker="nozomi" voicelang="en">We'll be over there in a sec!</line>
+		<narration>NoLifeQueen infiltrates the library and beats up the perpetrators. After that, satchmo_omega, Davis, and the rest of Yuki's Clan bust through a door.</narration>
+		<line id="28000" speaker="davis" voicelang="en">We're here!</line>
+		<narration>The reinforcements scan the room for enemies.</narration>
+		<line id="29000" speaker="davis" voicelang="en">Oh. You're done.</line>
+		<line id="30000" speaker="davis" voicelang="en">She just defeated a room full of perps! Round of applause for Vice President Takeshi!</line>
+		<narration>Everyone applauds. Wow, a corporate figure associating with players? One that's good at the game, too? Cheers all around. satchmo_omega raises her arm to silence the crowd.</narration>
+		<line id="31000" speaker="satchmo_omega" voicelang="en">Wait.</line>
+		<line id="32000" speaker="satchmo_omega" voicelang="en">Abnormal activity at 12000 game units relative.</line>
+		<line id="32100" speaker="satchmo_omega" voicelang="en">Get ready to catch it, Yuki.</line>
+		<line id="33000" speaker="nolifequeen" voicelang="fr">How far away is 12000 game units?</line>
+		<narration>A military utility vehicle crashes through the east window of the library.<comment>Dolly out. The Player has to have Yuki catch it.</comment></narration>
+		<condition>
+			<choice number="1">
+				<narration>The vehicle hits NoLifeQueen in the face. It cat-lands next to a bookshelf.</narration>
+				<line id="34000" speaker="nozomi" voicelang="ja">I wasn't joking.</line>
+			</choice>
+			<choice number="2">
+				<narration>NoLifeQueen catches the beast-machine. She places it neatly next to her. Davis, satchmo_omega, and the bystanders applaud.</narration>
+			</choice>
+		</condition>
+		<line id="34000" speaker="nozomi" voicelang="ja">Not done yet.</line>
+		<narration>Seven more trucks crash through the windows of the library, each giving NoLifeQueen less time to intercept. The vehicles are all neatly arranged. Silence. NoLifequeen flails her arms and jumps up and down.</narration>
+		<line id="35000" speaker="nolifequeen" voicelang="ja">Rides!</line>
+		<narration>Everyone mans a vehicle. <comment>Player doesn't have to be driver, just get into a vehicle. Ramp up the music!</comment></narration>
+		<line id="36000" speaker="nolifequeen" voicelang="ja">Let's terminate some crackers.</line>
+		<narration>Every driver turns the ignition key. The wind blows through the vast library's open windows. Some books are scattered on the ground, their pages flipping in the breeze. Some players are sitting too close to their microphones, their shallow breaths intermingling with the chirps of little video game-crickets and little video game-owls and then the vehicles explode.</narration>
+		<line id="37000" speaker="yuki" voicelang="fr">What!</line>
+		<narration>The screen goes white. For a time, nothing is audible. Nothing is visible. Then comes the wind. It sounds divine. Then comes the clouds. They look beautiful.<comment>Camera should be extremely close to NoLifeQueen's face.</comment> NoLifeQueen opens her eyes. She is alone. She has full health.<comment>Zoom out extremely far to get a view of NoLifeQueen's position in the sky.</comment>From hundreds of feet in the air, NoLifeQueen falls past a cargo copter with a  box carrying a cavalcade of texts, and lands next to the other players, just next to the library. Nozomi, sitting next to Yuki, relays a report.</narration>
+		<line id="38000" speaker="nozomi" voicelang="ja">Bad news, honey.</line>
+		<line id="39000" speaker="nozomi" voicelang="ja">This zone's boundary line has been turned into a shell script:</line>
+		<line id="40000" speaker="nozomi" voicelang="ja">Force delete, directories included.</line>
+		<line id="41000" speaker="nozomi" voicelang="ja">The script will be executed on every file and directory it touches.</line>
+		<narration>Yuki speaks into the microphone.</narration>
+		<line id="42000" speaker="yuki" voicelang="en">That includes that box full of user accounts.</line>
+		<line id="43000" speaker="yuki" voicelang="en">We've got to stop the helicopter!</line>
+		<narration>NoLifeQueen and her Clan take care of this by any means necessary.</narration>
+		<condition>
+			<choice number="1">
+				<narration>NoLifeQueen and company destroy the heavily-guarded helicopter. This destroys the majority of the books. Many users are lost.</narration>
+			</choice>
+			<choice number="2">
+				<narration>NoLifeQueen sneaks onto the helicopter and cuts the cord connecting the copter and the case. Some books are destroyed.</narration>
+				<line id="44000" speaker="yuki" voicelang="en">Bring that back to the Library.</line>
+			</choice>
+			<choice number="3">
+				<narration>NoLifeQueen hijacks the helicopter and brings it back to the library. No books are destroyed.</narration>
+			</choice>
+		</condition>
+		<narration>Yuki sulks.<comment>The music stops.</comment></narration>
+		<line id="45000" speaker="yuki" voicelang="en">There's no way to get rid of that wall, is there?</line>
+		<narration>Davis sighs.</narration>
+		<line id="46000" speaker="davis" voicelang="en">Nope. This is the last of Twilight Sea.</line>
+		<narration>All Allies stand their ground in silent contemplation, to get the last sight of the Twilight Sea. The wall of rogue commands deletes all data excluding avatars. Everyone looks around. Darkness.</narration>
+		<line id="47000" speaker="yuki" voicelang="en">Well...</line>
+		<line id="48000" speaker="yuki" voicelang="en">Good night, guys.</line>
+		<narration>NoLifeQueen's Clan logs out. Nozomi logs out. Yuki logs out. Game Over.</narration>
+	</part>
+</scriptment>

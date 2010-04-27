@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="5000" point="yuki_inclass" localizationstatus="original" fictionaldate="1997-01-10" status="final">
+	<part name="school_in">
+		<narration>Yuki, panting, opens the door to the classroom and enters a mass of now-smiling faces. Her classmates cheer.</narration>
+		<line id="1000" speaker="lyon_classmates" voicelang="fr">Yuki!</line>
+		<line id="2000" speaker="lyon_teacher" voicelang="fr">The party's finally started.</line>
+
+		<line id="3000" speaker="yuki" voicelang="fr">Hey, everyone. Ready for that biology test?</line>
+		<narration>Once again in unison, the Classmates answer.</narration>
+		<line id="4000" speaker="lyon_classmates" voicelang="fr">Cancelled!</line>
+		<line id="5000" speaker="yuki" voicelang="fr">Why?</line>
+		<narration>The teacher smiles.</narration>
+		<line id="6000" speaker="lyon_teacher" voicelang="fr">Because you're so adorable, I couldn't stand the thought of seeing you fail.</line>
+		<narration>Yuki smirks.</narration>
+		<line id="7000" speaker="yuki" voicelang="fr">You know what that means, everyone.</line>
+		<narration>The entire class leans in, awaiting orders.</narration>
+		<line id="8000" speaker="lyon_classmates" voicelang="fr">What does it mean, Yuki?</line>
+		<narration>Yuki rubs her chin, thinking of an answer. She snaps her fingers. Eureka! Yuki flails her arms around.</narration>
+		<line id="9000" speaker="yuki" voicelang="fr">Recess!</line>
+		<narration>Everyone including the teacher rushes past Yuki, out of the classroom, and onto the playground.</narration>
+		<line id="10000" speaker="lyon_classmates" voicelang="fr">Yeah! Race you there!</line>
+		<line id="11000" speaker="lyon_teacher" voicelang="fr">I love Fridays!</line>
+		<narration>From comfort, from security, from control, Yuki sighs.</narration>
+
+		<line id="11100" speaker="yuki" voicelang="fr">This is my classroom.</line>
+ <narration>Yuki walks to the classroom door. Upon grasping the knob, she drifts.<comment>When the Player walks Yuki through the door, sudden shift.</comment></narration>
+	</part>
+	<part name="cannes_1994" fictionaldate="1994-05-17">
+		<narration><comment>The camera zooms out extremely far, and the year is displayed in the bottom right corner.</comment> 1994. Yuki, seven years old, has her mother's hand in vicegrip. She shuts her eyes as mother drags her through a sea of fame. The two hover near the red carpet. Yuki shudders.</narration>
+		<line id="12000" speaker="yuki" voicelang="fr">Mom, there are too many people here and none of them are listening to me.</line>
+		<line id="13000" speaker="asami" voicelang="fr">Well, are you listening to them?</line>
+		<line id="13100" speaker="yuki" voicelang="fr">No, I don't know what they're saying!</line>
+		<line id="14000" speaker="asami" voicelang="fr">Chill out&#x2014; not many children get to experience this.</line>
+		<narration>As the two continue, a man walks up to them.</narration>
+		<line id="15000" speaker="eastwood" voicelang="en">Hey!</line>
+		<narration>Asami releases her daughter's hand and springs up.</narration>
+		<line id="16000" speaker="asami" voicelang="en">Clint!</line>
+		<narration>Asami and the man hug.</narration>
+		<line id="17000" speaker="eastwood" voicelang="en">Asami, it's been too long&#x2014;</line>
+		<narration>Daughter steps behind her mother. The man gasps and points at Yuki.</narration>
+		<line id="18000" speaker="eastwood" voicelang="en">My god, is that your kid? Is this the little bundle of joy I've been hearing about?</line>
+		<narration>Asami pushes Yuki forward.</narration>
+		<line id="19000" speaker="asami" voicelang="en">Sure is. Don't scare her too much, now&#x2014; this is her first film festival.</line>
+		<line id="19100" speaker="asami" voicelang="en">Go on, honey, say hello to Mr. Eastwood.</line>
+		<narration>Eastwood kneels down and attempts to match Yuki's cadence. He looks up at her, smiles calmly, and asks:</narration>
+
+		<line id="20000" speaker="eastwood" voicelang="en">Garglegarglehurkadurkaderpderphurrdurr?</line>
+			<condition id="20000">
+				<choice number="1">
+					<comment>Yuki distorts the phrase as "...été troublé par la neige?"</comment>
+					<line id="21000" speaker="yuki" voicelang="fr">Usually no snow in May.</line>
+					<line id="22000" speaker="eastwood" voicelang="en">Heh, I think we're having a bit of a communication breakdown.</line>
+					<line id="23000" speaker="asami" voicelang="en">Her name is Yuki.</line>
+				</choice>
+				<choice number="2">
+					<line id="23100" speaker="yuki" voicelang="en">Name? Is &#x2014; uh &#x2014; Yuki.</line>
+					<line id="24000" speaker="eastwood" voicelang="en">That's a cute name.</line>
+
+				</choice>
+			</condition>
+			<narration>Eastwood gets up and brushes off his knees.</narration>
+			<line id="24200" speaker="eastwood" voicelang="en">Asami, when are you planning on getting back into composing for film? It's been a while.</line>
+			<line id="24300" speaker="asami" voicelang="en">Well, you see, what had happened was&#x2014;</line>
+			<narration>The announcer hoots and whistles through an amplifier. New stars have arrived. Three Actresses sashay across the red carpet. The blinding flash of of a billion bulbs blinds Yuki for but a single second. Unperturbed by the press, they continue to float by, enjoying the herd's obsession. The carpet belonged to them. The festival was under their control. Behind trail Eastwood, Asami, and Yuki, the little one's mouth agape.</narration>
+			<line id="25000" speaker="yuki" voicelang="fr">Were they all in the movies?</line>
+			<narration>Asami holds Yuki's hand a bit tighter.</narration>
+			<line id="26000" speaker="asami" voicelang="fr">They weren't just in the movies; they owned the movies.</line>
+			<line id="26100" speaker="yuki" voicelang="fr">This is their stage &#x2014;</line>
+			<line id="27000" speaker="eastwood" voicelang="en">Bah, bunch of life-size Barbie dolls. I've seen better actresses in&#x2014;</line>
+			<narration>Yuki rushes past Asami and Eastwood. Cameras, voices, sights and sounds all become distant. Yuki needed to catch sight of, needed to converse with, needed to wish upon a star.<comment>Asami and Eastwood become part of the party. If the player switches to any other character, Yuki continues to move toward The Actresses.</comment></narration>
+			<line id="28000" speaker="eastwood" voicelang="en">Yuki!</line>
+			<line id="29000" speaker="asami" voicelang="en">Calm down&#x2014; let's just follow her. This is the most outgoing she's been all day.</line>
+			<line id="29100" speaker="eastwood" voicelang="en">I'm not worried about the girl, I'm worried about how she's gonna play with those dolls.</line>
+			<narration><comment>Heavily gaussian blur here anything that's not the subtitles or The Actresses. Every Actress has their back turned to the game camera, facing the journalists' cameras. The Player uses the Main Action to get an Actress' attention.</comment>Yuki reaches an Actress and pulls on her dress.</narration>
+			<line id="30000" speaker="yuki" voicelang="fr">Excuse me.</line>
+			<narration>No response. The Actresses bathe in the light of the cameras. Yuki pulls the dress again.</narration>
+			<line id="31000" speaker="yuki" voicelang="fr">Excuse me&#x2014;</line>
+			<narration>The dress falls. <comment>The blur stops. Reality returns.</comment></narration>
+			<narration>Yuki gasps. Silence. The cameramen stop. One takes a picture. The actress' breasts are covered. Her beauty beams through the brassiere. Yuki motionlessly marvels at her flawless form and then &#x2014; Outrage! Everyone yells, everyone screams, everyone scorns that child Yuki, destroyer of illusions.</narration>
+			<condition>
+				<choice number="1">
+					<comment>If Yuki pulled on the dress of The Actress to the far left...</comment>
+					<narration>The actress smiles and puts her shoulder around Yuki. Yuki blushes. Actress looks at a camera.</narration>
+					<line id="32000" speaker="actress" voicelang="fr">Now we know why bras are so important.</line>
+				</choice>
+				<choice number="2">
+					<comment>If Yuki pulled on the dress of The Actress in the middle...</comment>
+					<narration>The actress smiles, and puts both of her hands on Yuki's shoulders. Yuki blushes. The actress looks up at the camera.</narration>
+					<line id="33000" speaker="actress" voicelang="fr">This little girl's gonna grow to be a groundbreaking Actress!</line>
+				</choice>
+				<choice number="3">
+					<comment>If Yuki pulled on the dress of The Actress to the far right...</comment>
+					<narration>The actress picks Yuki up. Yuki blushes. The actress looks up at the camera.</narration>
+					<line id="34000" speaker="actress" voicelang="fr">Kids these days are getting pretty brave, huh?</line>
+				</choice>
+			</condition>
+			<narration>The Actress and Yuki look at each other and laugh. As The Actress continues laughing, Yuki stares into her eyes.</narration>
+			<line id="34100" speaker="yuki" voicelang="fr">This carpet is hers.</line>
+			<narration><comment>Sudden cut to the theater.</comment></narration>
+		
+			<narration>Everyone goes to their seats. <comment>Everyone is walking to their seats in the theater. Everyone is in the following order from left to right: Eastwood, Asami, Yuki, The Actress. As they walk...</comment></narration>
+			<line id="35000" speaker="actress" voicelang="fr">So you wanted to figure out how I have such presence?</line>
+			<narration>Yuki nods.</narration>
+			<line id="35100" speaker="actress" voicelang="fr">First remember,</line>
+			<line id="35100" speaker="actress" voicelang="fr">Influence is the marriage of intelligence and appearance.</line>
+			<line id="36000" speaker="actress" voicelang="fr">In terms of doing smart things, let's see; besides having schoolgirls strip me on camera...</line>
+			<narration>The actress thinks.</narration>
+			<line id="37000" speaker="actress" voicelang="fr">I cherish my eyes. They're my moneymakers.</line>
+			<line id="38000" speaker="actress" voicelang="fr">Also, wear dresses that fit&#x2014; looking like a ghost isn't attractive, and you want to be gorgeous.</line>
+			<line id="39000" speaker="actress" voicelang="fr">And now, the most important rule of all:</line>
+			<narration>The school bell rings. Yuki and The Actress look up. The rest of the audience fades from view and from mind, paying no attention to Yuki's re-entry to the present.<comment>Close-up sudden cut to Yuki at the front of the school.</comment></narration>
+	</part>
+	<part name="school_back" fictionaldate="1997-01-10">
+		<narration>JJ shakes Yuki. The two stand outside the school.</narration>
+		<line id="40000" speaker="jj" voicelang="fr">Hey. We're going home.</line>
+		<narration>JJ begins to walk. Yuki sulks. She mumbles the rule to herself.</narration>
+		<line id="41000" speaker="yuki" voicelang="fr">"Your greatest asset, strongest differentiator, and deity of self-esteem...</line>
+		<line id="42000" speaker="yuki" voicelang="fr">...is your hair."</line>
+		<narration>Yuki follows JJ. In the midst of her walk, sudden cut to the apartments in a way so that Yuki bumps into something.</narration>
+	</part>
+</scriptment>

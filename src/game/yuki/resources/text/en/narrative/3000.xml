@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="3000" point="yuki_coffeetable" localizationstatus="original" fictionaldate="1997-01-10" status="final" >
+	<part name="enter_commons">
+		<narration lineid="">In the commons room sit Yuki's parents. Asami, curled on a wheeled chair, seats a-crescent, strumming. Jacques reads a newspaper. Enter Yuki.<comment>Yuki runs into the view of the camera again, and the player reassumes control.</comment></narration>
+		<narration lineid="">Yuki takes a deep breath, looks her mother in the eyes, and speaks in second-tongue:</narration>
+		<line id="1000" voicelang="ja" speaker="yuki">Good night!</line>
+		<narration lineid="">Asami looks out of the window and into the sun.</narration>
+		<line id="2000" voicelang="fr" speaker="asami">What a fine night this is.</line>
+		<narration lineid="">Yuki frowns.</narration>
+		<line id="3000" voicelang="fr" speaker="yuki">Is my Japanese still that terrible? I'm never right.</line>
+		<narration lineid="">Asami pats Yuki.</narration>
+		<line id="4000" voicelang="fr" speaker="asami">Being right is only half the battle.</line>
+		<line id="5000" voicelang="fr" speaker="asami">Remember that greatness knows not language nor country.</line>
+		<narration>Asami relaxes, spine concave. Her neck parallels the tile. Yuki folds her arms.</narration>
+		<line id="5100" voicelang="fr" speaker="yuki">Mom, you're sitting funny again.</line>
+		<line id="5200" voicelang="fr" speaker="yuki">It's scary.</line>
+		<narration>Asami frowns. Fleeting violent twitch. Calm. Breathing practice. Asami relaxes further, placing her feet on the tall table. She laughs?</narration>
+		<line id="5300" voicelang="ja" speaker="asami">My condolences, little explorer. I need the moon to stay a fortnight.</line>
+		<narration>Yuki pivots to her father. Father glares at the technology section. The headline reads:</narration>
+		<line id="6000" speaker="game" voicelang="fr">Ministry of Culture to Pass Software Identity Act</line>
+		<narration lineid="">Yuki frolics to Jacques.</narration>
+		<line id="7000" speaker="yuki" voicelang="fr">Dad! Dad!</line>
+		<narration lineid="">Jacques peeks over his paper.</narration>
+		<line id="8000" speaker="jacques" voicelang="fr">Yo.</line>
+		<narration lineid=""> He looks back down at the newspaper. Asami glares at him. Yuki gushes.</narration>
+		<line id="9000" speaker="yuki" voicelang="fr">Remember that old machine where the screen was acting funny?</line>
+		<line id="10000" speaker="jacques" voicelang="fr">Uh-huh.</line>
+		<line id="11000" speaker="yuki" voicelang="fr">I recompiled the graphics driver wrapper, and now double buffering works!</line>
+		<line id ="12000" speaker="jacques" voicelang="fr">Cool.</line>
+		<narration lineid="">Yuki's excitement fades.</narration>
+		<narration lineid="">Jacques Jr, Yuki's brother, charges downstairs.</narration>
+		<line id="13000" speaker="jj" voicelang="fr">Mom! Mom!</line>
+		<narration lineid="">Asami looks up from her guitar.</narration>
+		<line id="14000" speaker="asami" voicelang="fr">Hi.</line>
+		<narration lineid="">She looks back down at her guitar.</narration>
+		<line id="15000" speaker="jj" voicelang="fr">I finally mastered the Freebird solo on ukelele!</line>
+		<line id="16000" speaker="asami" voicelang="fr">That's nice.</line>
+		<narration lineid="">JJ's excitement fades&#x2014;</narration>
+		<line id="17000" speaker="jacques" voicelang="fr">My son!</line>
+		<narration lineid="">Jacques frolics to JJ and puts his hands on JJ's shoulders. JJ stands.</narration>
+		<line id="18000" speaker="jj" voicelang="fr">Hey.</line>
+		<narration lineid="">Jacques shakes JJ.</narration>
+		<line id="19000" speaker="jacques" voicelang="fr">Okay, little man. Please tell me you found out why your for loops wouldn't count to ten.</line>
+		<line id="20000" speaker="jj" voicelang="fr">Yeah! You're supposed to put a semicolon at the end of every line —</line>
+		<narration>Jacques nods, Jacques nods!</narration>
+		<line id="21000" speaker="jj" voicelang="fr">So I put one at the end of the for statement!</line>
+		<narration lineid="">Jacques face-palms.</narration>
+		<line id="22000" speaker="jacques" voicelang="fr">Did you even read the book I gave you?</line>
+		<line id="23000" speaker="jj" voicelang="fr">Well—</line>
+		<line id="24000" speaker="jacques" voicelang="fr">No matter. Intelligence lies in the realm of experience.</line>
+		<narration>JJ sighs.</narration>
+		<line id="24100" speaker="jj" voicelang="fr">Well, what if I&#x2014;</line>
+		<narration>Jacques heaves up the picket-sign. Yuki picks up her picket-sign. JJ looks up at it.</line>
+		<line id="25000" speaker="jj" voicelang="fr">Oh no, are you going to do all of that yelling and screaming again?</line>
+		<line id="26000" speaker="jacques" voicelang="fr">It's for a purpose.</line>
+		<line id="27000" speaker="jj" voicelang="fr">It's embarrassing.</line>
+		<line id="28000" speaker="jacques" voicelang="fr">Good thing for you the walk to school is short.</line>
+		<line id="29000" speaker="jacques" voicelang="fr">You'll both be late. Let's go.</line>
+		<narration>Jacques walks the children.<comment>Jacques and JJ are in Yuki's party. Yuki is the character controlled by the Player.</comment>Jacques pushes open the door. In the distance, all of that yelling and screaming. Again.</narration>
+	</part>
+</scriptment>
