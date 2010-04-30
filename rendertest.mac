@@ -1,0 +1,2 @@
+src/rendertest: src/rendertest.cpp
+	g++ -o src/rendertest src/rendertest.cpp `pkg-config --cflags --libs cairo librsvg-2.0` -framework opengl `sdl-config --libs --cflags`

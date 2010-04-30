@@ -1,5 +1,5 @@
 
-
+//your examples helped me a lot - thank you so, macslow
 #include <time.h>
 #include <math.h>
 #include <string>
