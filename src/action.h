@@ -3,7 +3,7 @@
 
 #include <vector>
 ////////////////////////////////////////
-// action (abstract base) - The concept of the "Action" - An event or anything that happens in response to it; An Entity behavior. In behaviors for Entities, replaces void.
+// action (abstract base) - The concept of the "Action" - An event or anything that happens in response to it; An Entity behavior. In behaviors for game Entities, Actions as return values replace void.
 ////////////////////////////////////////
 
 namespace Stage {
@@ -24,3 +24,4 @@ namespace Stage {
 		
 	};
 }
+#endif
