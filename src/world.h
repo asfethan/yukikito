@@ -11,4 +11,7 @@ namespaces Stage {
 		private:
 			std::vector<Entity*> entity_space;
 		public:
-			
+			static World 
+			std::vector<Entity*>
+	};
+	
