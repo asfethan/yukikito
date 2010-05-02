@@ -1,3 +1,4 @@
+// For License and Copyright information, please see game.h
 
 //your examples helped me a lot - thank you so, macslow
 #include <time.h>

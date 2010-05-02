@@ -1,3 +1,5 @@
+// For License and Copyright information, please see game.h
+
 #ifndef IMAGE_H
 #define IMAGE_H
 

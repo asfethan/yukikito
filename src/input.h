@@ -1,3 +1,5 @@
+// For License and Copyright information, please see game.h
+
 #ifndef INPUT_H
 #define INPUT_H
 
@@ -14,8 +16,8 @@ namespace Stage {
 			int max_queue_size;
 			queue<Action*> input_queue;
 			
-			virtual void pushAction() = 0;
-			virtual void Action* popAction() = 0;
+			virtual void pushAction();
+			virtual void Action* popAction();
 		public:
 			a
 			virtual void poll() = 0;

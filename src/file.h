@@ -1,3 +1,5 @@
+// For License and Copyright information, please see game.h
+
 #ifndef ACTION_H
 #define ACTION_H
 
@@ -7,14 +9,19 @@
 ////////////////////////////////////////
 
 namespace Stage {
-	enum 
+	enum LoadStatus { UNLOADED, LOADED };
 	class File { 
 		private:
-			bool load_status;
+			bool is_loaded;
+			int load_status;
 			std::string file_name;
 		public:
 			File();
 			virtual ~File();
 			
-			bool isLoaded();
+			void load();
 			
+			bool isLoaded();
+		};
+}
+#endif
