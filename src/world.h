@@ -1,4 +1,4 @@
-// For License and Copyright information, please see game.h
+// For License and Copyright information, see main.h
 
 #ifndef WORLD_H
 #define WORLD_H

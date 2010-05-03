@@ -1,4 +1,4 @@
-// For License and Copyright information, please see game.h
+// For License and Copyright information, see main.h
 
 #ifndef ACTION_H
 #define ACTION_H
@@ -17,9 +17,9 @@ namespace Stage {
 			std::vector<Action*> failure_conditions;
 		public:
 			void link(Action* link_action);
-			bool perform() = 0;
-			bool commit() = 0;
-			bool recover() = 0;
+			virtual bool perform() = 0;
+			virutal bool commit() = 0;
+			virtual bool recover() = 0;
 			
 			virtual bool execute();
 	};

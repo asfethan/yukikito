@@ -1,9 +1,9 @@
 // For License and Copyright information, see main.h
 
-#ifndef RESOURCE_H
-#define RESOURCE_H
+#ifndef DISPLAY_H
+#define DISPLAY_H
 
-#include <vector>
+
 ////////////////////////////////////////
-// resource (abstract base) - 
+// display (abstract base) - A representation of all data in the game World. 
 ////////////////////////////////////////
