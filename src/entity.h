@@ -1,4 +1,4 @@
-// For License and Copyright information, see main.h
+// For License and Copyright information, see main.cpp
 
 #ifndef ENTITY_H
 #define ENTITY_H
@@ -19,12 +19,11 @@ namespace Stage {
 			std::set<Action> actions;
 			
 			Point<long int> position;
-			
+				
 			Sprite* sprite_index;
 		public:
 			Entity(Resource& userEntityResource);
 			~Entity();
-			
 	};
 }
 #endif

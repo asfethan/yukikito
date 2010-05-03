@@ -1,4 +1,4 @@
-// For License and Copyright information, see main.h
+// For License and Copyright information, see main.cpp
 
 #ifndef SCENE_H
 #define SCENE_H

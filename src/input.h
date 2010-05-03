@@ -1,4 +1,4 @@
-// For License and Copyright information, see main.h
+// For License and Copyright information, see main.cpp
 
 #ifndef INPUT_H
 #define INPUT_H

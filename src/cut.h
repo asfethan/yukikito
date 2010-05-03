@@ -1,7 +1,7 @@
-// For License and Copyright information, see main.h
+// For License and Copyright information, see main.cpp
 
-#ifndef ATTRIBUTE_H
-#define ATTRIBUTE_H
+#ifndef CUT_H
+#define CUT_H
 
 #include <string>
 

@@ -1,7 +1,7 @@
-// For License and Copyright information, see main.h
+// For License and Copyright information, see main.cpp
 
-#ifndef ATTRIBUTE_H
-#define ATTRIBUTE_H
+#ifndef CAMERA_H
+#define CAMERA_H
 
 #include <string>
 ////////////////////////////////////////

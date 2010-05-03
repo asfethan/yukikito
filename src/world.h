@@ -1,11 +1,12 @@
-// For License and Copyright information, see main.h
+// For License and Copyright information, see main.cpp
 
 #ifndef WORLD_H
 #define WORLD_H
 
 #include <vector>
 ////////////////////////////////////////
-// world (singleton) - The logical space that contains every entity in the game. Only one may exist. Operates on the man-at-a-table model. Said man is the game-master, who keeps a set of all of the game pieces and their properties. From the World users may retrieve a the set listing all entities to pick and prod and search and retrieve from, based on search criteria.
+// world (singleton) - The logical space that contains every Entity in the game. Only one may exist. Operates on the man-at-a-table model. Said man is the game-master, who keeps a set of all of the game pieces and their properties. From the World users may retrieve a the set listing all Entities to pick and prod and search and retrieve from, based on search criteria.
+// Under consideration is the refactoring of World as a non-singleton class composing Game.
 ////////////////////////////////////////
 
 namespaces Stage {

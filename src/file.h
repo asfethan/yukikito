@@ -1,4 +1,4 @@
-// For License and Copyright information, see main.h
+// For License and Copyright information, see main.cpp
 
 #ifndef ACTION_H
 #define ACTION_H

@@ -1,4 +1,4 @@
-// For License and Copyright information, see main.h
+// For License and Copyright information, see main.cpp
 
 //your examples helped me a lot - thank you so, macslow
 #include <time.h>
