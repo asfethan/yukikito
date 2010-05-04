@@ -12,6 +12,7 @@
 ////////////////////////////////////////
 
 namespace Stage {
+	enum CutStyle { SUDDEN }
 	void cut(Camera& userCamera, Entity& userEntity);
 	void cut(Camera& userCamera, Area& userArea);
 }

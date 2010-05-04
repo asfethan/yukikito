@@ -6,6 +6,7 @@
 #include <string>
 ////////////////////////////////////////
 // attribute (concrete) - Any property of a game Entity. Has a name and value, often retrieved from Resource.
+// Under consideration is the usage of void pointers in the place of templates for mobile devices.
 ////////////////////////////////////////
 
 namespace Stage {

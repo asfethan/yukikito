@@ -10,6 +10,8 @@
 
 namespace Stage {
 	class Camera: public Entity {
+		private:
+		public:
 	}
 }
 		

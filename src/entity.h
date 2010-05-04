@@ -5,8 +5,10 @@
 
 #include <vector>
 #include <string>
+#include <map>
 ////////////////////////////////////////
-// entity (concrete) - The building blocks of a game World. Any object existing within the game's constraints. Consists of Resource-derived properties (Attributes) and behaviors (Actions).
+// entity (concrete) - The building blocks of a game World. Any object existing within the game's constraints. Consists of Resource-derived properties (Attributes) and behaviors (Actions). Anything else is added for the sake of developer convenience.
+// also included is the entity() free function, which retrieves from the game World an entity based on its std::string name.
 ////////////////////////////////////////
 
 namespace Stage {
@@ -19,6 +21,9 @@ namespace Stage {
 			std::set<Action> actions;
 			
 			Point<long int> position;
+			long int roll;
+			long int pitch;
+			long int yaw;
 				
 			Sprite* sprite_index;
 		public:

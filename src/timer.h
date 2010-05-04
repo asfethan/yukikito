@@ -19,7 +19,7 @@ namespace Stage {
 			bool started;
 			bool stopped;
 			
-			void tick(); //remember to use increment operator
+			void tick(); //remember to overload increment operator
 			void reset();
 		public:
 			Timer(T userStartValue, T userResetValue);

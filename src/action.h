@@ -18,7 +18,7 @@ namespace Stage {
 		public:
 			void link(Action* link_action);
 			virtual bool perform() = 0;
-			virutal bool commit() = 0;
+			virtual bool commit() = 0;
 			virtual bool recover() = 0;
 			
 			virtual bool execute();
