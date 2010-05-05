@@ -10,6 +10,18 @@
 namespace Stage {
 	class Area {
 		private:
+			Attribute<std::string> name;
+			Point<long int> back_topleft;
+			Point<long int> back_topright;
+			Point<long int> back_bottomleft;
+			point<long int> back_bottomright;
+			
+			Point<long int> front_topleft;
+			Point<long int> front_topright;
+			point<long int>
+				
 		public:
+			Area(Attribute userName);
+			void expand(long int userScaleFactor);
 	}
 }

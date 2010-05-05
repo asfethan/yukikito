@@ -17,3 +17,4 @@ namespace Stage {
 			Widget(Resource& widget_resource);
 	};
 }
+#endif

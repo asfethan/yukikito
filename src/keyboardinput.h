@@ -14,5 +14,6 @@ namespace Stage {
 	class KeyboardInput: public Input {
 		private:
 		public:
+			KeyboardInput();
 	};
 }

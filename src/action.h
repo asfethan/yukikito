@@ -13,7 +13,6 @@ namespace Stage {
 	class Action {
 		private:
 			int current_stage;
-			std::vector<Action*> success_conditions;
 			std::vector<Action*> failure_conditions;
 		public:
 			void link(Action* link_action);

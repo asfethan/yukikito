@@ -19,7 +19,7 @@ namespaces Stage {
 			std::vector<Entity*> entity_space;
 		public:
 			static World* Instance();
-			std::vector<Entity*> space();
+			std::vector<Entity*> space();	
 	};
 }
 #endif

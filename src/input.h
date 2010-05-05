@@ -19,7 +19,7 @@ namespace Stage {
 			virtual void pushAction();
 			virtual void Action* popAction();
 		public:
-			Action();
+			Input();
 			virtual void poll() = 0;
 	};
 }
