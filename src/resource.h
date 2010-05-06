@@ -10,14 +10,14 @@
 
 namespace Stage {
 	enum LoadStatus { UNLOADED, LOADED };
-	template <typename T> class File { 
+	template <typename T> class Resource { 
 		private:
 			bool is_loaded;
-			std::string file_name;
-			T file_contents;
+			std::string resource_name;
+			T resource_contents;
 		public:
-			File(std::string userFileName);
-			~File();
+			Resource(std::string userFileName);
+			~Resource();
 			
 			virtual void load() = 0;
 			virtual T contents() = 0;

@@ -3,8 +3,10 @@
 #ifndef GAME_H
 #define GAME_H
 
+#include "entrypoint.h"
+#include "keyboardinput.h"
 ////////////////////////////////////////
-// game (concrete) - The Game. Requires the following: An Entry Point. A World. 
+// game (concrete) - The Game. Requires the following: An Entry Point. A World.
 ////////////////////////////////////////
 
 namespace Stage {
@@ -12,7 +14,8 @@ namespace Stage {
 			private:
 				EntryPoint game_entry;
 				void GameLoop();
+				KeyboardInput test_keyboardinput;
 			public:
-				Game(EntryPoint userEntryPoint);
+				Game(EntryPoint& userEntryPoint, World& userWorld);
 	};
 }

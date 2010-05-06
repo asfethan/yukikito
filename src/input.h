@@ -13,11 +13,11 @@
 namespace Stage {
 	class Input {
 		private:
-			int max_queue_size;
-			queue<Action*> input_queue;
+			virtual int max_queue_size;
+			virtual queue<Action*> input_queue;
 			
-			virtual void pushAction();
-			virtual void Action* popAction();
+			virtual void pushAction(Action action_to_push);
+			virtual void popAction();
 		public:
 			Input();
 			virtual void poll() = 0;

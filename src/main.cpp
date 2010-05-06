@@ -19,6 +19,13 @@
     with this program; if not, write to the Free Software Foundation, Inc.,
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
     */
+
+#include <string>
+#include "game.h"
 int main () {
-	Game game = new Game();
+	std::string dir = "cool";
+	World& the_world = World::getInstance();
+	EntryPoint& i_love = new EntryPoint(dir);
+	
+	Game& game = new Game(i_love, the_world);
 }

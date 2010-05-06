@@ -14,7 +14,7 @@ namespace Stage {
 			Directory game_directory;
 			Resource& entry_resource;
 		public:
-			EntryPoint(Resource& userEntryResrouce);
+			EntryPoint(std::string userEntryFile);
 	};
 }
 #endif

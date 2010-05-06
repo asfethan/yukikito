@@ -6,14 +6,17 @@
 #include <queue>
 #include <set>
 #include "action.h"
+#include "SDL.h"
 ////////////////////////////////////////
 // keyboardinput (concrete) - Desktop or laptop computer keyboard as input device. 
 ////////////////////////////////////////
 
 namespace Stage {
-	class KeyboardInput: public Input {
+	class KeyboardInput : public Input {
 		private:
+			
 		public:
 			KeyboardInput();
 	};
 }
+#endif
