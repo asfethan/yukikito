@@ -15,3 +15,4 @@ namespace Stage {
 		public:
 	};
 }
+#endif

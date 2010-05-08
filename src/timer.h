@@ -5,7 +5,7 @@
 
 #include <vector>
 ////////////////////////////////////////
-// timer (abstract base) - represents a clock-like timer, that ticks and may have behavior with every tick. Operates on an analog stopwatch model. Said stopwatch has a start button, a stop button, and a reset button. Genericized for any unit.
+// timer (concrete) - represents a clock-like timer, that ticks and may have behavior with every tick. Operates on an analog stopwatch model. Said stopwatch has a start button, a stop button, and a reset button. Genericized for any unit.
 ////////////////////////////////////////
 
 namespace Stage {

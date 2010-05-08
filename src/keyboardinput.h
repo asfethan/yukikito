@@ -8,15 +8,18 @@
 #include "action.h"
 #include "SDL.h"
 ////////////////////////////////////////
-// keyboardinput (concrete) - Desktop or laptop computer keyboard as input device. 
+// keyboardinput (derived concrete) - Desktop or laptop computer keyboard as input device. 
 ////////////////////////////////////////
 
 namespace Stage {
-	class KeyboardInput : public Input {
+	class KeyboardInput: public Input{
 		private:
-			
+			SDL_Event personal_event;
 		public:
 			KeyboardInput();
+			~KeyboardInput();
+			void poll();
+			
 	};
 }
 #endif

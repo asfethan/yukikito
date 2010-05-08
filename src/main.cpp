@@ -21,7 +21,10 @@
     */
 
 #include <string>
+#include "world.h"
 #include "game.h"
+#include "entrypoint.h"
+#include "keyboardinput.h"
 int main () {
 	std::string dir = "cool";
 	World& the_world = World::getInstance();

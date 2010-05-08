@@ -5,7 +5,12 @@
 
 #include <vector>
 #include <string>
-#include <map>
+#include <tr1/unordered_map>
+#include <set>
+#include "resource.h"
+#include "attribute.h"
+#include "sprite.h"
+#include "point.h"
 ////////////////////////////////////////
 // entity (concrete) - The building blocks of a game World. Any object existing within the game's constraints. Consists of Resource-derived properties (Attributes) and behaviors (Actions). Anything else is added for the sake of developer convenience.
 // also included is the entity() free function, which retrieves from the game World an entity based on its std::string name.
@@ -17,8 +22,8 @@ namespace Stage {
 			Resource& entity_resource;
 			
 			std::string name;
-			std::map<std::string, Attribute> attributes;
-			std::set<Action> actions;
+			std::tr1::unordered_map<std::string, Attribute<void*> > attribute_map;
+			//std::set<Action> action_set;
 			
 			Point<long int> position;
 			long int roll;

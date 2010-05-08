@@ -9,9 +9,13 @@ Much of the game's interaction is based around its narrative, a satire of the mo
 
 Main Documentation
 ======================
-Installation instructions, license information, and more are in the 
-
 Project Yuki Developer Wiki:  http://canvasfoundation.org/yuki_dev/
+
+About the Game:
+http://canvasfoundation.org/yuki_dev/index.php?title=Project_Yuki
+
+Installation instructions:
+http://canvasfoundation.org/yuki_dev/index.php?title=Building_and_Running
 
 Project Yuki Developer IRC Channel: irc://irc.freenode.com/yuki/
 
@@ -22,8 +26,8 @@ Official User Website: http://canvasfoundation.org/yuki/
 
 Dependencies
 ======================
-* SDL
-* cairo
+* libsdl
+* cairomm
 * librsvg
 
 Dependencies-to-be:

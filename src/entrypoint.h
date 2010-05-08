@@ -11,7 +11,6 @@
 namespace Stage {
 	class EntryPoint{
 		private:
-			Directory game_directory;
 			Resource& entry_resource;
 		public:
 			EntryPoint(std::string userEntryFile);
