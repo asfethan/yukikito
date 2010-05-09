@@ -1,7 +1,7 @@
 TProject Yuki
 v7
 r0
-t295073144.289940
+t295130799.338330
 cCheck dependencies
 cProcessInfoPlistFile "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Info.plist" Info.plist
 cCopyStringsFile "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
@@ -116,30 +116,35 @@ cCpResource "build/Debug/Project Yuki.app/Contents/Resources/index.html" game/yu
 cCpResource "build/Debug/Project Yuki.app/Contents/Resources/yuki.css" game/yuki/resources/text/en/narrative/yuki.css
 cCpResource "build/Debug/Project Yuki.app/Contents/Resources/yuki.xsl" game/yuki/resources/text/en/narrative/yuki.xsl
 cProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-guquddnftnincgeurerhasxezvov/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-exkfcgszvggpxeaykhyfprjonmgp/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
 cProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-eenvxwxkuencuucnfmcwkpewjeqi/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
-cProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-hlbscqrzdgyvdyhfnjyrquqwaywi/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+cProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
 cProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bjzliytjxahihkdyfvfmoailfvpu/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
-cProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhmihmxoehzcjxgpiawjgcjdetpt/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
+cProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/game.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/world.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/keyboardinput.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/entrypoint.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
 cLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki" normal x86_64
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal i386 objective-c com.apple.compilers.gcc.4_0
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/game.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/world.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/keyboardinput.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/entrypoint.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+cLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki" normal i386
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal ppc objective-c com.apple.compilers.gcc.4_0
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/game.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/world.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
-cLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki" normal i386
 cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/keyboardinput.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/entrypoint.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
 cLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki" normal ppc
+cCreateUniversalBinary "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki" normal "x86_64 i386 ppc"
 cPBXCp "build/Debug/Project Yuki.app/Contents/Frameworks/SDL.framework" /Library/Frameworks/SDL.framework
+cTouch "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app"
 
 N/Developer/SDKs/MacOSX10.4u.sdk
 c000000004A1199E200000000000000EE
@@ -336,7 +341,7 @@ s700
 i<string>
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app
-t1273375676
+t1273437440
 s32768
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Frameworks/SDL.framework
@@ -348,8 +353,8 @@ t1273377170
 s1094
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki
-t1273375674
-s425404
+t1273437438
+s202908
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/PkgInfo
 t1273377170
@@ -796,17 +801,17 @@ t1273377172
 s0
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources/yuki_age24.svg
-t1273377170
-s129699
+t1273386958
+s132347
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki
-t2
-s0
+t1273437424
+s63240
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki.LinkFileList
-c000000004BE63D540000000000000256
-t1273380180
-s598
+c000000004BE654E800000000000002D1
+t1273386216
+s721
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/SDLMain.o
 t1273375626
@@ -820,17 +825,21 @@ N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project 
 t1273375628
 s103956
 
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/entrypoint.o
+t1273411480
+s24380
+
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/game.o
-t1273380206
-s28148
+t1273431278
+s60324
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/keyboardinput.o
-t1273380340
-s50240
+t1273411480
+s80812
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o
-t1273380216
-s35420
+t1273437420
+s67504
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/rendertest.o
 t2
@@ -849,17 +858,17 @@ t1273375630
 s97108
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/world.o
-t1273377226
+t1273411478
 s85300
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki
-t2
-s0
+t1273437438
+s71836
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki.LinkFileList
-c000000004BE63D540000000000000251
-t1273380180
-s593
+c000000004BE654E800000000000002CB
+t1273386216
+s715
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/SDLMain.o
 t1273375668
@@ -873,17 +882,21 @@ N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project 
 t1273375672
 s119980
 
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/entrypoint.o
+t1273411494
+s24976
+
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/game.o
-t1273380220
-s29324
+t1273431320
+s65948
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/keyboardinput.o
-t1273380342
-s55256
+t1273411492
+s91304
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o
-t1273380248
-s36692
+t1273437436
+s73320
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/rendertest.o
 t2
@@ -902,17 +915,17 @@ t1273375672
 s112388
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/world.o
-t1273377234
+t1273411492
 s88596
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki
-t2
-s0
+t1273437404
+s58976
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki.LinkFileList
-c000000004BE63D540000000000000260
-t1273380180
-s608
+c000000004BE654E800000000000002DD
+t1273386216
+s733
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/SDLMain.o
 t1273375610
@@ -926,17 +939,21 @@ N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project 
 t1273375612
 s70284
 
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/entrypoint.o
+t1273411470
+s29588
+
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/game.o
-t1273380192
-s56860
+t1273431258
+s77420
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/keyboardinput.o
-t1273380334
-s42384
+t1273411470
+s96240
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o
-t1273380200
-s70804
+t1273437402
+s88688
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/rendertest.o
 t2
@@ -955,7 +972,7 @@ t1273375616
 s66096
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/world.o
-t1273377194
+t1273411470
 s95508
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/entity.h
@@ -971,9 +988,15 @@ i"attribute.h"
 i"sprite.h"
 i"point.h"
 
+N/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp
+c000000004BE659E000000000000000BD
+t1273387488
+s189
+i"entrypoint.h"
+
 N/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.h
-c000000004BE6394C00000000000001EE
-t1273379148
+c000000004BE6597800000000000001EE
+t1273387384
 s494
 i"resource.h"
 
@@ -984,17 +1007,17 @@ s735
 i"game.h"
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/game.h
-c000000004BE61FB6000000000000026E
-t1273372598
-s622
-i<SDL/SDL.h>
+c000000004BE703BE000000000000026A
+t1273430974
+s618
+i"SDL.h"
 i"entrypoint.h"
 i"keyboardinput.h"
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/game/yuki/assets/characters/yuki_age24.svg
-c000000004BE5AC5E000000000001FAA3
-t1273343070
-s129699
+c000000004BE656AA00000000000204FB
+t1273386666
+s132347
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/game/yuki/resources/sprite/keyboardkey/index.svg
 c000000004BDA24880000000000000ACF
@@ -1547,22 +1570,23 @@ t1273264528
 s364
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/input.h
-c000000004BE63F0E00000000000002D7
-t1273380622
-s727
+c000000004BE65A8E00000000000002DC
+t1273387662
+s732
 i<queue>
 i"action.h"
 i<vector>
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp
-c000000004BE63DEC00000000000000B8
-t1273380332
-s184
+c000000004BE64DF20000000000000123
+t1273384434
+s291
+i"keyboardinput.h"
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.h
-c000000004BE63F2C000000000000022F
-t1273380652
-s559
+c000000004BE64CA80000000000000283
+t1273384104
+s643
 i<queue>
 i<set>
 i"SDL/SDL.h"
@@ -1579,14 +1603,14 @@ i<math.h>
 i"SDL.h"
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp
-c000000004BE620E600000000000004BA
-t1273372902
-s1210
+c000000004BE71CA000000000000004E6
+t1273437344
+s1254
 i<string>
+i"SDL.h"
 i"world.h"
 i"game.h"
 i"entrypoint.h"
-i<SDL/SDL.h>
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/point.h
 c000000004BE61F6200000000000001C8
@@ -1615,8 +1639,8 @@ i<iostream>
 i<librsvg/rsvg-cairo.h>
 
 N/Volumes/KYLE_REY/yukikito/Project Yuki/resource.h
-c000000004BE475EA00000000000002C5
-t1273263594
+c000000004BE658BA00000000000002C5
+t1273387194
 s709
 i<string>
 
@@ -1640,6 +1664,14 @@ s1045
 i<vector>
 i"entity.h"
 
+N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch.gch
+t1273411459
+s2600808
+
+N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch.gch
+t1273411461
+s2355048
+
 N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch.gch
 t1273375602
 s2035560
@@ -1659,6 +1691,10 @@ s28795248
 N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch.gch
 t1273375594
 s2281320
+
+N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch.gch
+t1273411458
+s4733264
 
 N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-eenvxwxkuencuucnfmcwkpewjeqi/Project_Yuki_Prefix.pch.gch
 t1273375593
@@ -1683,7 +1719,7 @@ s1103
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies295073134#295073135#0(469"[WARN]warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture ppc3(22@151"warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture x86_64295073134#18446744073709551615#0#0(1@0"0(22@149"warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture i386295073134#18446744073709551615#0#0(1@0"0(22@148"warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture ppc295073134#18446744073709551615#0#0(1@0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies295130798#295130799#0(469"[WARN]warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture ppc3(22@151"warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture x86_64295130798#18446744073709551615#0#0(1@0"0(22@149"warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture i386295130798#18446744073709551615#0#0(1@0"0(22@148"warning: no rule to process file '$(PROJECT_DIR)/game/yuki/resources/text/en/narrative/jquery.js' of type sourcecode.javascript for architecture ppc295130798#18446744073709551615#0#0(1@0"0(0#1#0"4300885448#0"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal i386 objective-c com.apple.compilers.gcc.4_0
 s295068420.054777
@@ -1729,9 +1765,23 @@ xc
 xcom.apple.compilers.gcc.4_0
 lSLF07#2@66"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c295068428#295068428#0(0"0(0#0#58"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c4300885448#1376"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/dolphin.o"0#
 
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/entrypoint.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+s295104281.013310
+e295104281.653706
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/entrypoint.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@62"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp295104281#295104281#0(89"i686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done0(0#0#54"/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp4300885448#1412"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/entrypoint.o"0#
+
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/game.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
-s295073001.853464
-e295073006.461918
+s295124075.783130
+e295124079.100805
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/game.o
@@ -1742,11 +1792,12 @@ xc++
 xcom.apple.compilers.gcc.4_0
 o/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp: In member function 'void Stage::Game::initialize()':
 o/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp:11: warning: unused variable 'screen'
-lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295073001#295073006#0(190"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp: In member function 'void Stage::Game::initialize()':/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp:11: warning: unused variable 'screen'1(22@24"Unused variable 'screen'295073006#103#87#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295070264#11#0#11#0#19"unused variable '*'0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp4300885448#1393"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-hlbscqrzdgyvdyhfnjyrquqwaywi/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/game.o"0#
+oi686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295124075#295124079#0(279"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp: In member function 'void Stage::Game::initialize()':/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp:11: warning: unused variable 'screen'i686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done1(22@24"Unused variable 'screen'295124078#103#87#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295070264#11#0#11#0#19"unused variable '*'0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp4300885448#1400"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/game.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/keyboardinput.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
-s295073139.793175
-e295073140.513515
+s295104279.939624
+e295104281.013067
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/keyboardinput.o
@@ -1755,7 +1806,10 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@65"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp295073139#295073140#0(0"0(0#0#57"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp4300885448#1411"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-hlbscqrzdgyvdyhfnjyrquqwaywi/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/keyboardinput.o"0#
+o/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp: In member function 'virtual Stage::Action* Stage::KeyboardInput::popAction()':
+o/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp:11: warning: control reaches end of non-void function
+oi686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@65"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp295104279#295104281#0(339"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp: In member function 'virtual Stage::Action* Stage::KeyboardInput::popAction()':/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp:11: warning: control reaches end of non-void functioni686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done1(22@40"Control reaches end of non-void function295104280#138#112#0(6@57"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp295077234#11#0#11#0#40"control reaches end of non-void function0(0#0#57"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp4300885448#1418"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/keyboardinput.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" normal i386 c com.apple.compilers.gcc.4_0
 s295068426.085360
@@ -1771,8 +1825,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@54"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.c295068426#295068426#0(0"0(0#0#46"/Volumes/KYLE_REY/yukikito/Project Yuki/main.c4300885448#1361"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
-s295073006.462320
-e295073016.272175
+s295130205.616771
+e295130221.577265
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o
@@ -1782,8 +1836,9 @@ xi386
 xc++
 xcom.apple.compilers.gcc.4_0
 o/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp: In function 'int Stage::SDL_main(int, char**)':
-o/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:35: warning: control reaches end of non-void function
-lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295073006#295073016#0(201"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp: In function 'int Stage::SDL_main(int, char**)':/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:35: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function295073015#98#103#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295065702#35#0#35#0#40"control reaches end of non-void function0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp4300885448#1393"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-hlbscqrzdgyvdyhfnjyrquqwaywi/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o"0#
+o/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:36: warning: control reaches end of non-void function
+oi686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295130205#295130221#0(290"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp: In function 'int Stage::SDL_main(int, char**)':/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:36: warning: control reaches end of non-void functioni686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done1(22@40"Control reaches end of non-void function295130221#98#103#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295130144#36#0#36#0#40"control reaches end of non-void function0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp4300885448#1400"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/rendertest.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/rendertest.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
 s295070017.770151
@@ -1864,8 +1919,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@64"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c295068430#295068430#0(0"0(0#0#56"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c4300885448#1372"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/whale.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/world.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
-s295070022.815756
-e295070026.422426
+s295104278.677740
+e295104279.939499
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/world.o
@@ -1874,7 +1929,8 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@57"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp295070022#295070026#0(0"0(0#0#49"/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp4300885448#1395"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-hlbscqrzdgyvdyhfnjyrquqwaywi/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/world.o"0#
+oi686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@57"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp295104278#295104279#0(89"i686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done0(0#0#49"/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp4300885448#1402"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/world.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal ppc objective-c com.apple.compilers.gcc.4_0
 s295068433.276000
@@ -1920,9 +1976,23 @@ xc
 xcom.apple.compilers.gcc.4_0
 lSLF07#2@66"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c295068471#295068472#0(0"0(0#0#58"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c4300885448#1370"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/dolphin.o"0#
 
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/entrypoint.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
+s295104293.857228
+e295104294.555968
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/entrypoint.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+opowerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@62"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp295104293#295104294#0(92"powerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done0(0#0#54"/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp4300885448#1406"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/entrypoint.o"0#
+
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/game.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
-s295073016.725237
-e295073021.314810
+s295124115.835758
+e295124120.299650
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/game.o
@@ -1933,11 +2003,12 @@ xc++
 xcom.apple.compilers.gcc.4_0
 o/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp: In member function 'void Stage::Game::initialize()':
 o/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp:11: warning: unused variable 'screen'
-lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295073016#295073021#0(190"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp: In member function 'void Stage::Game::initialize()':/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp:11: warning: unused variable 'screen'1(22@24"Unused variable 'screen'295073021#103#87#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295070264#11#0#11#0#19"unused variable '*'0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp4300885448#1387"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhmihmxoehzcjxgpiawjgcjdetpt/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/game.o"0#
+opowerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295124115#295124120#0(282"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp: In member function 'void Stage::Game::initialize()':/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp:11: warning: unused variable 'screen'powerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done1(22@24"Unused variable 'screen'295124119#103#87#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295070264#11#0#11#0#19"unused variable '*'0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp4300885448#1394"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/game.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/keyboardinput.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
-s295073142.900531
-e295073143.446233
+s295104293.033751
+e295104293.856981
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/keyboardinput.o
@@ -1946,7 +2017,10 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@65"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp295073142#295073143#0(0"0(0#0#57"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp4300885448#1405"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhmihmxoehzcjxgpiawjgcjdetpt/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/keyboardinput.o"0#
+o/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp: In member function 'virtual Stage::Action* Stage::KeyboardInput::popAction()':
+o/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp:11: warning: control reaches end of non-void function
+opowerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@65"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp295104293#295104293#0(342"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp: In member function 'virtual Stage::Action* Stage::KeyboardInput::popAction()':/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp:11: warning: control reaches end of non-void functionpowerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done1(22@40"Control reaches end of non-void function295104293#138#112#0(6@57"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp295077234#11#0#11#0#40"control reaches end of non-void function0(0#0#57"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp4300885448#1412"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/keyboardinput.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" normal ppc c com.apple.compilers.gcc.4_0
 s295068469.569670
@@ -1962,8 +2036,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@54"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.c295068469#295068470#0(0"0(0#0#46"/Volumes/KYLE_REY/yukikito/Project Yuki/main.c4300885448#1355"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
-s295073021.315215
-e295073048.800187
+s295130225.196275
+e295130237.295288
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o
@@ -1973,8 +2047,9 @@ xppc
 xc++
 xcom.apple.compilers.gcc.4_0
 o/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp: In function 'int Stage::SDL_main(int, char**)':
-o/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:35: warning: control reaches end of non-void function
-lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295073021#295073048#0(201"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp: In function 'int Stage::SDL_main(int, char**)':/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:35: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function295073047#98#103#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295065702#35#0#35#0#40"control reaches end of non-void function0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp4300885448#1387"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhmihmxoehzcjxgpiawjgcjdetpt/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o"0#
+o/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:36: warning: control reaches end of non-void function
+opowerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295130225#295130237#0(293"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp: In function 'int Stage::SDL_main(int, char**)':/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:36: warning: control reaches end of non-void functionpowerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done1(22@40"Control reaches end of non-void function295130236#98#103#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295130144#36#0#36#0#40"control reaches end of non-void function0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp4300885448#1394"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/rendertest.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/rendertest.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
 s295070031.575975
@@ -2055,8 +2130,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@64"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c295068473#295068473#0(0"0(0#0#56"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c4300885448#1366"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/whale.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/world.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
-s295070032.865590
-e295070035.530407
+s295104291.746038
+e295104293.033634
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/world.o
@@ -2065,7 +2140,8 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@57"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp295070032#295070035#0(0"0(0#0#49"/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp4300885448#1389"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhmihmxoehzcjxgpiawjgcjdetpt/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/world.o"0#
+opowerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@57"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp295104291#295104293#0(92"powerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done0(0#0#49"/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp4300885448#1396"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/world.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s295068402.347682
@@ -2111,9 +2187,23 @@ xc
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@66"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c295068412#295068413#0(0"0(0#0#58"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c4300885448#1379"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/dolphin.o"0#
 
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/entrypoint.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s295104271.133767
+e295104271.821789
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/entrypoint.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@62"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp295104271#295104271#0(89"i686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done0(0#0#54"/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp4300885448#1415"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/entrypoint.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/entrypoint.o"0#
+
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/game.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s295072980.177517
-e295072992.702697
+s295124058.143556
+e295124059.888818
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/game.o
@@ -2124,11 +2214,12 @@ xc++
 xcom.apple.compilers.gcc.4_2
 o/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp: In member function 'void Stage::Game::initialize()':
 o/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp:11: warning: unused variable 'screen'
-lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295072980#295072992#0(190"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp: In member function 'void Stage::Game::initialize()':/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp:11: warning: unused variable 'screen'1(22@24"Unused variable 'screen'295072992#103#87#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295070264#11#0#11#0#19"unused variable '*'0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp4300885448#1396"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-exkfcgszvggpxeaykhyfprjonmgp/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/game.o"0#
+oi686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295124058#295124059#0(279"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp: In member function 'void Stage::Game::initialize()':/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp:11: warning: unused variable 'screen'i686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done1(22@24"Unused variable 'screen'295124059#103#87#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp295070264#11#0#11#0#19"unused variable '*'0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp4300885448#1403"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/game.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/game.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/keyboardinput.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s295073135.145636
-e295073135.912824
+s295104270.843881
+e295104271.133559
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/keyboardinput.o
@@ -2137,7 +2228,10 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp295073135#295073135#0(0"0(0#0#57"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp4300885448#1414"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-exkfcgszvggpxeaykhyfprjonmgp/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/keyboardinput.o"0#
+o/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp: In member function 'virtual Stage::Action* Stage::KeyboardInput::popAction()':
+o/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp:11: warning: control reaches end of non-void function
+oi686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@65"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp295104270#295104271#0(339"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp: In member function 'virtual Stage::Action* Stage::KeyboardInput::popAction()':/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp:11: warning: control reaches end of non-void functioni686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done1(22@40"Control reaches end of non-void function295104271#138#112#0(6@57"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp295077234#11#0#11#0#40"control reaches end of non-void function0(0#0#57"/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp4300885448#1421"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/keyboardinput.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/keyboardinput.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
 s295068410.334431
@@ -2153,8 +2247,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@54"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.c295068410#295068411#0(0"0(0#0#46"/Volumes/KYLE_REY/yukikito/Project Yuki/main.c4300885448#1364"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s295072992.703009
-e295073001.499600
+s295130187.169846
+e295130203.263207
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o
@@ -2164,8 +2258,9 @@ xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
 o/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp: In function 'int Stage::SDL_main(int, char**)':
-o/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:35: warning: control reaches end of non-void function
-lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295072992#295073001#0(201"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp: In function 'int Stage::SDL_main(int, char**)':/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:35: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function295072999#98#103#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295065702#35#0#35#0#40"control reaches end of non-void function0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp4300885448#1396"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-exkfcgszvggpxeaykhyfprjonmgp/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o"0#
+o/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:36: warning: control reaches end of non-void function
+oi686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@56"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295130187#295130203#0(290"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp: In function 'int Stage::SDL_main(int, char**)':/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp:36: warning: control reaches end of non-void functioni686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done1(22@40"Control reaches end of non-void function295130202#98#103#0(6@48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp295130144#36#0#36#0#40"control reaches end of non-void function0(0#0#48"/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp4300885448#1403"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/rendertest.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/rendertest.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
 s295069991.872340
@@ -2245,8 +2340,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@64"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c295068415#295068416#0(0"0(0#0#56"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c4300885448#1375"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/whale.o"0#
 
 CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/world.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
-s295069993.347669
-e295069995.245406
+s295104269.954486
+e295104270.843755
 r1
 xCompileC
 xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/world.o
@@ -2255,7 +2350,8 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp295069993#295069995#0(0"0(0#0#49"/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp4300885448#1398"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-exkfcgszvggpxeaykhyfprjonmgp/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/world.o"0#
+oi686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@57"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp295104269#295104270#0(89"i686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done0(0#0#49"/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp4300885448#1405"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/world.cpp" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/world.o"0#
 
 CCopyStringsFile "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
 s295068282.398537
@@ -3248,128 +3344,55 @@ xgame/yuki/resources/text/en/narrative/yuki.xsl
 lSLF07#2@51"Copy game/yuki/resources/text/en/narrative/yuki.xsl295069972#295069972#0(0"0(0#0#86"/Volumes/KYLE_REY/yukikito/Project Yuki/game/yuki/resources/text/en/narrative/yuki.xsl4300885448#376"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Volumes/KYLE_REY/yukikito/Project Yuki/game/yuki/resources/text/en/narrative/yuki.xsl" "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources"0#
 
 CCpResource "build/Debug/Project Yuki.app/Contents/Resources/yuki_age24.svg" game/yuki/assets/characters/yuki_age24.svg
-s295069971.326266
-e295069971.518355
+s295079759.149289
+e295079759.680315
 r1
 xCpResource
 xbuild/Debug/Project Yuki.app/Contents/Resources/yuki_age24.svg
 xgame/yuki/assets/characters/yuki_age24.svg
-lSLF07#2@47"Copy game/yuki/assets/characters/yuki_age24.svg295069971#295069971#0(0"0(0#0#82"/Volumes/KYLE_REY/yukikito/Project Yuki/game/yuki/assets/characters/yuki_age24.svg4300885448#372"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Volumes/KYLE_REY/yukikito/Project Yuki/game/yuki/assets/characters/yuki_age24.svg" "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources"0#
+lSLF07#2@47"Copy game/yuki/assets/characters/yuki_age24.svg295079759#295079759#0(0"0(0#0#82"/Volumes/KYLE_REY/yukikito/Project Yuki/game/yuki/assets/characters/yuki_age24.svg4300885448#372"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Volumes/KYLE_REY/yukikito/Project Yuki/game/yuki/assets/characters/yuki_age24.svg" "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources"0#
 
 CCreateUniversalBinary "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki" normal "x86_64 i386 ppc"
-s295068474.700396
-e295068475.464881
+s295130238.663929
+e295130239.506390
 r1
 xCreateUniversalBinary
 x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki
 xnormal
 xx86_64 i386 ppc
-lSLF07#2@105"CreateUniversalBinary "build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki" normal "x86_64 i386 ppc"295068474#295068475#0(0"0(0#0#55"/Volumes/KYLE_REY/yukikito/Project Yuki/x86_64 i386 ppc4300885448#558"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /usr/bin/lipo -create "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki" "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki" "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki" -output "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki"0#
+lSLF07#2@105"CreateUniversalBinary "build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki" normal "x86_64 i386 ppc"295130238#295130239#0(0"0(0#0#55"/Volumes/KYLE_REY/yukikito/Project Yuki/x86_64 i386 ppc4300885448#558"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /usr/bin/lipo -create "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki" "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki" "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki" -output "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki"0#
 
 CLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki" normal i386
-s295073140.513713
-e295073142.900085
-r0
+s295130221.578391
+e295130225.195311
+r1
 xLd
 x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki
 xnormal
 xi386
-oUndefined symbols:
-o  "typeinfo for Stage::Input", referenced from:
-o      typeinfo for Stage::KeyboardInputin keyboardinput.o
-o  "Stage::Input::pushAction(Stage::Action*)", referenced from:
-o      vtable for Stage::KeyboardInputin keyboardinput.o
-o  "_SDL_main", referenced from:
-o      -[SDLMain applicationDidFinishLaunching:] in SDLMain.o
-o  "Stage::KeyboardInput::~KeyboardInput()", referenced from:
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-o      Stage::Game::~Game()in main.o
-o  "Stage::Input::Input()", referenced from:
-o      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o
-o      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o
-o  "Stage::EntryPoint::EntryPoint(std::basic_string<char, std::char_traits<char>, std::allocator<char> >)", referenced from:
-o      Stage::SDL_main(int, char**)in main.o
-o  "Stage::Input::popAction()", referenced from:
-o      vtable for Stage::KeyboardInputin keyboardinput.o
-o  "vtable for Stage::Input", referenced from:
-o      __ZTVN5Stage5InputE$non_lazy_ptr in keyboardinput.o
-o  "Stage::EntryPoint::EntryPoint()", referenced from:
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-old: symbol(s) not found
-ocollect2: ld returned 1 exit status
-lSLF07#2@127"Link /Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki295073140#295073142#0(1304"Undefined symbols:  "typeinfo for Stage::Input", referenced from:      typeinfo for Stage::KeyboardInputin keyboardinput.o  "Stage::Input::pushAction(Stage::Action*)", referenced from:      vtable for Stage::KeyboardInputin keyboardinput.o  "_SDL_main", referenced from:      -[SDLMain applicationDidFinishLaunching:] in SDLMain.o  "Stage::KeyboardInput::~KeyboardInput()", referenced from:      Stage::Game::Game(Stage::EntryPoint&)in game.o      Stage::Game::Game(Stage::EntryPoint&)in game.o      Stage::Game::~Game()in main.o  "Stage::Input::Input()", referenced from:      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o  "Stage::EntryPoint::EntryPoint(std::basic_string<char, std::char_traits<char>, std::allocator<char> >)", referenced from:      Stage::SDL_main(int, char**)in main.o  "Stage::Input::popAction()", referenced from:      vtable for Stage::KeyboardInputin keyboardinput.o  "vtable for Stage::Input", referenced from:      __ZTVN5Stage5InputE$non_lazy_ptr in keyboardinput.o  "Stage::EntryPoint::EntryPoint()", referenced from:      Stage::Game::Game(Stage::EntryPoint&)in game.o      Stage::Game::Game(Stage::EntryPoint&)in game.old: symbol(s) not foundcollect2: ld returned 1 exit status24(4@45""typeinfo for Stage::Input", referenced from:295073142#19#48#0(6@0"295073142#0#0#0#0#0"0(13@51"Typeinfo for Stage::KeyboardInputin keyboardinput.o295073142#67#58#0(6@0"295073142#0#0#0#0#0"0(4@60""Stage::Input::pushAction(Stage::Action*)", referenced from:295073142#125#63#0(6@0"295073142#0#0#0#0#0"0(13@49"Vtable for Stage::KeyboardInputin keyboardinput.o295073142#188#56#0(6@0"295073142#0#0#0#0#0"0(4@29""_SDL_main", referenced from:295073142#244#32#0(6@0"295073142#0#0#0#0#0"0(13@54"-[SDLMain applicationDidFinishLaunching:] in SDLMain.o295073142#276#61#0(6@0"295073142#0#0#0#0#0"0(4@58""Stage::KeyboardInput::~KeyboardInput()", referenced from:295073142#337#61#0(6@0"295073142#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073142#398#53#0(6@0"295073142#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073142#451#53#0(6@0"295073142#0#0#0#0#0"0(13@29"Stage::Game::~Game()in main.o295073142#504#36#0(6@0"295073142#0#0#0#0#0"0(4@41""Stage::Input::Input()", referenced from:295073142#540#44#0(6@0"295073142#0#0#0#0#0"0(13@55"Stage::KeyboardInput::KeyboardInput()in keyboardinput.o295073142#584#62#0(6@0"295073142#0#0#0#0#0"0(13@55"Stage::KeyboardInput::KeyboardInput()in keyboardinput.o295073142#646#62#0(6@0"295073142#0#0#0#0#0"0(4@121""Stage::EntryPoint::EntryPoint(std::basic_string<char, std::char_traits<char>, std::allocator<char> >)", referenced from:295073142#708#124#0(6@0"295073142#0#0#0#0#0"0(13@37"Stage::SDL_main(int, char**)in main.o295073142#832#44#0(6@0"295073142#0#0#0#0#0"0(4@45""Stage::Input::popAction()", referenced from:295073142#876#48#0(6@0"295073142#0#0#0#0#0"0(13@49"Vtable for Stage::KeyboardInputin keyboardinput.o295073142#924#56#0(6@0"295073142#0#0#0#0#0"0(4@43""vtable for Stage::Input", referenced from:295073142#980#46#0(6@0"295073142#0#0#0#0#0"0(13@51"__ZTVN5Stage5InputE$non_lazy_ptr in keyboardinput.o295073142#1026#58#0(6@0"295073142#0#0#0#0#0"0(4@51""Stage::EntryPoint::EntryPoint()", referenced from:295073142#1084#54#0(6@0"295073142#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073142#1138#53#0(6@0"295073142#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073142#1191#53#0(6@0"295073142#0#0#0#0#0"0(13@19"Symbol(s) not found295073142#1244#24#0(6@0"295073142#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status295073142#1268#36#0(6@0"295073142#0#0#0#0#0"0(0#0#0"4300885448#743"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.4u.sdk "-L/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -filelist "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki.LinkFileList" -mmacosx-version-min=10.4 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki"1#
+lSLF07#2@127"Link /Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki295130221#295130225#0(0"0(0#0#0"4300885448#743"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.4u.sdk "-L/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -filelist "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki.LinkFileList" -mmacosx-version-min=10.4 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki"0#
 
 CLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki" normal ppc
-s295073143.446424
-e295073144.289280
-r0
+s295130237.298352
+e295130238.663675
+r1
 xLd
 x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki
 xnormal
 xppc
 old: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o
 old: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/usr/bin/../lib/gcc/powerpc-apple-darwin10/4.0.1/crt3.o
-oUndefined symbols:
-o  "typeinfo for Stage::Input", referenced from:
-o      typeinfo for Stage::KeyboardInputin keyboardinput.o
-o  "Stage::Input::pushAction(Stage::Action*)", referenced from:
-o      vtable for Stage::KeyboardInputin keyboardinput.o
-o  "_SDL_main", referenced from:
-o      -[SDLMain applicationDidFinishLaunching:] in SDLMain.o
-o  "Stage::KeyboardInput::~KeyboardInput()", referenced from:
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-o      Stage::Game::~Game()in main.o
-o  "Stage::Input::Input()", referenced from:
-o      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o
-o      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o
-o  "Stage::EntryPoint::EntryPoint(std::basic_string<char, std::char_traits<char>, std::allocator<char> >)", referenced from:
-o      Stage::SDL_main(int, char**)in main.o
-o  "Stage::Input::popAction()", referenced from:
-o      vtable for Stage::KeyboardInputin keyboardinput.o
-o  "vtable for Stage::Input", referenced from:
-o      __ZTVN5Stage5InputE$non_lazy_ptr in keyboardinput.o
-o  "Stage::EntryPoint::EntryPoint()", referenced from:
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-old: symbol(s) not found
-ocollect2: ld returned 1 exit status
-lSLF07#2@126"Link /Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki295073143#295073144#0(1691"ld: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.old: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/usr/bin/../lib/gcc/powerpc-apple-darwin10/4.0.1/crt3.oUndefined symbols:  "typeinfo for Stage::Input", referenced from:      typeinfo for Stage::KeyboardInputin keyboardinput.o  "Stage::Input::pushAction(Stage::Action*)", referenced from:      vtable for Stage::KeyboardInputin keyboardinput.o  "_SDL_main", referenced from:      -[SDLMain applicationDidFinishLaunching:] in SDLMain.o  "Stage::KeyboardInput::~KeyboardInput()", referenced from:      Stage::Game::Game(Stage::EntryPoint&)in game.o      Stage::Game::Game(Stage::EntryPoint&)in game.o      Stage::Game::~Game()in main.o  "Stage::Input::Input()", referenced from:      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o  "Stage::EntryPoint::EntryPoint(std::basic_string<char, std::char_traits<char>, std::allocator<char> >)", referenced from:      Stage::SDL_main(int, char**)in main.o  "Stage::Input::popAction()", referenced from:      vtable for Stage::KeyboardInputin keyboardinput.o  "vtable for Stage::Input", referenced from:      __ZTVN5Stage5InputE$non_lazy_ptr in keyboardinput.o  "Stage::EntryPoint::EntryPoint()", referenced from:      Stage::Game::Game(Stage::EntryPoint&)in game.o      Stage::Game::Game(Stage::EntryPoint&)in game.old: symbol(s) not foundcollect2: ld returned 1 exit status26(22@170"Object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o295073144#0#184#0(6@0"295073144#0#0#0#0#0"0(22@189"Object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/usr/bin/../lib/gcc/powerpc-apple-darwin10/4.0.1/crt3.o295073144#184#203#0(6@0"295073144#0#0#0#0#0"0(4@45""typeinfo for Stage::Input", referenced from:295073144#406#48#0(6@0"295073144#0#0#0#0#0"0(13@51"Typeinfo for Stage::KeyboardInputin keyboardinput.o295073144#454#58#0(6@0"295073144#0#0#0#0#0"0(4@60""Stage::Input::pushAction(Stage::Action*)", referenced from:295073144#512#63#0(6@0"295073144#0#0#0#0#0"0(13@49"Vtable for Stage::KeyboardInputin keyboardinput.o295073144#575#56#0(6@0"295073144#0#0#0#0#0"0(4@29""_SDL_main", referenced from:295073144#631#32#0(6@0"295073144#0#0#0#0#0"0(13@54"-[SDLMain applicationDidFinishLaunching:] in SDLMain.o295073144#663#61#0(6@0"295073144#0#0#0#0#0"0(4@58""Stage::KeyboardInput::~KeyboardInput()", referenced from:295073144#724#61#0(6@0"295073144#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073144#785#53#0(6@0"295073144#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073144#838#53#0(6@0"295073144#0#0#0#0#0"0(13@29"Stage::Game::~Game()in main.o295073144#891#36#0(6@0"295073144#0#0#0#0#0"0(4@41""Stage::Input::Input()", referenced from:295073144#927#44#0(6@0"295073144#0#0#0#0#0"0(13@55"Stage::KeyboardInput::KeyboardInput()in keyboardinput.o295073144#971#62#0(6@0"295073144#0#0#0#0#0"0(13@55"Stage::KeyboardInput::KeyboardInput()in keyboardinput.o295073144#1033#62#0(6@0"295073144#0#0#0#0#0"0(4@121""Stage::EntryPoint::EntryPoint(std::basic_string<char, std::char_traits<char>, std::allocator<char> >)", referenced from:295073144#1095#124#0(6@0"295073144#0#0#0#0#0"0(13@37"Stage::SDL_main(int, char**)in main.o295073144#1219#44#0(6@0"295073144#0#0#0#0#0"0(4@45""Stage::Input::popAction()", referenced from:295073144#1263#48#0(6@0"295073144#0#0#0#0#0"0(13@49"Vtable for Stage::KeyboardInputin keyboardinput.o295073144#1311#56#0(6@0"295073144#0#0#0#0#0"0(4@43""vtable for Stage::Input", referenced from:295073144#1367#46#0(6@0"295073144#0#0#0#0#0"0(13@51"__ZTVN5Stage5InputE$non_lazy_ptr in keyboardinput.o295073144#1413#58#0(6@0"295073144#0#0#0#0#0"0(4@51""Stage::EntryPoint::EntryPoint()", referenced from:295073144#1471#54#0(6@0"295073144#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073144#1525#53#0(6@0"295073144#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073144#1578#53#0(6@0"295073144#0#0#0#0#0"0(13@19"Symbol(s) not found295073144#1631#24#0(6@0"295073144#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status295073144#1655#36#0(6@0"295073144#0#0#0#0#0"0(0#0#0"4300885448#740"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch ppc -isysroot /Developer/SDKs/MacOSX10.4u.sdk "-L/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -filelist "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki.LinkFileList" -mmacosx-version-min=10.4 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki"1#
+lSLF07#2@126"Link /Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki295130237#295130238#0(387"ld: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.old: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/usr/bin/../lib/gcc/powerpc-apple-darwin10/4.0.1/crt3.o2(22@170"Object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o295130238#0#184#0(6@0"295130238#0#0#0#0#0"0(22@189"Object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/usr/bin/../lib/gcc/powerpc-apple-darwin10/4.0.1/crt3.o295130238#184#203#0(6@0"295130238#0#0#0#0#0"0(0#0#0"4300885448#740"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch ppc -isysroot /Developer/SDKs/MacOSX10.4u.sdk "-L/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -filelist "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki.LinkFileList" -mmacosx-version-min=10.4 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki"0#
 
 CLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki" normal x86_64
-s295073135.913027
-e295073139.791756
-r0
+s295130203.264548
+e295130205.615802
+r1
 xLd
 x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki
 xnormal
 xx86_64
-oUndefined symbols:
-o  "typeinfo for Stage::Input", referenced from:
-o      typeinfo for Stage::KeyboardInputin keyboardinput.o
-o  "Stage::Input::pushAction(Stage::Action*)", referenced from:
-o      vtable for Stage::KeyboardInputin keyboardinput.o
-o  "_SDL_main", referenced from:
-o      -[SDLMain applicationDidFinishLaunching:] in SDLMain.o
-o  "Stage::KeyboardInput::~KeyboardInput()", referenced from:
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-o      Stage::Game::~Game()in main.o
-o  "Stage::Input::Input()", referenced from:
-o      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o
-o      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o
-o  "Stage::EntryPoint::EntryPoint(std::basic_string<char, std::char_traits<char>, std::allocator<char> >)", referenced from:
-o      Stage::SDL_main(int, char**)in main.o
-o  "Stage::Input::popAction()", referenced from:
-o      vtable for Stage::KeyboardInputin keyboardinput.o
-o  "Stage::EntryPoint::EntryPoint()", referenced from:
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-o      Stage::Game::Game(Stage::EntryPoint&)in game.o
-old: symbol(s) not found
-ocollect2: ld returned 1 exit status
-lSLF07#2@129"Link /Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki295073135#295073139#0(1200"Undefined symbols:  "typeinfo for Stage::Input", referenced from:      typeinfo for Stage::KeyboardInputin keyboardinput.o  "Stage::Input::pushAction(Stage::Action*)", referenced from:      vtable for Stage::KeyboardInputin keyboardinput.o  "_SDL_main", referenced from:      -[SDLMain applicationDidFinishLaunching:] in SDLMain.o  "Stage::KeyboardInput::~KeyboardInput()", referenced from:      Stage::Game::Game(Stage::EntryPoint&)in game.o      Stage::Game::Game(Stage::EntryPoint&)in game.o      Stage::Game::~Game()in main.o  "Stage::Input::Input()", referenced from:      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o      Stage::KeyboardInput::KeyboardInput()in keyboardinput.o  "Stage::EntryPoint::EntryPoint(std::basic_string<char, std::char_traits<char>, std::allocator<char> >)", referenced from:      Stage::SDL_main(int, char**)in main.o  "Stage::Input::popAction()", referenced from:      vtable for Stage::KeyboardInputin keyboardinput.o  "Stage::EntryPoint::EntryPoint()", referenced from:      Stage::Game::Game(Stage::EntryPoint&)in game.o      Stage::Game::Game(Stage::EntryPoint&)in game.old: symbol(s) not foundcollect2: ld returned 1 exit status22(4@45""typeinfo for Stage::Input", referenced from:295073139#19#48#0(6@0"295073139#0#0#0#0#0"0(13@51"Typeinfo for Stage::KeyboardInputin keyboardinput.o295073139#67#58#0(6@0"295073139#0#0#0#0#0"0(4@60""Stage::Input::pushAction(Stage::Action*)", referenced from:295073139#125#63#0(6@0"295073139#0#0#0#0#0"0(13@49"Vtable for Stage::KeyboardInputin keyboardinput.o295073139#188#56#0(6@0"295073139#0#0#0#0#0"0(4@29""_SDL_main", referenced from:295073139#244#32#0(6@0"295073139#0#0#0#0#0"0(13@54"-[SDLMain applicationDidFinishLaunching:] in SDLMain.o295073139#276#61#0(6@0"295073139#0#0#0#0#0"0(4@58""Stage::KeyboardInput::~KeyboardInput()", referenced from:295073139#337#61#0(6@0"295073139#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073139#398#53#0(6@0"295073139#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073139#451#53#0(6@0"295073139#0#0#0#0#0"0(13@29"Stage::Game::~Game()in main.o295073139#504#36#0(6@0"295073139#0#0#0#0#0"0(4@41""Stage::Input::Input()", referenced from:295073139#540#44#0(6@0"295073139#0#0#0#0#0"0(13@55"Stage::KeyboardInput::KeyboardInput()in keyboardinput.o295073139#584#62#0(6@0"295073139#0#0#0#0#0"0(13@55"Stage::KeyboardInput::KeyboardInput()in keyboardinput.o295073139#646#62#0(6@0"295073139#0#0#0#0#0"0(4@121""Stage::EntryPoint::EntryPoint(std::basic_string<char, std::char_traits<char>, std::allocator<char> >)", referenced from:295073139#708#124#0(6@0"295073139#0#0#0#0#0"0(13@37"Stage::SDL_main(int, char**)in main.o295073139#832#44#0(6@0"295073139#0#0#0#0#0"0(4@45""Stage::Input::popAction()", referenced from:295073139#876#48#0(6@0"295073139#0#0#0#0#0"0(13@49"Vtable for Stage::KeyboardInputin keyboardinput.o295073139#924#56#0(6@0"295073139#0#0#0#0#0"0(4@51""Stage::EntryPoint::EntryPoint()", referenced from:295073139#980#54#0(6@0"295073139#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073139#1034#53#0(6@0"295073139#0#0#0#0#0"0(13@46"Stage::Game::Game(Stage::EntryPoint&)in game.o295073139#1087#53#0(6@0"295073139#0#0#0#0#0"0(13@19"Symbol(s) not found295073139#1140#24#0(6@0"295073139#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status295073139#1164#36#0(6@0"295073139#0#0#0#0#0"0(0#0#0"4300885448#747"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki.LinkFileList" -mmacosx-version-min=10.6 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki"1#
+lSLF07#2@129"Link /Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki295130203#295130205#0(0"0(0#0#0"4300885448#747"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki.LinkFileList" -mmacosx-version-min=10.6 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki"0#
 
 CPBXCp "build/Debug/Project Yuki.app/Contents/Frameworks/SDL.framework" /Library/Frameworks/SDL.framework
 s295068475.465086
@@ -3467,6 +3490,34 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295068283#295068374#0(0"0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1272"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-guquddnftnincgeurerhasxezvov/Project_Yuki_Prefix.pch.gch0#
 
+CProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+s295104259.179164
+e295104260.082034
+r1
+xProcessPCH++
+x/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch.gch
+xProject_Yuki_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295104259#295104260#0(89"i686-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1298"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bdjhasehrvybtheerisnbrahbmkc/Project_Yuki_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
+s295104260.082455
+e295104261.379716
+r1
+xProcessPCH++
+x/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch.gch
+xProject_Yuki_Prefix.pch
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+opowerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295104260#295104261#0(92"powerpc-apple-darwin10-gcc-4.0.1: -lobjc: linker input file unused because linking not done0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1293"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bfypyvbdfwuvtegbhbnkxpoiejwv/Project_Yuki_Prefix.pch.gch0#
+
 CProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhmihmxoehzcjxgpiawjgcjdetpt/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
 s295069979.590254
 e295069980.945301
@@ -3479,6 +3530,20 @@ xppc
 xc++
 xcom.apple.compilers.gcc.4_0
 lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295069979#295069980#0(0"0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1286"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhmihmxoehzcjxgpiawjgcjdetpt/Project_Yuki_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s295104257.774150
+e295104259.178832
+r1
+xProcessPCH++
+x/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch.gch
+xProject_Yuki_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done
+lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295104257#295104259#0(89"i686-apple-darwin10-gcc-4.2.1: -lobjc: linker input file unused because linking not done0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1299"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -lobjc -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-cbryuuzeqwugoehaxapuexxvsugr/Project_Yuki_Prefix.pch.gch0#
 
 CProcessPCH++ /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-exkfcgszvggpxeaykhyfprjonmgp/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
 s295069972.712773
@@ -3507,10 +3572,10 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295069977#295069979#0(0"0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1291"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-hlbscqrzdgyvdyhfnjyrquqwaywi/Project_Yuki_Prefix.pch.gch0#
 
 CTouch "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app"
-s295068476.326969
-e295068476.396395
+s295130239.506934
+e295130240.355381
 r1
 xTouch
 x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app
-lSLF07#2@74"Touch /Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app295068476#295068476#0(0"0(0#0#0"4300885448#142"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /usr/bin/touch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app"0#
+lSLF07#2@74"Touch /Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app295130239#295130240#0(0"0(0#0#0"4300885448#142"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /usr/bin/touch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app"0#
 

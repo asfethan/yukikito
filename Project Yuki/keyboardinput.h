@@ -16,6 +16,9 @@ namespace Stage {
 	class KeyboardInput : public Input {
 		private:
 			SDL_Event personal_event;
+		protected:
+			void pushAction(Action *action_to_push);
+			Action* popAction();
 		public:
 			KeyboardInput();
 			//~KeyboardInput();

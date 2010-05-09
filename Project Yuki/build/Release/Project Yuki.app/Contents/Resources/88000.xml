@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="88000" point="interview" localizationstatus="original" fictionaldate="2011-11-08" status="final">
+	<part>
+	    <narration>The digital camera begins rolling. At the lens' side, Madame Soleil. At the viewfinder's side, a journalist. The sun's rise begins, casting an orange glow through the studio windows. The journalist speaks.</narration>
+	    <line id="1000" speaker="journalist" voicelang="en">Welcome to Game Radar-Escapist-Spot-Sutra's exclusive interview with...</line>
+	    
+	    <line id="2000" speaker="yuki" voicelang="en">Yuki Soleil-Takeshi.</line>
+	    <narration>Soleil smiles.</narration>
+	    <line id="3000" speaker="journalist" voicelang="en">It's been very hard to get a hold of you since E3.</line>
+	    <line id="4000" speaker="journalist" voicelang="en">What have you been up to?</line>
+	    <condition>
+	        <choice number="1">
+	            <line id="5000" speaker="yuki" voicelang="en">Drama, drama, drama.</line>
+	            <line id="6000" speaker="yuki" voicelang="en">The game industry is an unruly beast.</line>
+	        </choice>
+	        <choice number="2">
+	        	<line id="7000" speaker="yuki" voicelang="en">Action, action, action!</line>
+	        	<line id="8000" speaker="yuki" voicelang="en">Anything interesting lately has happened outside of work.</line>
+	        </choice>
+	    </condition>
+	    <narration><comment>Zoom in extremely close to the table.</comment>Bang. On the table. Before Yuki's Eyes is NoLifeQueen. NoLifeQueen continues to bang on the table. Soleil pivots to her.</narration>
+	    <line id="9000" speaker="yuki" voicelang="fr">Get out of here!</line>
+	    <narration>NoLifeQueen snickers.</narration>
+	    <line id="10000" speaker="journalist" voicelang="en">Excuse me?</line>
+	    <line id="11000" speaker="yuki" voicelang="en">Sorry, I get a bit nervous around people.</line>
+	    <narration>NoLifeQueen snickers and gets behind the journalist and makes bunny ears and funny faces. The journalist stops the recording.</narration>
+	    <line id="12000" speaker="journalist" voicelang="en">Another mouth-shy game developer.</line>
+	    <line id="13000" speaker="journalist" voicelang="en">Are you autistic?</line>
+	    <line id="14000" speaker="nolifequeen" voicelang="en">Avoidant!</line>
+	    <line id="15000" speaker="yuki" voicelang="en">No, no &#x2014; I'm just a loser.</line>
+	    <narration>NoLifeQueen claws at her ears and winces and shrieks. Soleil smiles. The journalist presses the tape recorder button.</narration>
+	    <line id="16000" speaker="journalist" voicelang="en">Sega's work under your direction has been nothing short of unique.</line>
+	    <line id="17000" speaker="journalist" voicelang="en">What do you attribute most to the team's influence on games?</line>
+	    <condition>
+	    	<choice number="1">
+	    		<line id="18000" speaker="yuki" voicelang="en">Diversity.</line>
+	    		<line id="19000" speaker="yuki" voicelang="en">The PNN's employees are a wide range of peoples with a wide range of experiences.</line>
+	    		<line id="20000" speaker="yuki" voicelang="en">They all come together with each of their uniquely-lived lives.</line>
+	    		
+	    		<line id="21000" speaker="yuki" voicelang="en">Life experience spawns great simulation.</line>
+	    		<narration>NoLifeQueen cringes.</narration>
+	    	</choice>
+	    	<choice number="1">
+	    		<line id="22000" speaker="yuki" voicelang="en">Necessity.</line>
+	    		<line id="23000" speaker="yuki" voicelang="en">The PNN's employees all have needs.</line>
+	    		<line id="24000" speaker="yuki" voicelang="en">We &#x2014; and only we &#x2014; are in a recession.</line>
+	    		<line id="25000" speaker="yuki" voicelang="en">We &#x2014; and only we &#x2014; stare stark in the face of bankruptcy.</line>
+	    		<narration>NoLifeQueen laughs and rubs the journalist's shoulders.</narration>
+	    	</choice>
+	    </condition>
+	    <line id="26000" speaker="journalist" voicelang="en">Why the insistence on "Madame?"</line>
+	    <condition>
+	    	<choice number="1">
+	    		<line id="27000" speaker="yuki" voicelang="en">I'm married.</line>
+	    		<line id="28000" speaker="yuki" voicelang="en">My wife and I are in a very healthy relationship.</line>
+	    		<narration>NoLifeQueen punches the wall.</narration>
+	    		<line id="29000" speaker="yuki" voicelang="en">No legal acknowledgement, but we need no such confirmation.</line>
+	    		<line id="30000" speaker="yuki" voicelang="en">Bond is bond, right?</line>
+	    	</choice>
+	    	<choice number="2">
+	    		<line id="31000" speaker="yuki" voicelang="en">I own a brothel.</line>
+	    		<narration>NoLifeQueen applauds.</narration>
+	    		<line id="32000" speaker="yuki" voicelang="en">"Video games, at their best, are like prostitutes."</line>
+	    	</choice>
+	    </condition>
+	    <line id="33000" speaker="journalist" voicelang="en">Do you like making video games?</line>
+	    <narration>The journalist leans in.</narration>
+	    <line id="34000" speaker="journalist" voicelang="en">Do you deeply, truly enjoy being within the current bounds of the medium?</line>
+	    <condition>
+	    	<choice number="1">
+	    		<line id="35000" speaker="yuki" voicelang="en">Yes.</line>
+	    		<narration>NoLifeQueen jumps for joy.</narration>
+	    		<line id="36000" speaker="yuki" voicelang="en">Simulation is the highest medium.</line>
+	    		<line id="37000" speaker="yuki" voicelang="en">It is limited only by our own mental capacity &#x2014;</line>
+	    		<line id="38000" speaker="yuki" voicelang="en">and, sadly, our own mental capacity is all we will have.</line>
+	    	</choice>
+	    	<choice number="2">
+	    		<line id="39000" speaker="yuki" voicelang="en">No.</line>
+	    		<narration>NoLifeQueen throws her hat on the ground and stomps on it.</narration>
+	    		<line id="40000" speaker="yuki" voicelang="en">There are greater things than video games.</line>
+	    		<line id="41000" speaker="yuki" voicelang="en">Game designers are gods, but only to their own worlds.</line>
+	    		<line id="42000" speaker="yuki" voicelang="en">Who wants to be master of a world that belongs to man?</line>
+	    	</choice>
+	    </condition>
+	    <narration>The journalist switches the camera from recording-mode to still-mode. He raises from his chair. So does Soleil. NoLifeQueen watches intently. The journalist smiles.</narration>
+	    <line id="43000" speaker="journalist" voicelang="en">It's so nice to have an interview that's actually personal.</line>
+	    <line id="44000" speaker="journalist" voicelang="en">Everyone I've ever interviewed seemed... corporate.</line>
+	    <line id="45000" speaker="journalist" voicelang="en">But whatever little you answered, it was raw. It was real.</line>
+	    <line id="46000" speaker="journalist" voicelang="en">Please &#x2014; get in front of something. Strike a pose.</line>
+	    <narration>Madame Soleil gets in front of something.<comment>Player get in front of something, Main Action is pose.</comment> Madame Soleil strikes a pose. NoLifeQueen wraps her arm around the shoulder of Soleil.</narration>
+	    <line id="47000" speaker="journalist" voicelang="en">I will pull every string &#x2014; push every button &#x2014; get on every nerve,</line>
+	    <line id="48000" speaker="journalist" voicelang="en">To get not a character, not a product, but you &#x2014; a person &#x2014; on the magazine cover.</line>
+	    <line id="49000" speaker="journalist" voicelang="en">Smile on, Madame Soleil.</line>
+	    <narration>Madame Soleil shoves NoLifeQueen away.</narration>
+	    <line id="50000" speaker="yuki" voicelang="en">Please &#x2014; call me Yuki.</line>
+	    <narration><comment>Time-lapse zoom out. In the next review, Yuki's face will appear on a magazine.</comment>The journalist packs his things. The journalist leaves. Yuki stands in place, wide grin, lids lightly fastened. NoLifeQueen dances around her, dances among her, tries to dance with her &#x2014; no avail. NoLifeQueen leaves. Allies, comrades, friends and family fill the studio. Nine o'clock.</narration>
+	</part>
+</scriptment>

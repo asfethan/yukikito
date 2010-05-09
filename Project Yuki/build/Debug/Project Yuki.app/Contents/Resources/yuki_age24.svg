@@ -985,9 +985,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="2960.8036"
-     inkscape:cy="5283.0692"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="3578.3745"
+     inkscape:cy="1601.2428"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1016,7 +1016,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1060,12 +1060,15 @@
        id="path3805"
        sodipodi:nodetypes="ccccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <g
        id="g4229"
-       transform="matrix(1.0655401,0,0,1.0652607,-213.18532,336.84149)">
+       transform="matrix(1.0655401,0,0,1.0652607,-213.18532,336.84149)"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <g
          inkscape:export-ydpi="3000"
          inkscape:export-xdpi="3000"
@@ -1137,8 +1140,8 @@
        id="path3821"
        sodipodi:nodetypes="ccccsccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#fff1dc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.27137136;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1146,8 +1149,8 @@
        id="path3826"
        sodipodi:nodetypes="cccccccccccccccccccccccccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#fff1dc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.20627499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1155,8 +1158,8 @@
        id="path3826-9"
        sodipodi:nodetypes="cccscccccccccccccccccccccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffeaca;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.03455186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1164,15 +1167,15 @@
        id="path3828"
        sodipodi:nodetypes="czsssccccccsszzc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <g
        id="g3407"
        transform="matrix(109.2898,0,0,109.25357,25811.249,-62439.148)"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        style="stroke:#000000;stroke-width:0.0255132;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
       <path
          style="fill:#f5f8ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0255132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1191,8 +1194,8 @@
        id="path3830"
        sodipodi:nodetypes="cccscs"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#fff1dc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.64645004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1200,17 +1203,17 @@
        id="path3832"
        sodipodi:nodetypes="csccccczs"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#c9884c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.64645004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 2808.3801,-4469.1437 c 0,0 -120.122,75.1422 -140.0685,131.8847 -42.5455,121.0218 -128.5185,252.7953 -133.1259,380.9066 -4.191,116.3008 95.1505,258.9004 89.9659,357.1075 -10.241,34.8672 -52.2176,579.0595 -59.0482,654.1459 -40.3085,443.1417 -9.19,645.6894 -9.19,645.6894 1.8392,408.1539 -64.1894,391.347 -36.6796,1163.4473 258.8212,155.06091 714.5062,134.8118 975.4912,69.4644 72.9212,-102.8913 42.1766,-776.2586 -152.714,-1360.8098 -125.7334,-466.0021 -49.7146,-729.4276 13.2142,-1174.1766 23.5078,-102.352 82.7596,-239.4876 85.682,-344.4411 5.083,-129.497 -107.0968,-259.5974 -197.7277,-426.9624 -21.9317,-51.1578 -68.0706,-58.22 -68.0706,-58.22 -72.7778,73.4601 -72.2082,-83.9338 -139.3953,-11.8764 -86.4978,-57.4953 -196.5877,22.2841 -244.8879,-35.1918 l 16.5705,9.0142 0,0 0,0 0,0 0,0 0,0 0,0 z"
+       d="m 2808.3801,-4469.1437 c 0,0 -120.122,75.1422 -140.0685,131.8847 -42.5455,121.0218 -128.5185,252.7953 -133.1259,380.9066 -4.191,116.3008 95.1505,258.9004 89.9659,357.1075 -10.241,34.8672 -52.2176,579.0595 -59.0482,654.1459 -40.3085,443.1417 -9.19,645.6894 -9.19,645.6894 1.8392,408.1539 -72.1894,303.347 -44.6796,1075.4473 258.8212,155.0609 714.5062,134.8118 975.4912,69.4644 72.9212,-102.8913 50.1766,-688.2586 -144.714,-1272.8098 -125.7334,-466.0021 -49.7146,-729.4276 13.2142,-1174.1766 23.5078,-102.352 82.7596,-239.4876 85.682,-344.4411 5.083,-129.497 -107.0968,-259.5974 -197.7277,-426.9624 -21.9317,-51.1578 -68.0706,-58.22 -68.0706,-58.22 -72.7778,73.4601 -72.2082,-83.9338 -139.3953,-11.8764 -86.4978,-57.4953 -196.5877,22.2841 -244.8879,-35.1918 l 16.5705,9.0142 0,0 0,0 0,0 0,0 0,0 0,0 z"
        id="path3834"
        sodipodi:nodetypes="csccscccccccccccccccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#edc8a9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.85857975;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1218,8 +1221,8 @@
        id="path3836"
        sodipodi:nodetypes="cccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccccc"
@@ -1227,8 +1230,8 @@
        d="m 3270.6319,-4451.1528 c 43.2744,112.8622 -53.9057,114.9717 -559.0534,-35.2476 l 59.0756,-69.7343 c 207.8035,47.9702 297.5079,48.7137 370.2195,-30.5084 l 129.7583,135.4903 z"
        style="fill:#edc8a9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.85857975;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#f7fcf3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.01727593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1237,12 +1240,15 @@
        id="path3805-7"
        sodipodi:nodetypes="ccccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <g
        id="g4221"
-       transform="matrix(1.0503368,0,0,1.0500614,-142.70903,259.52112)">
+       transform="matrix(1.0503368,0,0,1.0500614,-142.70903,259.52112)"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <g
          inkscape:export-ydpi="3000"
          inkscape:export-xdpi="3000"
@@ -1314,29 +1320,35 @@
        d="m 3259.7953,-5334.8027 c -148.0706,-149.6515 -403.1341,-130.3738 -588.7613,39.2765 -59.6128,94.9527 46.3186,350.7499 82.2602,487.3194 51.7266,43.6412 34.9497,105.5605 161.1646,170.4422 49.448,23.4583 78.8981,26.4796 138.6854,0.095 104.1668,-50.8637 102.654,-100.822 152.3684,-162.5097 44.8209,-215.4179 152.9336,-328.8363 54.2827,-534.5802 l 0,0 0,0 0,0 0,0 z m -174.8471,372.6861 c -22.8221,-0.066 -33.3246,-3.5064 -44.6796,-6.1142 -8.4858,-10.2909 -10.0221,-14.7642 1.3643,-29.6311 37.6359,-16.2357 74.4401,-12.4844 119.2354,17.424 -9.4603,9.0537 -21.0707,10.803 -38.1834,17.3039 m -248.746,6.4089 c 84.7268,-1.017 22.9973,-50.6098 26.5746,-41.4951 -49.6727,-10.5697 -46.5352,4.1706 -92.0608,24.6283 13.2295,13.3663 15.649,9.2568 37.2587,14.1092"
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#e3d7f4;fill-opacity:1;stroke:none;display:inline"
        d="m 3056.7657,-4961.8766 c 22.992,3.8236 53.5817,4.1464 77.8628,-3.0051 21.082,-15.6453 12.4016,-7.1691 15.5216,-15.7288 l -12.6186,4.4338 c -39.078,15.1102 -50.0322,16.5862 -80.7658,14.3001 z"
        id="path4656-4-5-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="fill:#e3d7f4;fill-opacity:1;stroke:none;display:inline"
        d="m 2899.0456,-4959.1327 c -34.704,6.7081 -51.0366,7.2811 -85.0324,-4.3459 -16.195,-17.2738 -12.4015,-7.1691 -15.5215,-15.7287 l 12.6185,4.4338 c 10.3987,9.8872 50.7653,18.7351 87.9354,15.6408 z"
        id="path4656-4-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="fill:#ffe6a3;fill-opacity:1;stroke:#000000;stroke-width:1.01727593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 2917.9446,-5050.2706 c -24.4332,-10.3433 -68.1734,-4.2777 -117.5733,14.3496 l -56.0815,34.1424 54.7116,-25.6359 c 51.2469,-18.7246 75.9825,-9.5604 120.8389,-10.4839 0,-2.3333 -1.8957,-10.8262 -1.8957,-13.1594 l 0,0.9718 0,0 z"
        id="path3868-2-9"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#cb8d03;stroke-width:1.01727593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1344,8 +1356,8 @@
        id="path3870"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cccccc"
@@ -1353,16 +1365,16 @@
        d="m 3479.6548,-4320.42 c 134.1819,58.2201 119.0209,377.375 238.6703,926.1213 -141.2831,400.096 -403.173,644.3046 -446.4658,760.6137 0,-19.152 -41.5253,16.0308 -129.7712,-17.182 -72.2281,-146.0474 227.4003,-98.3655 274.8916,-536.8883 -88.6553,-306.1632 -119.7126,-508.2379 -181.8485,-927.8682"
        style="fill:#f5f8ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.78786993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <g
        id="g5817"
        transform="matrix(109.2898,0,0,109.25357,25831.417,-62551.048)"
        style="stroke:#000000;stroke-width:0.0255132;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000">
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <path
          sodipodi:nodetypes="cccccccccc"
          id="path3902"
@@ -1381,8 +1393,8 @@
        transform="matrix(108.45121,-13.511665,13.509314,108.41525,19993.662,-64258.19)"
        style="fill:#f5f8ff;fill-opacity:1;stroke:#000000;stroke-width:0.0255132;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000">
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <path
          sodipodi:nodetypes="ccc"
          id="path4860-3-9-5-90"
@@ -1396,8 +1408,8 @@
        id="path3737-8"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#c7c9f5;stroke-width:4.17522049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
@@ -1405,8 +1417,8 @@
        id="path3906"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#333333;stroke-width:0.92928988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1414,8 +1426,8 @@
        id="path2965"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffe6a3;fill-opacity:1;stroke:#000000;stroke-width:1.01727593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1423,8 +1435,8 @@
        id="path3868-2"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffe6a3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.81425595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1432,8 +1444,8 @@
        id="path4080"
        sodipodi:nodetypes="csssccccccczcscczzcccccscscccccccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#d39d61;stroke-width:1.38051939;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1441,23 +1453,26 @@
        id="path4086-5-3-2-8-9-7"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.22699703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 3114.6469,-4964.4855 c 3.4131,4.1123 14.8392,4.9774 16.9941,2.8874 -5.1441,2.8095 -16.2833,-3.0819 -16.7161,-5.0748"
        id="path4044-63-4-7-5-5-4-6-0-7-2-4-93-2-5-9-4-1"
        sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="color:#000000;fill:#808080;stroke:#4d4d4d;stroke-width:7.58434725;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 3223.9686,58.64505 c 3.4384,-13.409534 11.9898,-49.5592359 27.4548,-96.95278 4.2466,-28.362291 21.2861,-69.31586 17.6538,-92.29761 66.5207,-45.52569 118.415,-0.92901 176.9562,3.06715 -8.0756,27.26533 -14.1765,30.610759 -4.6745,69.56674 9.5006,38.965115 36.6497,100.391259 36.867,117.85233"
        id="path3796-7"
        sodipodi:nodetypes="ccccsc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#b3b3b3;stroke:#4d4d4d;stroke-width:7.58434725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1465,8 +1480,8 @@
        id="path3739-9"
        sodipodi:nodetypes="ccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;fill:#808080;stroke:#4d4d4d;stroke-width:7.58434725;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1474,8 +1489,8 @@
        id="path3796-7-7"
        sodipodi:nodetypes="ccccsc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#b3b3b3;stroke:#4d4d4d;stroke-width:7.58434725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1483,13 +1498,16 @@
        id="path3739-9-9"
        sodipodi:nodetypes="ccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <g
        style="display:inline"
        id="g4438"
-       transform="matrix(12.927917,0,0,12.927917,3883.5614,-7902.9514)">
+       transform="matrix(12.927917,0,0,12.927917,3883.5614,-7902.9514)"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <g
          style="stroke:#cccccc;stroke-width:0.85043991"
          transform="matrix(0.06877389,-0.02499652,0.02500777,0.06875926,-64.32955,264.43542)"
@@ -1588,8 +1606,8 @@
        id="g3460"
        transform="matrix(106.26335,0,0,106.23352,25196.043,-60885.659)"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        style="stroke:#000000;stroke-width:0.00874639;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
       <path
          sodipodi:nodetypes="cccc"
@@ -1609,8 +1627,8 @@
        transform="matrix(-109.28979,-0.03644927,-0.03646115,109.25356,-21476.367,-61589.458)"
        style="fill:#f5f8ff;fill-opacity:1;stroke:#000000;stroke-width:0.0255132;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000">
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <path
          sodipodi:nodetypes="ccc"
          id="path4860-3-9-5-90-2"
@@ -1624,8 +1642,8 @@
        id="path3737-8-3"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <g
        style="display:inline"
@@ -1634,8 +1652,8 @@
        inkscape:transform-center-x="862.13382"
        inkscape:transform-center-y="-2.4022358"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000">
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <path
          sodipodi:nodetypes="ccccssccccccsssccccccsssccccccccccsccccccsccccccccscccccccccccccsscscccccccccscscccccsscccscccccccccccccccccssccccscscsccccscccccsssssccsssscccsssscccsssssccccccssssccccccccscccccccccccc"
          id="path3914"
@@ -1666,8 +1684,8 @@
        id="g3456"
        transform="matrix(106.26335,0,0,106.23352,25198.115,-60852.53)"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        style="stroke:#000000;stroke-width:0.00874639;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
       <path
          sodipodi:nodetypes="cccc"
@@ -1687,36 +1705,45 @@
        d="m 3031.4892,-4994.9061 c 6.6808,-4.1804 6.0091,-9.5096 22.7011,-15.4597 27.1413,-8.9175 43.0281,-6.0165 81.3113,5.7467 16.3396,14.9006 11.1558,15.7342 15.261,24.1115 l -8.3534,4.5693 c -19.5575,-14.9622 -59.0948,-42.1438 -110.9161,-18.9869 z"
        id="path4656"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.22699703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 3104.7222,-4962.2382 c 3.4132,4.1123 14.8392,4.9774 16.9941,2.8874 -5.144,2.8095 -16.2833,-3.0818 -16.716,-5.0748"
        id="path4044-63-4-7-5-5-4-6-0-7-2-4-93-2-5-9-8-3"
        sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.52591431;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        d="m 3144.3058,-4977.8151 c -47.8578,26.7742 -105.8908,14.5247 -110.1576,7.9721"
        id="path4856"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.22699703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 3097.8869,-4961.0631 c 3.4131,4.1124 14.8391,4.9775 16.9941,2.8875 -5.1441,2.8095 -16.2834,-3.0818 -16.7161,-5.0748"
        id="path4044-63-4-7-5-5-4-6-0-7-2-4-93-2-5-9-8-8-9"
        sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2.03455186;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 3036.8066,-4995.285 c -4.7453,8.0695 -10.8536,20.3774 -17.8535,20.8926"
        id="path4858"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2.03455186;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1724,8 +1751,8 @@
        id="path4860"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2.03455186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1733,13 +1760,16 @@
        id="path4062-2-3"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <g
        style="display:inline"
        id="g3522-1"
-       transform="matrix(-12.296293,0,0,12.293069,1898.5979,-7843.4651)">
+       transform="matrix(-12.296293,0,0,12.293069,1898.5979,-7843.4651)"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <path
          inkscape:connector-curvature="0"
          inkscape:export-ydpi="3000"
@@ -1774,8 +1804,8 @@
        id="path3870-4"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#d39d61;stroke-width:1.01727593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1783,8 +1813,8 @@
        id="path4086-5-3"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.52591431;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
@@ -1792,23 +1822,26 @@
        id="path4856-9"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#2d1650;fill-opacity:1;stroke:none;display:inline"
        d="m 2919.9342,-4988.6438 c -6.6809,-4.1803 -5.3392,-11.5294 -22.0319,-17.47 -39.8986,-9.1382 -63.4704,-2.0607 -84.3273,9.0972 -16.1951,17.2738 -6.2404,14.4388 -9.3605,22.9984 l 6.9314,1.7258 c 19.4802,-15.6417 56.1388,-46.9354 108.7844,-16.3801 z"
        id="path4656-4"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2.03455186;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 2914.5162,-4992.0847 c 4.7446,8.0685 10.8526,20.3668 17.8535,20.8821"
        id="path4858-0"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2.03455186;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1816,8 +1849,8 @@
        id="path4860-5"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2.03455186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1825,8 +1858,8 @@
        id="path4062-2-3-2"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1834,8 +1867,8 @@
        d="m 2358.0746,-3163.0643 c -35.9289,-3.0665 -133.6647,-195.3083 -138.6435,-272.0676 36.646,-51.2598 37.7608,-196.6936 59.3236,-268.5558"
        style="fill:#f5f8ff;fill-opacity:1;stroke:#000000;stroke-width:4.64645004;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1843,8 +1876,8 @@
        d="m 3144.6535,-4979.399 c 8.2664,-5.4445 39.6347,-6.3194 40.8211,-12.7849 -4.3864,8.8472 -37.9776,4.3751 -44.3537,9.2363"
        style="fill:#000000;stroke:#000000;stroke-width:0.50863814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1852,8 +1885,8 @@
        d="m 3134.5883,-4981.295 c 8.2654,-5.4443 63.1854,-12.0454 64.3717,-18.4814 -4.3854,8.8473 -61.908,8.5555 -68.2841,13.4261"
        style="fill:#000000;stroke:#000000;stroke-width:0.50863814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1861,8 +1894,8 @@
        d="m 3127.7504,-4985.0963 c 8.2654,-5.4445 48.7505,-11.6564 49.9367,-18.1016 -4.3854,8.8462 -50.5119,6.6106 -56.8881,11.5292"
        style="fill:#000000;stroke:#000000;stroke-width:0.50863814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1870,8 +1903,8 @@
        d="m 3120.5325,-4989.646 c 8.2661,-5.4445 37.3552,-9.4299 38.5416,-15.8276 -4.3857,8.8471 -37.5971,6.6113 -43.9731,11.5303"
        style="fill:#000000;stroke:#000000;stroke-width:0.50863814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1879,8 +1912,8 @@
        d="m 3111.7964,-4994.2056 c 8.2653,-5.4446 36.5957,-5.9304 37.7813,-12.4149 -4.3856,8.847 -33.7986,3.2088 -40.1748,8.0694"
        style="fill:#000000;stroke:#000000;stroke-width:0.50863814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1888,8 +1921,8 @@
        d="m 3105.3397,-4998.1913 c 8.2654,-5.4445 32.7965,-2.917 33.9829,-9.3329 -4.3856,8.8464 -30.0002,0 -36.3763,5.0552"
        style="fill:#000000;stroke:#000000;stroke-width:0.50863814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1897,8 +1930,8 @@
        d="m 3092.0442,-5001.6138 c 8.2661,-5.4439 32.7972,-2.9162 33.9837,-9.3328 -4.3857,8.847 -30.0003,0 -36.3765,5.055"
        style="fill:#000000;stroke:#000000;stroke-width:0.50863814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1906,8 +1939,8 @@
        d="m 3070.7561,-5002.5272 c 7.7308,-6.1248 32.3849,-5.9304 32.9704,-12.4729 -3.5495,9.2353 -29.8535,2.916 -35.7517,8.4578"
        style="fill:#000000;stroke:#000000;stroke-width:0.50863814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1915,8 +1948,8 @@
        d="m 3135.7429,-4981.7815 c 8.9458,7.9722 34.546,6.0275 38.6173,0.9719 -10.4545,7.9718 -37.1095,-1.3617 -38.7354,-5.6383"
        style="fill:#000000;stroke:#000000;stroke-width:0.50863814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1924,8 +1957,8 @@
        d="m 3139.6337,-4973.6929 c 3.414,4.0829 20.9172,1.944 23.072,0 -5.1442,2.8195 -22.361,-0.091 -22.7936,-2.0414"
        style="fill:#000000;stroke:#000000;stroke-width:0.22699703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1933,8 +1966,8 @@
        d="m 3132.7693,-4970.7378 c 3.4138,4.0836 14.8395,4.9586 16.9944,2.917 -5.1445,2.8195 -16.2835,-3.1108 -16.7159,-5.0555"
        style="fill:#000000;stroke:#000000;stroke-width:0.22699703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -1942,8 +1975,8 @@
        d="m 3126.3089,-4969.2678 c 3.4128,4.083 14.8385,4.958 16.9934,2.9169 -5.1437,2.8187 -16.2835,-3.1115 -16.7159,-5.0553"
        style="fill:#000000;stroke:#000000;stroke-width:0.22699703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffe6a3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.94723487;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1951,8 +1984,8 @@
        id="path4082-2"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0">
       <g
          inkscape:groupmode="layer"
@@ -2019,13 +2052,16 @@
        id="path4086-5-3-2-8-9"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <g
        style="display:inline"
        id="g3522"
-       transform="matrix(12.296293,0,0,12.293069,4057.3498,-7837.9552)">
+       transform="matrix(12.296293,0,0,12.293069,4057.3498,-7837.9552)"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <path
          inkscape:connector-curvature="0"
          inkscape:export-ydpi="3000"
@@ -2059,8 +2095,8 @@
        id="g5885"
        transform="matrix(97.242779,0,0,97.217282,24018.397,-56006.649)"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000">
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
       <path
          style="fill:#000000;stroke:#000000;stroke-width:0.00523129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -218.11583,524.91197 c -0.085,-0.0558 -0.4232,-0.0731 -0.4354,-0.13932 0.0451,0.091 0.40616,0.0528 0.47173,0.10294"
@@ -2140,8 +2176,8 @@
        id="path4082"
        sodipodi:nodetypes="ccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0">
       <g
          inkscape:groupmode="layer"
@@ -2208,8 +2244,8 @@
        id="path3238"
        sodipodi:nodetypes="cccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#536c67;stroke-width:2.78786993;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
@@ -2217,8 +2253,8 @@
        id="path3238-7"
        sodipodi:nodetypes="cccc"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ccc"
@@ -2226,12 +2262,12 @@
        d="m 3622.7981,-3214.4256 c 34.6795,-9.8878 121.875,-206.4794 112.1288,-282.7736 -45.7477,-43.3332 -27.3589,-67.8661 -62.2275,-134.3007"
        style="fill:#f5f8ff;fill-opacity:1;stroke:#000000;stroke-width:4.64645004;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
        inkscape:connector-curvature="0" />
     <path
-       inkscape:export-ydpi="3000"
-       inkscape:export-xdpi="3000"
+       inkscape:export-ydpi="50"
+       inkscape:export-xdpi="50"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
        sodipodi:nodetypes="cccc"
        id="path3928"
@@ -2239,8 +2275,8 @@
        style="fill:none;stroke:#000000;stroke-width:1.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:connector-curvature="0" />
     <path
-       inkscape:export-ydpi="3000"
-       inkscape:export-xdpi="3000"
+       inkscape:export-ydpi="50"
+       inkscape:export-xdpi="50"
        inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
        transform="matrix(5.7864425,-2.7378701,1.5126157,3.8847463,-1012.685,-3419.4502)"
        d="m 662.53032,131.625 c 0,0.48325 -0.79708,0.875 -1.78032,0.875 -0.98324,0 -1.78032,-0.39175 -1.78032,-0.875 0,-0.48325 0.79708,-0.875 1.78032,-0.875 0.98324,0 1.78032,0.39175 1.78032,0.875 z"
@@ -2256,60 +2292,90 @@
        d="m 2835.8908,-4961.8973 c -3.4133,4.1124 -14.8393,4.9775 -16.9943,2.8874 5.1441,2.8095 16.2834,-3.0817 16.7161,-5.0749"
        id="path4044-63-4-7-5-5-4-6-0-7-2-4-93-2-5-9-4"
        sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.22699703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 2845.8153,-4959.65 c -3.4131,4.1123 -14.8392,4.9775 -16.9941,2.8873 5.1441,2.8096 16.2833,-3.0817 16.7161,-5.0747"
        id="path4044-63-4-7-5-5-4-6-0-7-2-4-93-2-5-9-8"
        sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.22699703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 2852.6506,-4958.4748 c -3.4132,4.1123 -14.8393,4.9774 -16.9942,2.8873 5.1441,2.8096 16.2834,-3.0817 16.716,-5.0747"
        id="path4044-63-4-7-5-5-4-6-0-7-2-4-93-2-5-9-8-8"
        sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 2953.6413,-4708.6135 c 12.8756,6.0283 34.8054,9.2267 53.188,0"
+       d="m 2953.6413,-4710.0277 c 12.8756,6.0283 34.8054,9.2267 53.188,0"
        id="path4237"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.40220714;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 2973.5056,-4777.2472 c 3.7822,4.1291 10.9624,4.5331 13.5182,-0.2255"
+       style="fill:none;stroke:#000000;stroke-width:1.31712389;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 2970.9068,-4780.3016 c 2.1828,5.679 16.5099,5.3715 19.4155,-0.3886"
        id="path3371"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.40220714;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 2986.9976,-4777.0431 c 3.7824,-4.1291 10.8578,-3.9114 12.8981,-0.9057"
+       style="fill:none;stroke:#000000;stroke-width:1.31712389;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 2989.5905,-4780.1099 c 3.553,-3.8786 10.199,-3.674 12.1156,-0.8507"
        id="path3371-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.40220714;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 2961.4299,-4777.1416 c 3.7824,-4.1291 10.1081,-2.6965 12.1484,0.3092"
+       style="fill:none;stroke:#000000;stroke-width:1.31712389;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 2959.5638,-4780.2024 c 3.553,-3.8786 9.4948,-2.5329 11.4113,0.2904"
        id="path3371-3"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:1.40220726;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 2962.0648,-4777.4186 c 3.7425,-1.7105 7.4849,-0.5175 11.2274,0.729 -7.6569,-6.1147 -8.7014,-2.3106 -11.2274,-0.729 z"
+       style="fill:#000000;stroke:#000000;stroke-width:1.31712401;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 2959.6298,-4782.2304 c 3.5155,-1.6067 7.0307,-0.4861 10.5462,0.6848 -7.1923,-5.7437 -8.1735,-2.1704 -10.5462,-0.6848 z"
        id="path4247"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:1.40220726;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 2999.3117,-4778.1391 c -3.7425,-1.7105 -7.4849,-0.5175 -11.2274,0.7291 7.6569,-6.1147 8.7014,-2.3107 11.2274,-0.7291 z"
+       style="fill:#000000;stroke:#000000;stroke-width:1.31712401;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 3001.511,-4782.5535 c -3.5153,-1.6068 -7.0307,-0.4861 -10.5461,0.6848 7.1923,-5.7437 8.1734,-2.1705 10.5461,-0.6848 z"
        id="path4247-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3371-2"
-       d="m 2962.3271,-4771.2567 c -8.4748,0.2877 -11.0425,-11.0685 -3.5193,-20.9956"
-       style="fill:none;stroke:#000000;stroke-width:0.74234498;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       d="m 2960.4067,-4774.6746 c -7.9607,0.2703 -10.3726,-10.3969 -3.3059,-19.7216"
+       style="fill:none;stroke:#000000;stroke-width:0.69730091;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/Users/torchie/Desktop/yuki.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
   </g>
 </svg>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="40000" point="clan4_blueskyfield" localizationstatus="original" fictionaldate="2011-07-29" status="final">
+	<part>
+		<narration>At the end of the day, Yuki's face is blank. Time for the bi-monthly grind.<comment>Close-up sudden cut to Blue Sky Field.</comment></narration>
+		<narration>Kneeling on the ground, NoLifeQueen holds the same blank expression. To her head a stander holds a gun. NoLifeQueen mirrors. The two hold their weapons to each other.<comment>Create some suspense here. The Player won't know what the first move will be, nor will he know who will make it.</comment>The Queen's body shivers with intent. The masked opponent mirrors. Break. A player makes a move. Yuki has visuals on the opponent. NoLifeKing. The Game? Afoot!<comment>One of the purest battles in The Clan. There are very few obstacles, on the stage are only the players and their guns. No gimmicks here. Just that good old one-on-one.</comment></narration>
+		<narration>NoLifeQueen wins. NoLifeKing sits quietly on the grass as his hit-point counter reels and reels. NoLifeQueen rests next to him. JJ sighs.</narration>
+		<line id="1000" speaker="jj" voicelang="ja">Maybe I am not meant for father's work.</line>
+		<line id="2000" speaker="jj" voicelang="ja">Both of us should watch our way with foreign tools.</line>
+		<line id="3000" speaker="jj" voicelang="ja">Catch you later.</line>
+		<line id="4000" speaker="jj" voicelang="ja">Sis.</line>
+		<narration>JJ's account is terminated. The ever-constant breeze strokes the hair of the field. The winds lead clouds to shift their moods. These fields are calm. These skies are blue. This minimal world is of genius design — satchmo_omega yells and screams and wheels in a cluster of titanic war-machines. Her virtual and real voices against each other grind.</narration>
+		<line id="5000" speaker="satchmo_omega" voicelang="en">Back it up, back it up!</line>
+		<line id="6000" speaker="satchmo_omega" voicelang="en">That's good, stay right there!</line>
+		<narration>satchmo_omega turns around.</narration>
+		<line id="7000" speaker="satchmo_omega" voicelang="ja">Yuki!</line>
+		<line id="8000" speaker="satchmo_omega" voicelang="ja">Follow me, we've got debriefing to do.</line>
+		<narration>NoLifeQueen follows satchmo_omega. Enter Davis.<comment>satchmo_omega leads the others up to the top of one structure.</comment></narration>
+		<line id="9000" speaker="davis" voicelang="en">Here's the deal, lovebirds.</line>
+		<line id="10000" speaker="davis" voicelang="en">Across our barricades revolts a militia of rogue Wikipedia editors.</line>
+		<line id="11000" speaker="yuki" voicelang="en">Wikipedia editors?</line>
+		<line id="12000" speaker="davis" voicelang="en">The Clan's core mechanics change too sporadically for documentation.</line>
+		<line id="13000" speaker="davis" voicelang="en">Say it's a tactical shooter, and in a half-year it's a turn-based tennis game.</line>
+		<narration>The trio make their way to the elevator.</narration>
+		<line id="14000" speaker="davis" voicelang="en">We say, "don't bother documenting it, you'll always be wrong."</line>
+		<line id="15000" speaker="davis" voicelang="en">But we're human. And we have paper. And we have pens.</line>
+		<line id="16000" speaker="davis" voicelang="en">If we feel it need be, we would even document life. It's our nature.</line>
+		<line id="17000" speaker="davis" voicelang="en">The Wikipedians seek the program that generates the game's mechanics.</line>
+		<narration>At the top of the structure, NoLifeQueen continues to follow satchmo_omega. After a point, NoLifeQueen continues as the others are remain distant.<comment>Camera stays extremely close to NoLifeQueen.</comment></narration>
+		<line id="18000" speaker="davis" voicelang="en">If they delete it, we can say good-bye to the essence of The Clan.</line>
+		<narration>A shark with a laser on its head riding a tiger with a laser on its head walks up to NoLifeQueen and purrs.</narration>
+		<line id="19000" speaker="nolifequeen" voicelang="fr">Oh, it's adorable!</line>
+		<narration>A rogue missile demolishes a lower half of the structure.</narration>
+		<line id="20000" speaker="satchmo_omega" voicelang="en">Insurgents!</line>
+		<narration>Additional explosions! More missiles turn the air to flame. NoLifeQueen stands in place, smiling amongst the tigers. satchmo_omega leaves the platform and advises NoLifeQueen from a distance.</narration>
+		<line id="21000" speaker="satchmo_omega" voicelang="en">Remember, the tigers are speedy and they don't know fear!</line>
+		<line id="22000" speaker="nolifequeen" voicelang="fr">What?</line>
+		<narration>NoLifeQueen is standing on the sling of a trebuchet. Launch! A mess of tigers and sharks and lasers and Clan members lands behind enemy lines.<comment>Impressment opportunity for the rogue tigers.</comment> It is raining tigers and sharks. NoLifeQueen rushes across the field to cover from the beasts. She stands still.</narration>
+		<line id="23000" speaker="yuki" voicelang="fr">Wait a minute.</line>
+		<narration><comment>Dolly away from the computer screen. The game music overstays its welcome in Real Life.</comment>From the contrasting calm of her darkened house, Yuki stretches.</narration>
+		<line id="24000" speaker="yuki" voicelang="fr">I don't know what I'm supposed to be doing.</line>
+		<narration>Yuki, tank-top and pajama-capri, roams about the room. Nozomi, playing the game next door, knocks on the thin wall between her and Yuki's dwelling. She yells through;</narration>
+		<line id="25000" speaker="nozomi" voicelang="ja">Yuki, you're not moving!</line>
+		<line id="26000" speaker="nozomi" voicelang="ja">What's wrong? Are you asleep?</line>
+		<line id="27000" speaker="nozomi" voicelang="ja">Are you washing the dishes?</line>
+		<line id="28000" speaker="nozomi" voicelang="ja">Are you doing something you don't want me to know about&#x2014;</line>
+		<narration>Yuki yells.</narration>
+		<line id="29000" speaker="yuki" voicelang="ja">Shut up!</line>
+		<line id="30000" speaker="yuki" voicelang="fr">Just tell me what I'm looking for.</line>
+		<narration>Nozomi fidgets and fumbles around.</narration>
+		<line id="31000" speaker="nozomi" voicelang="ja">They're trying to get the &#x2014; ugh, wait &#x2014;</line>
+		<narration>Into Yuki's house enters, tablet ablaze, clothed in work-blouse and pajama-pants, Nozomi.</narration>
+		<line id="32000" speaker="nozomi" voicelang="ja">What the hell, I live next door.</line>
+		<line id="33000" speaker="nozomi" voicelang="ja">Anyway, you're looking for a gigantic lock.</line>
+		<narration>Nozomi sits next to Yuki. Yuki tries to focus on the computer.</narration>
+		<line id="34000" speaker="yuki" voicelang="fr">Finally, a decent LAN party.</line>
+		<narration>NoLifeQueen stands still behind enemy lines. A man runs by holding a gigantic lock.</narration>
+		<line id="35000" speaker="yuki" voicelang="en">He's making it to his base!</line>
+		<line id="36000" speaker="yuki" voicelang="en">Somebody get that man!</line>
+		<line id="37000" speaker="yuki" voicelang="en">Get the lock back to home base!</line>
+		<narration>And then all of that happens. NolifeQueen gets the lock and makes it back to home base.</narration>
+		<narration>Nozomi's tablet is sitting on the nightstand. Yuki puts down her laptop. <comment>The screen should face the camera so that the player can see NoLifeQueen eventually being defeated and getting a Game Over.</comment></narration>
+		<narration>Yuki looks Nozomi in the eyes&#x2014; Yuki puts her hands on her lap and stands at attention&#x2014; her pupils unobscured &#x2014; on the ground she turbo-toe-taps &#x2014;</narration>
+		<line id="38000" speaker="yuki" voicelang="fr">That was a good game wait a minute&#x2014; I know &#x2014; that look&#x2014;</line>
+		<narration>Nozomi puts out a hand&#x2014; on the lap of the cat&#x2014; that's what they say in the rising&#x2014; sun right &#x2014; cats are the submissive ones the scared ones the ones&#x2014; waiting to be manipulated but this cat is this the one in the control this is her room this is her house this is her relationship &#x2014; relationship &#x2014; nozomi puts her hands down yuki's pants &#x2014; push her away lick your paws run to thy milk&#x2014;</narration>
+		<line id="39000" speaker="yuki" voicelang="fr">I saw an Actress!</line>
+		<narration>Nozomi jumps.</narration>
+		<line id="40000" speaker="nozomi" voicelang="ja">What?</line>
+		<line id="41000" speaker="yuki" voicelang="fr">I saw an Actress actresses are pretty but so are Actors actors are pretty&#x2014;</line>
+		<narration>Within the eye of Yuki flashes advertisement newspaper magazine cannes movies pretty things pretty people life size barbie dolls drawers full of waterproof mascara to suppress the tears&#x2014; Nozomi attempts to use the yes-cliché wordless shush to silence the cat to calmly submit, transmission request failed &#x2014; Yuki, processing this, gives a final solitary breath.<comment>Yuki gets up, the player can walk around.</comment></narration>
+		<line id="42000" speaker="yuki" voicelang="fr">Do not touch me. You dare take from me things I give to no one.</line>
+		<narration>Nozomi's eyes widen.</narration>
+		<line id="43000" speaker="nozomi" voicelang="ja">Don't worry, it's a societal thing, my last girlfriends were like this too&#x2014;</line>
+		<line id="44000" speaker="yuki" voicelang="fr">Society is easy. Individuals are hard.</line>
+		<line id="45000" speaker="nozomi" voicelang="ja">We, I, no, We, can fix this&#x2014;</line>
+		<line id="46000" speaker="yuki" voicelang="fr">Fraternizing is not permitted, even outside of the workplace. Please leave the premises.</line>
+		<narration><comment>Show the calendar on the screen, switching to the next day, as this happens.</comment>Nozomi picks up her tablet. Nozomi picks up her self. Nozomi picks up her feet. Nozomi opens the door. Nozomi walks through the door. Nozomi closes the door. Game Over.</narration>
+	</part>
+</scriptment>

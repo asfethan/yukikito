@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="10000" point="college_dropout" localizationstatus="original" fictionaldate="2008-06-20" status="final" >
+	<part>
+		<narration>2008. Graduation day. Down to Earth floats in a single cap. Somebody catches it.</narration>
+		<narration>Standing across the fence from that somebody is Yuki, holding her termination papers. She tears them apart and sheds a tear.</narration>
+		<line id="900" speaker="yuki" voicelang="fr">I better catch the train.</line>
+		<narration>Yuki begins the walk of shame.</narration>
+		<narration>A Graduate from the class of 2008 calls out to her.</narration>
+		<line id="1000" speaker="graduate" voicelang="fr">Hey!</line>
+		<narration>Yuki looks back. She mutters under her breath.</narration>
+		<line id="2000" speaker="yuki" voicelang="fr">Nobody here speaks French. This is a trap. Approach with great caution.</line>
+		<narration>Yuki half-waves back..</narration>
+		<line id="3000" speaker="yuki" voicelang="ja">Hello, good morning.</line>
+		<narration>They walk down the street together.<comment>Graduate leads to the train station, Player follows.</comment></narration> 
+		<line id="4000" speaker="graduate" voicelang="fr">But it's 5:00 PM.</line>
+		<line id="5000" speaker="graduate" voicelang="fr">Old enough to drink, and you can't tell when it's happy hour? How do you survive?</line>
+		<line id="6000" speaker="yuki" voicelang="fr">I don't drink as much as I did before college.</line>
+		<line id="7000" speaker="yuki" voicelang="fr">Then again, I'm not really surviving, am I?</line>
+		<line id="8000" speaker="graduate" voicelang="fr">What do you mean?</line>
+		<line id="9000" speaker="yuki" voicelang="fr">I dropped out.</line>
+		<line id="10000" speaker="yuki" voicelang="fr">My senior year's college fund&#x2014; that's all I had left to live on.</line>
+		<line id="11000" speaker="graduate" voicelang="fr">So we're not in the same boat, here.</line>
+		<line id="12000" speaker="graduate" voicelang="fr">So much for young and beautiful college grads outside the land of the rising sun.</line>
+		<line id="13000" speaker="graduate" voicelang="fr">Just think! Us graduates, on an epic journey to find Pomme-friendly work&#x2014; but you're no graduate.</line>
+		<line id="14000" speaker="graduate" voicelang="fr">Opportunity lost! Stay in school, fool. This economy is unkind to the unemployed.</line>
+		<line id="15000" speaker="graduate" voicelang="fr">How are you going to make money after that fund runs out?</line>
+		<line id="16000" speaker="yuki" voicelang="fr">I'll figure that out when mom stops sending me her residuals.</line>
+		<line id="17000" speaker="graduate" voicelang="fr">What!</line>
+		<line id="18000" speaker="graduate" voicelang="fr">Don't suck your parents dry, that's how people become NEET!</line>
+		<line id="19000" speaker="yuki" voicelang="fr">NEET?</line>
+		<line id="20000" speaker="graduate" voicelang="fr">Not in Education, Employment, or Training.</line>
+		<line id="21000" speaker="graduate" voicelang="fr">Deadbeats. Losers. Otaku. Fujoshi. Nerds.</line>
+		<line id="22000" speaker="graduate" voicelang="fr">People who wake up every morning and decide to jerk off to comic books instead of living their damn lives!</line>
+		<line id="23000" speaker="graduate" voicelang="fr">They lock the doors, close the windows, stock up on crappy food,</line>
+		<line id="24000" speaker="graduate" voicelang="fr">And take solace in throwing noodles in hot water, halfway making their bed, and sleeping for twelve hours.</line>
+		<line id="25000" speaker="yuki" voicelang="fr">Oh.</line>
+		<narration>The two continue their walk without another word. The sights and sounds of Tokyo exist. The Graduate's cellphone rings.</narration>
+		<line id="26000" speaker="graduate" voicelang="ja">Hello?</line>
+		<narration>The Graduate gives Yuki a thumbs-up and a grin. He covers the phone and to Yuki whispers:</narration>
+		<line id="27000" speaker="graduate" voicelang="fr">It's the guys at tri-Ace, calling about my internship!</line>
+		<narration>The Graduate listens to the phone, all the while nodding and smiling. Then, he frowns.</narration>
+		<line id="28000" speaker="graduate" voicelang="ja">You're &#x2014; cutting the internship program? Too costly?</line>
+		<line id="29000" speaker="graduate" voicelang="ja">Well, I mean, you don't have to pay me&#x2014;</line>
+		<line id="30000" speaker="graduate" voicelang="ja">Restricting employment to citizens of Japanese heritage? You can do that?</line>
+		<line id="31000" speaker="graduate" voicelang="ja">Nintendo policy?</line>
+		<line id="32000" speaker="graduate" voicelang="ja">Wait, Nintendo?</line>
+		<narration>A delay. The other end of the conversation's explaining something.</narration>
+		<line id="33000" speaker="graduate" voicelang="ja">I see. Have a nice summer, sellouts.</line>
+		<narration>The graduate throws the phone at the train tracks. He smiles.</narration>
+		<line id="34000" speaker="graduate" voicelang="ja">There goes my internship.</line>
+		<line id="35000" speaker="yuki" voicelang="ja">And here comes the train.</line>
+		<narration>The Graduate storms past Yuki and onto the train. When Yuki gets on the train, she sees The Graduate at the door on the other side of the car. Shortly after, a group of Cap-and-Tassels board the train.<comment>This happens by default, and if the player attempts to move to the side of the train where The Graduate is, the people interrupt her by walking in quickly.</comment> The train starts.</narration>
+		<line id="36000" speaker="graduate" voicelang="ja">Hey, it's you all!</line>
+		<narration>The Cap-and-Tassels give the same reply, in different dialects.</narration>
+		<line id="37000" speaker="caps" voicelang="ja">Hey man, what's up?</line>
+		<line id="38000" speaker="graduate" voicelang="ja">Nothing much! So what are your plans for the future?</line>
+		<line id="39000" speaker="caps" voicelang="ja">Work, in the grand old video game industry!</line>
+		<line id="40000" speaker="graduate" voicelang="fr">Hey, Yuki. Come over here; this exit'll make it easier to get off the train.</line>
+		<narration>Yuki begins to walk to the other side of the train car. The Cap-and-Tassels dream of the future.<comment>No dialogue progress until the player walks to the other side of the train.</comment></narration>
+		<narration>A single Cap-and-Tassel clasps her hands together.</narration>
+		<line id="41000" speaker="caps" voicelang="ja">I got accepted for employment... the big time! I can't wait until I can work on...</line>
+		<narration>Yuki continues walking across the train car. Each of the Cap-and-Tassels holds a binder with a design document for a hit new video game.<comment>Written on the front of each binder is the game in question's series number, counting sequels, spinoffs, and remakes. These can be approximate, exactness isn't the point. Zoom in on Yuki. As Yuki passes a Cap-and-Tassel, that Cap-and-Tassel recites the game's marketing name. Vision text appears on the binder showing the series number of that game.</comment></narration>
+		<line id="42000" speaker="caps" voicelang="ja">No More Heroes 2!</line>
+				<line id="43000" speaker="game" voicelang="">No More Heroes 2</line>
+				
+		<line id="44000" speaker="caps" voicelang="ja">Soul Calibur 4!</line>
+				<line id="45000" speaker="game" voicelang="">Soul Calibur 5</line>
+				
+		<line id="46000" speaker="caps" voicelang="ja">Gran Turismo 5!</line>
+				<line id="47000" speaker="game" voicelang="">Gran Turismo 9</line>
+				
+		<line id="48000" speaker="caps" voicelang="ja">Tekken 6!</line>
+				<line id="49000" speaker="game" voicelang="">Tekken 11</line>
+				
+		<line id="50000" speaker="caps" voicelang="ja">Pro Evolution Soccer 2009!</line>
+				<line id="51000" speaker="game" voicelang="">Pro Evolution Soccer 12</line>
+				
+		<line id="52000" speaker="caps" voicelang="ja">Phantasy Star Portable!</line>
+				<line id="53000" speaker="game" voicelang="">Phantasy Star 16</line>
+				
+		<line id="54000" speaker="caps" voicelang="ja">Resident Evil 5!</line>
+				<line id="55000" speaker="game" voicelang="">Resident Evil 17</line>
+				
+		<line id="56000" speaker="caps" voicelang="ja">Kirby Super Star Ultra!</line>
+				<line id="57000" speaker="game" voicelang="">Kirby 18</line>
+				
+		<line id="58000" speaker="caps" voicelang="ja">Tales of Vesperia!</line>
+				<line id="59000" speaker="game" voicelang="">Tales 20</line>
+				
+		<line id="60000" speaker="caps" voicelang="ja">Pokemon HeartGold!</line>
+				<line id="61000" speaker="game" voicelang="">Pokemon 44?</line>
+
+		<line id="62000" speaker="caps" voicelang="ja">Mega Man 9!</line>
+				<line id="63000" speaker="game" voicelang="">Megaman 121?</line>
+				
+		<line id="64000" speaker="caps" voicelang="ja">Super Mario Galaxy 2!</line>
+				<line id="65000" speaker="game" voicelang="">Mario Bros. 152?</line>
+		<narration>Every Cap-and-Tassel's phone rings. Meanwhile, Yuki looks outside.</narration>
+		<line id="66000" speaker="yuki" voicelang="ja">This is my stop.</line>
+		<narration>Yuki is off the train. Just before it leaves, she hears the cries of every Cap-and-Tassel.</narration>
+		<line id="67000" speaker="caps" voicelang="ja">Fired?</line>
+		<line id="68000" speaker="caps" voicelang="ja">Merger?</line>
+		<line id="69000" speaker="caps" voicelang="ja">What!</line>
+		<narration>Yuki keeps on walking. <comment>Sudden cut out of the train station. Sudden cut out to the next block. Sudden cut down the street. Sudden cut, Sudden cut, Sudden cut all the way to Yuki's house. The sounds of the world get louder and louder as she walks the streets.</comment></narration>
+		<line id="70000" speaker="yuki" voicelang="ja">House sweet house.</line>
+		<narration>Yuki resides on the second floor of a humble Ota apartment with many people and few plants. The front yard of the complex is a patch of infertile dirt. Yuki walks upstairs and through the door.<comment>The door to Yuki's is brought to the player's attention. Player walk up the stairs to it.</comment></narration>
+		</part>
+</scriptment>
+		

@@ -17,9 +17,9 @@ namespace Stage {
 			std::queue<Action*> input_queue;
 		protected:
 			virtual void pushAction(Action* action_to_push) = 0;
-			virtual void popAction() = 0;
+			virtual Action* popAction() = 0;
 		public:
-			Input();
+			Input(){};
 			virtual void poll() = 0;
 	};
 }

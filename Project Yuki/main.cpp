@@ -21,16 +21,17 @@
     */
 
 #include <string>
+#include "SDL.h"
 #include "world.h"
 #include "game.h"
 #include "entrypoint.h"
-#include <SDL/SDL.h>
 
-namespace Stage {
-	int main(int argc, char*argv[]) {
+namespace Stage	{
+	 extern "C" int main(int argc, char *argv[]) {
+		SDL_Init(SDL_INIT_EVERYTHING);
 		std::string dir = "cool";
 		EntryPoint i_like = EntryPoint(dir);
-		
+			
 		Game the_game = Game(i_like);
 	}
 

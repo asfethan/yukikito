@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="52000" point="la_airport" localizationstatus="original" fictionaldate="2011-08-16" status="final">
+	<part>
+		<line id="1000" speaker="yuki" voicelang="fr">I need to find my ride.</line>
+		<narration>Yuki searches the terminal. The kind in an airport. A man holds up a sign with Yuki's name in Kanji. Yuki walks past it several times. <comment>Don't pop-up a vision tooltip here.</comment>The man stares at her each time. He flips the sign, rewrites the sign in Katakana, and holds it up. <comment>The vision text appears.</comment></narration>
+		<line id="1100" speaker="game">Yuki S. Takeshi</line>
+		<line id="2000" speaker="yuki" voicelang="en">Oh! Davis?</line>
+		<line id="3000" speaker="davis" voicelang="en">NoLifeQueen?</line>
+		<line id="4000" speaker="yuki" voicelang="en">That's Mrs. Takeshi to you.</line>
+		<line id="5000" speaker="davis" voicelang="en">Married?</line>
+		<line id="6000" speaker="yuki" voicelang="en">No.</line>
+		<narration>The clamor of cellphones, announcer-ettes, and distant jets resonates through the terminal. Two other guys are standing near davis.</narration>
+		<line id="7000" speaker="davis" voicelang="en">Anyway, these are my bros from the American branch:</line>
+		<line id="8000" speaker="bubba" voicelang="en">Bubba.</line>
+		<line id="9000" speaker="hoffman" voicelang="en">Hoffman.</line>
+		<line id="10000" speaker="davis" voicelang="en">But enough formalities &#x2014; let's get to the hotel.</line>
+		<narration>The friends ride through LA in a car, European.</narration>
+		<line id="11000" speaker="davis" voicelang="en">So, Yuki, how's Japan?</line>
+		<line id="12000" speaker="yuki" voicelang="en">Well, no-one can afford Gundams anymore. Everyone is broke.</line>
+		<line id="13000" speaker="hoffman" voicelang="en">It must be nice, huh? Less bank, more world.</line>
+		<line id="14000" speaker="bubba" voicelang="en">Yeah, around here it's like, where's the love?</line>
+		<narration>The friends and Yuki are in a hotel room.</narration>
+		<line id="15000" speaker="davis" voicelang="en">Well, this is your room.</line>
+		<line id="16000" speaker="davis" voicelang="en">It works, even if it isn't a high rise in Tokyo.</line>
+		<narration>Bubba looks at Yuki.</narration>
+		<line id="17000" speaker="bubba" voicelang="en">Nor is it cozy and personal like those hostels in Amsterdam.</line>
+		<narration>Hoffman is signing Yuki's hotel form for her, in pencil. The tip breaks.</narration>
+		<line id="17000" speaker="hoffman" voicelang="en">Damn. I hear they use better wood for pencils in Vilnius.</line>
+		<narration>Yuki looks at the Americans. She scratches her head.</narration>
+		<line id="18000" speaker="yuki" voicelang="en">Better than Ticonderoga?</line>
+		<narration>It's hard to hear the crickets at night in Los Angeles. The room is pretty cozy. There is a small lamp on the night stand next to the one-woman bed.</line>
+		<line id="19000" speaker="davis" voicelang="en">Well, we should leave the little lady to get some rest.</line>
+		<line id="20000" speaker="davis" voicelang="en">After all, she has hundreds of demos to play tomorrow.</line>
+		<line id="21000" speaker="davis" voicelang="en">And, at this E3,</line>
+		<line id="22000" speaker="davis" voicelang="en">She's Sega's sole representative.</line>
+		<line id="23000" speaker="yuki" voicelang="en">What?</line>
+		<line id="24000" speaker="davis" voicelang="en">Knock 'em dead!</line>
+		<narration>Everyone leaves.<comment>Camera slowly close up on Yuki's face.</comment>The wind blows harder and harder. The cars honk louder. The crickets' chirps pierce the sound barrier and a camera flashes.<comment>Sudden shift.</comment> August 17. Los Angeles Convention Center.<comment>Cut to further away from Yuki.</comment></line>
+	</part>
+</scriptment>

@@ -129,6 +129,7 @@
 		F65B878B1196670600D64897 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F65B87871196670600D64897 /* main.cpp */; };
 		F65B878D1196670600D64897 /* world.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F65B87891196670600D64897 /* world.cpp */; };
 		F65B88351196746F00D64897 /* keyboardinput.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F65B88341196746F00D64897 /* keyboardinput.cpp */; };
+		F69F533A11968BF100013633 /* entrypoint.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F69F533911968BF100013633 /* entrypoint.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -298,6 +299,8 @@
 		F65B87871196670600D64897 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = SOURCE_ROOT; };
 		F65B87891196670600D64897 /* world.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = world.cpp; sourceTree = SOURCE_ROOT; };
 		F65B88341196746F00D64897 /* keyboardinput.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = keyboardinput.cpp; sourceTree = "<group>"; };
+		F69F533911968BF100013633 /* entrypoint.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = entrypoint.cpp; sourceTree = "<group>"; };
+		F69F53711196943100013633 /* projectyuki_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = projectyuki_Prefix.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -328,6 +331,7 @@
 				F65B86641196647B00D64897 /* entrypoint.h */,
 				F65B86651196647B00D64897 /* flag.h */,
 				F65B86661196647B00D64897 /* game.h */,
+				F69F533911968BF100013633 /* entrypoint.cpp */,
 				F65B86671196647B00D64897 /* graphicdisplay.h */,
 				F65B86681196647B00D64897 /* image.h */,
 				F65B86691196647B00D64897 /* input.h */,
@@ -382,6 +386,7 @@
 		29B97314FDCFA39411CA2CEA /* Project Yuki */ = {
 			isa = PBXGroup;
 			children = (
+				F69F53711196943100013633 /* projectyuki_Prefix.pch */,
 				F65B87861196670600D64897 /* game.cpp */,
 				F65B87871196670600D64897 /* main.cpp */,
 				F65B87891196670600D64897 /* world.cpp */,
@@ -807,6 +812,7 @@
 				F65B878B1196670600D64897 /* main.cpp in Sources */,
 				F65B878D1196670600D64897 /* world.cpp in Sources */,
 				F65B88351196746F00D64897 /* keyboardinput.cpp in Sources */,
+				F69F533A11968BF100013633 /* entrypoint.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -876,6 +882,10 @@
 					"$(HOME)/Library/Frameworks/SDL.framework/Headers",
 					/Library/Frameworks/SDL.framework/Headers,
 					"$(HEADER_SEARCH_PATHS)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-lobjc",
+					"$(OTHER_CFLAGS)",
 				);
 				PREBINDING = NO;
 				SDKROOT = macosx10.4;

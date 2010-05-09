@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="79000" point="takuya_lori_in" localizationstatus="original" fictionaldate="2011-10-28" status="final">
+	<part>
+		<comment>Sporadic event occurs between 2011-10-28 and 2011-10-29. </comment>
+		<condition>
+			<comment>The Player got Lori and Takuya together.</comment>
+			<narration>Yuki puts down the box labeled "Lori" and walks back out the door of the home labeled "Takuya." Yuki stares at the streetlights and the stars and the moon for confirmation she has sight. Takuya walks by with a box.</narration>
+			<line id="1000" speaker="takuya" voicelang="ja">I really appreciate the help, Yuki.</line>
+			<line id="2000" speaker="yuki" voicelang="ja">No problem.</line>
+			<line id="3000" speaker="yuki" voicelang="ja">I'm just handling the easy stuff, right?</line>
+			<line id="4000" speaker="takuya" voicelang="ja">Yeah. You move the china, light bulbs, and wine glasses.</line>
+			<line id="5000" speaker="yuki" voicelang="ja">Sounds easy.</line>
+			<narration><comment>Yuki only pays mind the boxes labeled "china," "light bulbs," and "wine glasses;" vision text appears only for them, Yuki will not pick up any others. The box labeled "china" should be glorious. It should also be unreachable, but not obviously unreachable; entice the Player to want to get to it.</comment>Yuki looks at the boxes, all stacked upon each other. She smiles and looks out.<comment>Yuki urge over the Player. Yuki look at the camera.</comment></narration>
+			<line id="6000" speaker="yuki" voicelang="fr">I would look amazing if I moved these boxes quickly.</line>
+			<narration>Enter Lori, face in perpetual smile. Yuki looks at the boxes, all of which upon each other stacked. She lifts from the bottom.<comment>The Player must keep balance. Move too quickly or too slowly and all the items topple.</comment></narration>
+			<narration>Yuki lifts a box. Before Yuki's Eyes is NoLifeQueen, leaning on the wall while in chew of an apple; NoLifeQueen laughs.</narration>
+			<condition>
+				<choice number="1">
+					<narration>Yuki lifts the stack of boxes labeled "light bulbs."</narration>
+					<line id="7000" speaker="nolifequeen" voicelang="fr">Takuya would love that box of bulbs, huh?</line>
+				</choice>
+				<choice number="2">
+					<narration>Yuki lifts the stack of boxes labeled "wine glasses."</narration>
+					<line id="8000" speaker="nolifequeen" voicelang="fr">Lori would love a glass of wine after this, wouldn't she?</line>
+				</choice>
+			</condition>
+			<narration>Yuki grimaces at NoLifeQueen. She looks back at the lovely couple.</narration>
+			<line id="9000" speaker="yuki" voicelang="ja">You two got to know each other pretty fast, huh?</line>
+			<line id="10000" speaker="takuya" voicelang="ja">I wouldn't say "fast" &#x2014;</line>
+			<line id="11000" speaker="lori" voicelang="ja">I have been with Takuya for every second of every day since October 22 2011.</line>
+			<line id="12000" speaker="takuya" voicelang="ja">Love is beautiful, love is completion!</line>
+			<line id="13000" speaker="yuki" voicelang="ja">Love is beautiful, love is completion.</line>
+			<line id="14000" speaker="lori" voicelang="ja">Love is the enemy of uncertainty!</line>
+			<line id="15000" speaker="yuki" voicelang="ja">Love is the enemy of uncertainty.</line>
+			<line id="16000" speaker="takuya" voicelang="ja">Follow your elders, and no doubt your wisdom will strengthen your love!</line>
+			<condition>
+				<comment>The Player drops the boxes at any point during the move. If so, the conversation from 9000 to 16000 is interrupted.</comment>
+				<choice number="1">
+					<narration>Yuki drops the stack of boxes labeled "light bulbs." Takuya shrieks!</narration>
+					<line id="17000" speaker="takuya" voicelang="ja">Oh no! Not the light bulbs!</line>
+					<line id="18000" speaker="takuya" voicelang="ja">Without the light bulbs, I am nothing!</line>
+					<narration>Lori knocks Yuki out of the way and rushes to pick up the pieces. Takuya reaches out.</narration>
+					<line id="19000" speaker="takuya" voicelang="ja">Honey, calm down &#x2014; I was joking &#x2014;</line>
+					<line id="20000" speaker="lori" voicelang="ja">From October 22 2011 to today, nothing fell to pieces! Nothing!</line>
+					<line id="21000" speaker="takuya" voicelang="ja">It's okay! We don't need to see!</line>
+					<narration>Lori gets up and puts her hands on Takuya's shoulders and shakes him.</narration>
+					<line id="22000" speaker="lori" voicelang="ja">Sight is all there is!</line>
+					<narration>The crickets' warbles drown human silences. Lori presses her skull against Takuya's. Her shocks cover their eyes.</narration>
+					<line id="23000" speaker="lori" voicelang="ja">Yuki, I request that you leave his house.</line>
+				</choice>
+				<choice number="2">
+					<narration>Yuki drops the stack of boxes labeled "wine glasses."</narration>
+					<line id="24000" speaker="lori" voicelang="ja">The glasses!</line>
+					<line id="25000" speaker="lori" voicelang="ja">I wanted not to break them for my entire life!</line>
+					<narration>Takuya knocks Yuki out of the way and rushes to pick up the pieces. Lori reaches out.</narration>
+					<line id="26000" speaker="lori" voicelang="ja">Honey, calm down &#x2014; we have more &#x2014;</line>
+					<line id="27000" speaker="takuya" voicelang="ja">Since we came together, I thought never of the alternatives!</line>
+					<line id="28000" speaker="lori" voicelang="ja">It's okay! We need not to be so selective!</line>
+					<line id="29000" speaker="takuya" voicelang="ja">If man cannot choose, what can he do?</line>
+					<narration>The dogs' howls drown human silences. Takuya wraps his arms around Lori's legs and buries his head in her calves.</narration>
+					<line id="30000" speaker="takuya" voicelang="ja">Yuki, get out of my house.</line>
+				</choice>
+				<choice number="3">
+					<narration><comment>The "china" stack is impossible to control.</comment>Yuki eventually drops the stack of boxes labeled "china."</narration>
+					<narration>Lori laughs! Takuya laughs! They laugh!</narration>
+					<line id="31000" speaker="takuya" voicelang="ja">Good call on having her carry all of that "fine china," huh?</line>
+					<line id="32000" speaker="lori" voicelang="ja">Yes; I anticipated Yuki would fail an attempt to impress us with hastiness.</line>
+					<line id="33000" speaker="takuya" voicelang="ja">Oh, you're so brilliant!</line>
+					<narration>Yuki scratches her head. <comment>She urges the player to the box to open a "china" box.</comment>In hopes that the contents of the boxes are intact, she opens one and takes out an item &#x2014;</narration>
+					<narration>It's a picture of the Great Wall. Again. A picture of Huanglong. Again. A picture of the Imperial Palace.<comment>Main Action is continuing to pull pictures from the box.</comment></narration>
+					<narration>Takuya embraces Lori. They grin at each other very loudly. They kiss. Takuya breaks from the kiss &#x2014;</narration>
+					<line id="34000" speaker="takuya" voicelang="ja">Thank you for the help, Yuki.</line>
+					<line id="35000" speaker="lori" voicelang="ja">Your contribution was sufficient.</line>
+					<line id="36000" speaker="takuya" voicelang="ja">Yeah, so get out of our house!</line>
+					<narration>Takuya and Lori return to each other's lips.</narration>
+				</choice>
+			</condition>
+		</condition>
+	</part>
+</scriptment>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="13000" point="sega_boss" localizationstatus="original" fictionaldate="2011-06-03" status="final" >
+	<part>
+		<narration>Headquarters office. The windows are wide open. The CEO, shirt half-unbuttoned, fans his sweat and shields half of his face while staring at Yuki. Yuki has never had a job interview before. Does this make her important? How do you speak to a CEO? Are you supposed to be assertive? Do they like that? Now shivering, Yuki bows.</narration>
+		<line id="900" speaker="yuki" voicelang="ja">Hello my name is Yuki Soleil-Takeshi and I am programmer would like to work for your company&#x2014;</line>
+		<narration>Yuki clears her throat. Her pupils move upward left:</narration>
+		<line id="1000" speaker="yuki" voicelang="ja">I mean, I would like to apply for a position that will best utilize and improve my skills.</line>
+		<narration>The CEO returns not the bow. He glares at Yuki.</narration>
+		<line id="2000" speaker="ceo" voicelang="ja">No such position, get the hell out of my office.</line>
+		<narration>Yuki, discouraged, sniffles. Why did she leave the house? She could have stayed inside and played the chicken-riding game if she knew she was just going to get rejected again. It's better to just assume that no one will ever hire her. The CEO, and his right-hand, Nozomi, burst into laughter.</narration>
+		<line id="3000" speaker="nozomi" voicelang="ja">Harsh, Prez&#x2014; that line's better than the one I gave her father.</line>
+		<line id="4000" speaker="yuki" voicelang="ja">Huh?</line>
+		<line id="5000" speaker="ceo" voicelang="ja">So, what makes this one a good candidate?</line>
+		<line id="6000" speaker="nozomi" voicelang="ja">Success in befriending this old VP,</line>
+		<line id="6100" speaker="nozomi" voicelang="ja">and hope that apples fall not far from trees.</line>
+		<narration>The CEO had known it all along.</narration>
+		<line id="7000" speaker="ceo" voicelang="ja">And so twice I cross paths with good old Jacques.</line>
+		<line id="8000" speaker="ceo" voicelang="ja">Mademoiselle, I insist, have a seat.</line>
+		
+		<line id="9000" speaker="yuki" voicelang="ja">Yes, sir.</line>
+		<narration>The CEO pours two glasses of scotch. He puts one before himself. He puts the other before Yuki.<comment>The Main Action turns to, when out of the chair, sit; within the chair, drink. (action scope system under consideration.) In the midst of the player's walk (to demonstrate that dialog boxes do not interrupt gameplay), the CEO asks Yuki some questions, while preparing a drink for her. The order in which the player attends to these three things affects the outcome of later conditions.</comment></narration>
+		
+		<line id="9200" speaker="ceo" voicelang="ja">Cats or dogs?</line>
+		<condition id="1000">
+			<choice number="1">
+				<line id="10000" speaker="yuki" voicelang="ja">I think dogs are good.</line>
+				<narration>The CEO nods.</narration>
+				<line id="11000" speaker="ceo" voicelang="ja">Uh-huh.</line>
+			</choice>
+			<choice number="2">
+				<line id="12000" speaker="yuki" voicelang="ja">I like cats very much.</line>
+				<narration>The CEO nods.</narration>
+				<line id="13000" speaker="ceo" voicelang="ja">Hmm.</line>
+				
+			</choice>
+		</condition>
+		<line id="14000" speaker="ceo" voicelang="ja">Coke or Pepsi?</line>
+		<condition id="2000">
+			<choice number="1">
+				<line id="15000" speaker="yuki" voicelang="ja">Coke feels better.</line>
+				<narration>The CEO rubs his chin.</narration>
+				<line id="16000" speaker="ceo" voicelang="ja">Hmm.</line>
+			</choice>
+			<choice number="2">
+				<line id="17000" speaker="yuki" voicelang="ja">Pepsi is sweeter.</line>
+				<narration>The CEO rubs his chin.</narration>
+				<line id="18000" speaker="ceo" voicelang="ja">Uh-huh.</line>
+			</choice>
+		</condition>
+		<line id="19000" speaker="ceo" voicelang="ja">So what do you think about the adverse effects the subprime mortgage crisis has had on Japan's luxury sectors?</line>
+		<condition id="3000">
+			<choice number="1"> 
+				<line id="20000" speaker="yuki" voicelang="ja">I'm poor and that makes me sad.</line>
+				<line id="21000" speaker="ceo" voicelang="ja">Okay.</line>
+			</choice>
+			<choice number="2">
+				<line id="22000" speaker="yuki" voicelang="ja">I'm poor but hope for future.</line>
+				<line id="23000" speaker="ceo" voicelang="ja">Me too.</line>
+			</choice>
+		</condition>
+		<line id="24000" speaker="ceo" voicelang="ja">Believe it or not, I elaborately designed this situation to get into the inner workings of your mind.</line>
+		<line id="25000" speaker="ceo" voicelang="ja">My analysis:</line>
+		<condition id="4000">
+			<choice id ="1">
+				<comment>If the player answered the questions first...</comment>
+				<line id="26000" speaker="ceo" voicelang="ja">You were quicker to talk about yourself than you were to take a seat.</line>
+				<line id="27000" speaker="ceo" voicelang="ja">You're selfish. Egocentric.</line>
+				<line id="28000" speaker="ceo" voicelang="ja">What we need is a team player!</line>
+			</choice>
+			<choice number="2">
+				<comment>If the player sat down first...</comment>
+				<line id="29000" speaker="ceo" voicelang="ja">You couldn't wait to sit down, huh? You were getting weak in the knees.</line>
+				<line id="30000" speaker="ceo" voicelang="ja">It's understandable, this is no doubt your first interaction with a real leader.</line>
+				<line id="31000" speaker="ceo" voicelang="ja">What we need is someone bold!</line>
+			</choice>
+			<choice number="3">
+				<comment>If the player had a drink first...</comment>
+				<line id="32000" speaker="ceo" voicelang="ja">You place quite the priority on courage water, and it frightens me.</line>
+				<line id="33000" speaker="ceo" voicelang="ja">Looking for an escape before you've been trapped, huh?</line>
+				<line id="33100" speaker="ceo" voicelang="ja">Implying you think you deserve such entrapment?</line>
+				<line id="34000" speaker="ceo" voicelang="ja">As much as I enjoy paradoxical confidence, this company needs pragmatic programmers!</line>
+			</choice>
+		</condition>
+		<line id="34100" speaker="ceo" voicelang="ja">My deepest apologies, Mademoiselle Soleil.</line>
+		<line id="35000" speaker="ceo" voicelang="ja">I feel you are not Sega material, nor will you ever be Sega material&#x2014;</line>
+		<narration>Nozomi flails.</narration>
+		<line id="36000" speaker="nozomi" voicelang="ja">I quit!</line>
+		<narration>The CEO is shocked. Shocked!</narration>
+		<line id="37000" speaker="ceo" voicelang="ja">Oh no! What ever do you mean?</line>
+		<narration>Nozomi's voice cracks and quivers!</narration>
+		<line id="38000" speaker="nozomi" voicelang="ja">I hereby resign my position as Vice President of the Sega Corporation.</line>
+		<line id="39000" speaker="ceo" voicelang="ja">Oh me, oh my! Who will ever take your place? Should we nominate the relentlessly realistic Hanako Shimizu?</line>
+		<line id="40000" speaker="nozomi" voicelang="ja">I object to such a decision!</line>
+		<line id="41000" speaker="ceo" voicelang="ja">What be thy reasoning?</line>
+		<line id="42000" speaker="nozomi" voicelang="ja">Shimizu is an asshole.</line>
+		<narration>Another bout of laughter twixt the twain.</narration>
+		<line id="43000" speaker="ceo" voicelang="ja">Let's cut to the chase. Yuki, follow me.</line>
+		<narration>Yuki, eyes wide open and mouth agape, nods.<comment>The Main Action for the chair is to get up. Hopefully, Yuki's senses aren't impaired.</comment></narration>
+		<condition id="5000">
+			<choice number="1">
+				<narration>Yuki had the whole glass of alcohol. She trip over chair and break a legs&#x2014; not her legs but its.</narration>
+			</choice>
+			<choice number="2">
+				<narration>Yuki barely drank. She rises from her seating and folds her hands together.</narration>
+			</choice>
+		</condition>
+		<narration>The CEO presses a button. The fluorescents dim. The windowblinds shut. Down comes the sheet. A projector lights the room, yet dark still looms. Projected is a graphic of plummeting financial data over a period of two years.<comment>The CEO urges the player to run all the way to the right side of the elongated chart.</comment></narration>
+		<line id="44000" speaker="ceo" voicelang="ja">Mademoiselle, the Sega Corporation's market share has reached an all-time low of one percent.</line>
+		<line id="44100" speaker="ceo" voicelang="ja">With our position worsened by the recession, we face an inescapable bankruptcy.</line>
+		<narration><comment>The CEO urges the Player to have Yuki all the way to the left of the elongated chart and drag The Group's name onto the chart on the projection computer interface.</comment>The CEO lays another organization's financial data over Sega's. The organization's name is:</narration>
+		<line id="44200" speaker="game">The Group</line>
+		<narration>Shown is an exponential curve from day one that reaches heaven by day five.</narration>
+		<narration>The CEO focuses the chart on the last six months. In bold type on Sega's December 12th are the words:</narration>
+		<line id="44300" speaker="game">Game Over</line>
+		<line id="45000" speaker="ceo" voicelang="ja">Since The Group is poised to eliminate the Parisian-Nagoyan Network,</line>
+		<line id="46000" speaker="ceo" voicelang="ja">they plan to destroy us, too, and become the Only Video Game Company in Japan.</line>
+		<line id="46100" speaker="ceo" voicelang="ja">We have no means to resist.</line>
+		<line id="47000" speaker="ceo" voicelang="ja">I cannot save us.</line>
+		<line id="48000" speaker="ceo" voicelang="ja">Nozomi cannot save us.</line>
+		<line id="49000" speaker="ceo" voicelang="ja">You cannot save us.</line>
+		<line id="50000" speaker="ceo" voicelang="ja">You will be the next Vice President.</line>
+		<narration>Nozomi looks down.</narration>
+		<line id="51000" speaker="nozomi" voicelang="ja">Nobody here has what you have, Yuki. Nobody here has a fresh mind.</line>
+		<line id="52000" speaker="nozomi" voicelang="ja">This company faces the most foreign of situations. Bankruptcy lies in no corporation's strategy.</line>
+		<line id="53000" speaker="nozomi" voicelang="ja">You are here to teach us the art of dying. You are our divine wind.</line>
+		<line id="53100" speaker="nozomi" voicelang="ja">Will you guide us to our grave?</line>
+		<narration>Silence. The CEO and Nozomi stare at Yuki. Yuki bursts into laughter.</narration>
+		<line id="54000" speaker="yuki" voicelang="fr">I always knew I was destined to fail!</line>
+		<line id="55000" speaker="yuki" voicelang="ja">Let's do it.</line>
+		<narration>The CEO smiles. He presses a button. The fluorescents beam. The windowblinds open. Up goes the sheet.</narration>
+		<line id="56000" speaker="ceo" voicelang="ja">Congratulations. Welcome to Sega.</line>
+		<line id="57000" speaker="nozomi" voicelang="ja">I told you I'd get you a job! High five!</line>
+		<narration><comment>The Player is urged not to leave her hanging.</comment>Yuki goes for the high five and gets the embrace. Everyone laughs. All in good spirits? <comment>Sudden cut to the hallway.</comment></narration>
+		</part>
+</scriptment>

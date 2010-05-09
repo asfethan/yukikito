@@ -3,7 +3,7 @@
 #ifndef GAME_H
 #define GAME_H
 
-#include <SDL/SDL.h>
+#include "SDL.h"
 #include "entrypoint.h"
 #include "keyboardinput.h"
 ////////////////////////////////////////

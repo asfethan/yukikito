@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="35000" point="fun" localizationstatus="original" fictionaldate="2011-07-17" status="final">
+	<part>
+		<narration>Yuki stares into a mirror. From the other side stares royalty likely to be saved by galaxy-trekking plumbers. The benefit of being blonde, it seems. Yuki turns around. The harsh bright of superfluous diode-light blinds. Whirring fans are under the whim of screaming fans. There are six other people in the room. Throughout the windowless palace echoes primitive home entertainment system noise. Yuki's fringe slaps her.</narration>
+		<line id="800" speaker="yuki" voicelang="fr">Sporadic cosplay?</line>
+		<line id="900" speaker="yuki" voicelang="fr">I can't believe this is the state of my job-friends.</line>
+		<line id="1000" speaker="yuki" voicelang="fr">What kind of costumed LAN party is this?</line>
+		<line id="2000" speaker="yuki" voicelang="fr">The "retro" game you guys are playing isn't even a good one.</line>
+		<line id="3000" speaker="yuki" voicelang="fr">I thought we were playing...</line>
+		<condition>
+			<choice number="1">
+				<line id="4000" speaker="yuki" voicelang="fr">Armed Assault 2.</line>
+				<narration>Nay, says the princess,</narration>
+				<line id="5000" speaker="princess" voicelang="fr">It's too real! Realistic things are not fun!</line>
+				<narration>That princess claps and barks.</narration>
+			</choice>
+			<choice number="2">
+				<line id="6000" speaker="yuki" voicelang="fr">Battle for Wesnoth.</line>
+				<narration>A knight protests.</narration>
+
+				<line id="7000" speaker="knight" voicelang="fr">You take turns! Strange timings are not fun!</line>
+				<narration>That knight claps and barks.</narration>
+			</choice>
+			<choice number="3">
+				<line id="8000" speaker="yuki" voicelang="fr">Homeworld 2.</line>
+				<narration>A cleric protests.</narration>
+				<line id="9000" speaker="cleric" voicelang="fr">It's too complex! Complex things are not fun.</line>
+				<narration>That cleric claps and barks.</narration>
+			</choice>
+		</condition>
+		<line id="10000" speaker="cleric" voicelang="fr">Come, Rosetta.</line>
+		<line id="11000" speaker="princess" voicelang="fr">We play video games to escape life.</line>
+		<line id="12000" speaker="princess" voicelang="fr">Must we look for engaging experiences from them?</line>
+		<line id="12100" speaker="cleric" voicelang="fr">Here, we need not worry about looking lame or high-class or tough or worldly or careless or real.</line>
+		<line id="13000" speaker="cleric" voicelang="fr">Play with us. Play with us. Play with us. Play with us. Play with us.</line>
+		<line id="14000" speaker="knight" voicelang="fr">Fun blah blah simple blah blah gameplay blah gameplay gameplay blah gameplay</line>
+		<line id="15000" speaker="princess" voicelang="fr">blah blah fantasy blah relax blah realism bad blah abstraction bad blah complexity bad&#x2014;</line>
+		<line id="16000" speaker="yuki" voicelang="fr">How dare you seek solely for comfort from Art!</line>
+		<line id="17000" speaker="yuki" voicelang="fr">How dare you claim to have invented happiness!</line>
+		<line id="18000" speaker="yuki" voicelang="fr">There is a full gamut of emotion that our artists are leaving untouched,</line>
+		<line id="19000" speaker="yuki" voicelang="fr">because of Players Like You!</line>
+		<narration>This faux light is too much. These costumes are too much. These opinions are too much. These people are not enough. This is not her basement. Yuki hyperventilates.<comment>Yuki points to the basement exit.</comment>She rushes to the non-constricting outside air.</narration>
+		<line id="20000" speaker="yuki" voicelang="fr">And so, our wills are weakened as we button-mash in graves.</line>
+		<line id="21000" speaker="yuki" voicelang="fr">All of us, seals and monkeys skipping to the abyss of mediocrity.</line>
+	</part>
+</narration>

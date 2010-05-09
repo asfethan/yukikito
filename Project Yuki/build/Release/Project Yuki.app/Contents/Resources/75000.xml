@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="75000" point="takuya_lori" localizationstatus="original" fictionaldate="2011-10-20" status="final">
+	<part>
+		<comment>The following is known as a sporadic event; this happens eventually on any day between 2011-10-20 and 2011-10-21.</comment>
+		<narration>Takuya observes and sighs. He folds his language-book on itself. Yuki watches him.</narration>
+		<line id="1000" speaker="yuki" voicelang="ja">What's up?</line>
+		<line id="2000" speaker="takuya" voicelang="ja">I've fallen for a different-gender of different-landing.</line>
+		<line id="3000" speaker="yuki" voicelang="ja">But I'm taken!</line>
+		<line id="4000" speaker="takuya" voicelang="ja">Not you! What do I look like, a toddler-toucher?</line>
+		<line id="5000" speaker="takuya" voicelang="ja">Look over there.</line>
+		<narration><comment>Camera zoom out.</comment>Nestled in the alfresco seat of the half-bar is Lori Ciel.</narration>
+		<line id="6000" speaker="takuya" voicelang="ja">I want her hand, but I doubt not that countless same-landed men have sought her.</line>
+		<line id="7000" speaker="takuya" voicelang="ja">To her, I need to be someone new, someone unique&#x2014;</line>
+		<narration>An airplane flies overhead &#x2014;</narration>
+		<line id="8000" speaker="takuya" voicelang="ja">So I had at her tongue in hopes that I may have at her lips.</line>
+		<line id="9000" speaker="yuki" voicelang="ja">Yeah.</line>
+		<line id="10000" speaker="takuya" voicelang="ja">She looks most elegant.</line>
+		<narration>The leaves of the freshly-planted half-bar trees rustle against one another. The wind turns Lori's hair aflame. She sips her chamomile and returns to the alien extermination game held in hand.<comment>Give the Player the illusion of inconsequentiality with the event; let her know she can can continue walking, but not that where and how she walks decides the outcome.</comment></narration>
+		<condition>
+			<choice number="1">
+				<narration>Yuki walks towards Lori.</narration>
+				<line id="11000" speaker="yuki" voicelang="ja">I'll talk to her for you.</line>
+				<narration>Takuya trips over himself and shuffles through the book and the book has phrases and the book tells him about the words like "sélective" and "intrépide" and "séduisant&#x2014;"</narration>
+				<condition>
+					<narration>Yuki stops and turns back in Takuya's direction.</narration>
+					<line id="12000" speaker="yuki" voicelang="ja">Kidding!</line>
+					<comment>Jump to Choice #2.</comment>
+				</condition>
+				<condition>
+					<narration>Yuki turns around and walks back towards Lori.</narration>
+					<line id="13000" speaker="yuki" voicelang="ja">Or not!</line>
+					<narration>Yuki eventually reaches Lori.</narration>
+					<line id="13100" speaker="yuki" voicelang="ja">Have you met my friend Takuya?</line>
+					<narration>Lori walks over to Takuya.</narration>
+					<line id="13200" speaker="lori" voicelang="ja">I have.</line>
+					<narration>The two look each other eye to eye. Takuya grins hard and fast.</narration>
+					<comment>Success!</comment>
+				</condition>
+			</choice>
+			<choice number="2">
+				<narration>Yuki for a long time stays nearer to Takuya.<comment>The Player may still walk around, affecting the outcome of this choice.</comment></narration>
+				<line id="14000" speaker="yuki" voicelang="ja">Elegant? More like lazy.</line>
+				<line id="15000" speaker="yuki" voicelang="ja">She sits around a three-fourth of the day and I pay her top dollar.</line>
+				<line id="16000" speaker="yuki" voicelang="ja">She leaves us and loafs around, hair a-blow in wind because it looks cool.</line>
+				<line id="17000" speaker="yuki" voicelang="ja">Even now, she is no more elegant than a rock.</line>
+				<condition>
+					<comment>Proximity Dependent Response.</comment>
+					<choice number="1">
+						<narration>Yuki is somewhat near Lori.</narration>
+						<line id="18000" speaker="lori" voicelang="fr">I apologize. You are not satisfied with my performance.</line>
+						<line id="19000" speaker="yuki" voicelang="fr">I am satisfied. You are the worst concierge except for all the other ones.</line>
+						<narration>The two sit for a while. Takuya pretends to pay no mind.</narration>
+						<line id="19100" speaker="lori" voicelang="fr">Well, it's getting late.</line>
+						<narration>Exit Lori.</narration>
+						<comment>Failure.</comment>
+					</choice>
+					<choice number="2">
+						<narration>Yuki is right next to Lori. Yuki snatches the handheld.</narration>
+						<line id="20000" speaker="yuki" voicelang="fr">The end of the world is coming.</line>
+						<line id="21000" speaker="yuki" voicelang="fr">Everyone's huddling together to stay warm.</line>
+						<line id="22000" speaker="yuki" voicelang="fr">Someone's over there itching to sweep you off your feet.</line>
+						<line id="23000" speaker="lori" voicelang="fr">I am aware of this.</line>
+						<line id="24000" speaker="lori" voicelang="fr">It is why I have sat here, appearing to do something mundane.</line>
+						<line id="25000" speaker="lori" voicelang="fr">Bored women are easy targets. Confirm?</line>
+						<line id="26000" speaker="yuki" voicelang="fr">Not if nobody is shooting.</line>
+						<line id="27000" speaker="yuki" voicelang="fr">Get over there!</line>
+						<narration>Lori walks over to Takuya. They grin at each other very loudly.</narration>
+						<line id="28000" speaker="takuya" voicelang="fr">Want go for coffee?</line>
+						<narration>Lori nods. Takuya takes her hand. <comment>Camera zoom out to show where Lori just came from - the half-bar.</comment></narration>
+						<comment>Success!</comment>
+					</choice>
+				</condition>
+
+
+
+
+			</choice>
+		</condition>
+
+	<condition>
+		<choice number="1">
+			<comment>Success!</comment>
+			<comment>Every day when work ends, Takuya and Lori immediately pair up and leave the building. Player cannot enter party with hobby events with Takuya or Lori until 2011-11-01.</comment>
+		</choice>
+		<choice number="2">
+			<comment>Failure.</comment>
+			<comment>Both Takuya and Lori's base morale fall sharply for the duration of the game.</comment>
+		</choice>
+	</condition>
+
+	</part>
+</scriptment>

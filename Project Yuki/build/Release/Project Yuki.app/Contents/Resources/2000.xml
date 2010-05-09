@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="2000" point="yuki_first" localizationstatus="original" fictionaldate="1997-01-10" status="final" >
+	<name>The first scene in which the player controls the main character.</name>
+	<part name="wakeup">
+		<narration>1997. In the soft, luminescent glow of rosy bedsheets reflecting the Lyon morning sun lies Jacques' daughter.</narration>
+		<line id="900" voicelang="fr" speaker="asami">Yuki, get up!</line>
+		<narration lineid="">From the comfort of the downstairs commons room coffee table, the parents two yell to their children. As Asami cranks her amplifier, her daughter exerts her self to wake. Yuki mumbles.</narration>
+		<line id="910" voicelang="fr" speaker="yuki">No &#x2014; that's integer math &#x2014; we need floating points &#x2014; </line>
+		<line id="911" voicelang="fr" speaker="yuki" voicelang="fr">Huh!</line.
+		<narration lineid="">Yuki stirs. She rubs her eyes and stretches and yawns. With guitar in rust, Asami continues to coerce her daughter further toward the world of the waking. Asami over the riff speaks:</narration>
+		<line id="1000" voicelang="fr" speaker="asami">I'll wake her with a song!</line>
+		<narration>Jacques sighs.</narration>
+		<line id="2000" voicelang="fr" speaker="jacques">A song? Isn't that quite a bit of effort to wake just Yuki?</line>
+		<line id="3000" voicelang="fr" speaker="asami">It takes quite a bit of effort to raise three children.</line>
+		<line id="4000" voicelang="fr" speaker="jacques">We have two children.</line>
+		<line id="4200" voicelang="fr" speaker="asami">And isn't she &#x2014; aren't they &#x2014; fantastic?</line>
+		<narration lineid="">Asami laughs. She sings:</narration>
+		<line id="5000" voicelang="fr" speaker="asami">My perfect daughter, it's time to go to school~</line>
+		<line id="6000" voicelang="fr" speaker="asami">So brush your teeth, and break your bread too~</line>
+		<line id="7000" voicelang="fr" speaker="asami">It's getting late! Get dressed, you've got to get to school on time~</line>
+		<line id="8000" voicelang="fr" speaker="asami">The clock dictates your world, stay on it and you'll stay in line~</line>
+		<line id="9000" voicelang="fr" speaker="asami">You'll master every note and tongue when I get through~</line>
+		<line id="10000" voicelang="fr" speaker="asami">I'm reminded of my purpose every time I see you~</line>
+		<line id="11000" voicelang="fr" speaker="asami">I expect only the best from the seeds I have sown~</line>
+		<line id="12000" voicelang="fr" speaker="asami">If you're far above and flawless, I will call you My Own~</line>
+		<narration lineid="">Through the barrage of stimulation, Yuki's world-view clutters. She begins to visualize the unspoken connection between the concrete and abstract. Visions of numerical and programmatic constructs storm her mind. Yuki clasps her temples and thrashes about—<comment>To communicate to the Player her overstimulation, the Vision tooltips focus on the objects of the room to random stimuli a distance away from Yuki. The clatter of plates, the sounds of footsteps, etc.</comment></narration>
+		<line id="13000" voicelang="fr" speaker="asami">So wake up!</line>
+		<line id="14000" voicelang="fr" speaker="asami">Wake up!</line>
+		<line id="15000" voicelang="fr" speaker="asami">Wake up!</line>
+		<line id="16000" voicelang="fr" speaker="asami">Wake up!</line>
+		<narration lineid="">The song reaches its coda. The interference subsides. Yuki may leave her bedroom in peace. <comment lineid="">When the player leaves the bedroom, the camera trucks right to the commons room as Yuki enters the bathroom. The camera continues to move downstairs, and Yuki begins to talk to herself in the mirror in the distance.</comment></narration>
+		
+		<line id="17000" voicelang="fr" speaker="yuki">Are those crow's feet?</line>
+		<line id="18000" voicelang="fr" speaker="yuki">I'm gonna look like a ghost in this shirt —</line>
+		<line id="19000" voicelang="fr" speaker="yuki">My hair has to be perfectly smooth — perfectly smooth —</line>
+
+		</part>
+</scriptment>

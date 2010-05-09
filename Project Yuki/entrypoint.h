@@ -11,7 +11,7 @@
 namespace Stage {
 	class EntryPoint{
 		private:
-			Resource& entry_resource;
+			Resource* entry_resource;
 		public:
 			EntryPoint();
 			EntryPoint(std::string userEntryFile);

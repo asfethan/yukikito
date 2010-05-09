@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="31000" point="demographics" localizationstatus="original" fictionaldate="2011-07-10" status="final">
+	<part>
+		<narration>Sunday. Again. Akihabara. Yuki is at the video game store. She chats up the Cashier, a Frenchman.</narration>
+		<line id="1000" speaker="yuki" voicelang="fr">Sir what would you say is the demographic for this game?</line>
+		<line id="2000" speaker="cashier" voicelang="fr">Males, 18 to 35 years old.</line>
+		<line id="3000" speaker="yuki" voicelang="fr">Oh, darn. Let me go look for another.</line>
+		<narration>Yuki gets another game.<comment>She winks at the Player and urges her to look for another game. The Player can continue to pull games from the shelf, but the result stays the same.</comment></narration>
+		<line id="4000" speaker="yuki" voicelang="fr">How about this one?</line>
+		<line id="5000" speaker="cashier" voicelang="fr">Male, 18 to 35.</line>
+		<line id="6000" speaker="yuki" voicelang="fr">And this one?</line>
+		<line id="7000" speaker="cashier" voicelang="fr">Male, 18 to 35.</line>
+		<line id="8000" speaker="yuki" voicelang="fr">What about this?</line>
+		<line id="9000" speaker="cashier" voicelang="fr">Ooh.</line>
+		<narration>He gets a closer look.</narration>
+		<line id="10000" speaker="cashier" voicelang="fr">Male, 10 to 15.</line>
+		<line id="11000" speaker="yuki" voicelang="fr">So the main demographic for nearly every video game is nerdy boys.</line>
+		<line id="12000" speaker="cashier" voicelang="fr">It's been improving. One time I saw a 36 year old man playing a handheld.</line>
+		<line id="12100" speaker="yuki" voicelang="fr">That's not improvement.</line>
+		<line id="13000" speaker="yuki" voicelang="fr">Improvement is when the medium knows not age nor gender.</line>
+		<line id="13000" speaker="yuki" voicelang="fr">What if I told you I don't play video games?</line>
+		<line id="14000" speaker="cashier" voicelang="fr">That would be reasonable.</line>
+		<line id="15000" speaker="yuki" voicelang="fr">What if I told you I don't listen to music?</line>
+		<line id="16000" speaker="cashier" voicelang="fr">That would be incomprehensible.</line>
+		<line id="16100" speaker="yuki" voicelang="fr">And now, we understand the social stigma behind video games.</line>
+		<narration><comment>Sudden cut to Yuki, walking outside.</comment>Yuki is just outside of the game shop, near the train station. A paper print out, forced astray by wind, hits Yuki in the face.<comment>Viewport is obstructed. Main Action takes off the paper.</comment>Yuki takes the paper from her face and reads it.<comment>She urges the Player to get a closer look.</comment></line>
+		<line id="17000" speaker="game">Japan Philharmonic Orchestra</line>
+		<line id="18000" speaker="game">Jacques Soleil Jr., Guest Chief Conductor</line>
+		<narration>On the side of the document is scribbled a note:</narration>
+		<line id="19000" speaker="game">"remember the rehearsal on friday!!!!!!!!!"</line>
+		<narration>Yuki laughs.</narration>
+		<line id="20000" speaker="yuki" voicelang="fr">I once watched a show about a Japanese orchestra conductor.</line>
+		<line id="21000" speaker="yuki" voicelang="fr">He moved to France.</line>
+	</part>
+</scriptment>
