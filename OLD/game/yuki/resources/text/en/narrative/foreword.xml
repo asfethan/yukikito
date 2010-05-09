@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="40" point="foreword" localizationstatus="original" fictionaldate="2010-04-06" status="final">
+	<part>
+		<line id="1000" speaker="game" voicelang="en">This is the Original English Scriptment of Project Yuki, The Videogame about&#x2014;</line>
+
+		<condition>
+			<choice number="1">
+				<narration>Videogames</narration>
+			</choice>
+			<choice number="2">
+				<narration>Social Anxiety</narration>
+			</choice>
+			<choice number="3">
+				<narration>Cultural Crisis</narration>
+			</choice>
+			<choice number="4">
+				<narration>Love</narration>
+			</choice>
+			<choice number="5">
+				<narration>Life</narration>
+			</choice>
+		</condition>
+		<line id="2000" speaker="kyle_r" voicelang="en">This is a GPL-licensed, completely free script specially formatted for the purpose of designing a video game.</line>
+		<line id="3000" speaker="kyle_r" voicelang="en">This script was lovingly hand-written in XML and CSS-formatted with beautiful fonts for your reading pleasure.</line>
+		<line id="4000" speaker="kyle_r" voicelang="en">The style of the script is specially tailored to localization and interaction design.</line>
+		<line id="5000" speaker="kyle_r" voicelang="en">The font sizes and styles are the same sizes and styles used for the actual in-game subtitling&#x2014;</line>
+		<narration>Yuki frowns.</narration>
+		<line id="6000" speaker="yuki" voicelang="fr">Subtitles? You mean, the reader might not understand me?</line>
+		<line id="7000" speaker="kyle_r" voicelang="en">The reader might not understand French.</line>
+		<line id="7010" speaker="kyle_r" voicelang="en">But she does understand the script language.</line>
+		<line id="7020" speaker="kyle_r" voicelang="en">Voice languages, however, are shown through the use of the ISO-639 language codes located at the top left corner of each line of text.</line>
+		<narration>Kyle points to his language code.</narration>
+		<line id="7100" speaker="kyle_r" voicelang="en">←←←←←←←←←←←←←←←← See?</line>	
+		<line id="8000" speaker="ganpu" voicelang="ja">Don't forget to tell the reader about the line identification numbers.</line>
+		<line id="9000" speaker="kyle_r" voicelang="en">Each line of dialogue in a script file is given a [unique identification number], located next to the speaker_name.</line>
+		<line id="10000" speaker="yuki" voicelang="fr">Don't forget about interactivity notes!</line>
+		<line id="11000" speaker="kyle_r" voicelang="en">Oh! Interactivity notes tell scene programmers about the special ways in which the narrative, camera techniques, and game design meld together to tell the game's story.</line>
+		<narration>Kyle apologizes to Chromium users.<comment>The first edition of the script navigator does not work with Google Chrome, due to a loading error. If the reader is using Firefox, give them a pat on the back &#x2014; for now.</comment></narration>
+		<line id="12000" speaker="kyle_r" voicelang="en">Let's get this show on the road.</line>
+	</part>
+</scriptment>

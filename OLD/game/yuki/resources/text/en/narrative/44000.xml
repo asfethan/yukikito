@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="44000" point="review_1" localizationstatus="original" fictionaldate="2011-08-08" status="final">
+	<part>
+		<narration>The reviews for the first project are in. On the barren rooftop of Sega headquarters sits Nozomi. Yuki enters from the stairs. She twitches with every step toward her other.</narration>
+		<narration>advertisement newspaper magazine cannes</narration>
+		<line id="1000" speaker="yuki" voicelang="ja">Hey &#x2014; what's &#x2014; up?</line>
+		<narration>Nozomi turns around gracefully &#x2014; to Yuki she is a pretty thing &#x2014; pretty people life size barbie dolls drawers full of waterproof mascara to suppress the tears &#x2014; </narration>
+		<line id="2000" speaker="nozomi" voicelang="ja">Usually, I'm the one to scan all of the game reviews.</line>
+		<line id="3000" speaker="nozomi" voicelang="ja">Now, our audience is American &#x2014; unless you count Famitsu &#x2014; which you shouldn't.</line>
+		<line id="4000" speaker="nozomi" voicelang="ja">My English is not fit for written word.</line>
+		<line id="5000" speaker="yuki" voicelang="fr">I'll take care of it. It's a good thing you have me, huh?</line>
+		<narration>Nozomi looks down. <comment>Player's doing whatever. Camera occupy the screen with dear Nozomi's face.</comment></narration>
+		<line id="6000" speaker="nozomi" voicelang="fr">Yeah, it's a good thing I have you&#x2014;</line>
+		<narration>Yuki kisses Nozomi.<comment>Camera zoom out.</comment></narration>
+		<line id="7000" speaker="yuki" voicelang="fr">About the other day.</line>
+		<line id="8000" speaker="yuki" voicelang="fr">I'm sorry.</line>
+		<line id="9000" speaker="yuki" voicelang="fr">You cared.</line>
+		<line id="10000" speaker="yuki" voicelang="fr">You care.</line>
+		<line id="11000" speaker="yuki" voicelang="fr">Nozomi,</line>
+		<condition>
+			<choice number="1">
+				<line id="12000" speaker="yuki" voicelang="fr">I love you.</line>
+				<narration>Nozomi embraces Yuki.</narration>
+				<line id="13000" speaker="nozomi" voicelang="ja">I love You.</line>
+			</choice>
+			<choice number="2">
+				<line id="14000" speaker="yuki" voicelang="fr">Let's be friends.</line>
+				<narration>Nozomi gasps and jumps and hugs and kisses Yuki on the neck, on the chin, on the cheek, on the anything!</narration>
+				<line id="14000" speaker="nozomi" voicelang="ja">No, no, I have enough friends,</line>
+				<line id="15000" speaker="nozomi" voicelang="ja">I have enough family,</line>
+				<line id="16000" speaker="nozomi" voicelang="ja">I have enough subordinates, enough groups, enough collectives!</line>
+				<narration>Nozomi shivers.</narration>
+				<line id="17000" speaker="nozomi" voicelang="ja">I need a person! One person! An individual!</line>
+				<narration>Nozomi shivers.<comment>Loop back to the first choice. "But thou must!" style.</comment>She doesn't want to hear about the Yuki not loving her.</narration>
+			</choice>
+		</condition>
+		<narration><comment>Player free. Nozomi is in the party.</comment>The two continue down the stairs and into the studio.</narration>
+		<narration>Enter Yuki and Nozomi holding hands. Shimizu turns to Nozomi.</narration>
+		<line id="18000" speaker="hanako" voicelang="ja">What's the verdict?</line>
+		<narration>Yuki fronts Nozomi.</narration>
+		<line id="19000" speaker="yuki" voicelang="ja">I kissed a girl, and I liked it.</line>
+		<narration>Shimizu face-palms.</narration>
+		<line id="20000" speaker="hanako" voicelang="ja">Where is our efficiency? Where is our discipline?</line>
+		<line id="20100" speaker="hanako" voicelang="ja">We need someone who doesn't just dump the work of discernment on others!</line>
+		<narration>Nozomi pulls back her fist.</narration>
+		<line id="21000" speaker="hanako" voicelang="ja">Dan, give her a stern talking to.</line>
+		<narration>Dan sighs. He motions Nozomi over.</comment>
+		<line id="22000" speaker="dan" voicelang="ja">Alright, let's go make Shimizu happy. Again.</line>
+		<narration>Dan and Nozomi go into the dark-windowed sound-recording room. Dan thwackes the lady over the hair with a rolled newspaper. The silhouette of Dan gives a thumbs-up. Shimizu gives back a thumbs-up. She turns to Yuki.</narration>
+		<line id="23000" speaker="hanako" voicelang="ja">We need to know how we're driving. Review these reviews.</line>
+		<narration>Shimizu hands Yuki the stack of magazines and web-printouts on the desk nearby. She looks over to the recording room. Oh&#x2014; Dan points a finger! Nozomi gasps! The silhouette of Dan gives a thumbs-up. Shimizu returns a thumbs-up. Shimizu smiles.</narration>
+		<line id="24000" speaker="hanako" voicelang="ja">There are no distractions at the top, so take them to the roof.</line>
+		<narration>Dan and Nozomi now with cups of coffee, raise to toast. They take their swigs, pinky out. Shimizu looks over to the recording room&#x2014; Oh, coffee down! Serious business! Nozomi cries! Dan comforts her!</narration>
+		<line id="25000" speaker="hanako" voicelang="ja">Brace for impact. Game journalism is often painful.</line>
+		<condition>
+		
+				<narration>Yuki walks towards the recording-room. Sound-proofing isn't in the budget, it seems.</narration>
+				<narration>Dan and Nozomi over coffee converse:</narration>
+				<line id="26000" speaker="dan" voicelang="ja">Will you propose?</line>
+				<line id="27000" speaker="nozomi" voicelang="ja">I can't imagine a life where I won't.</line>
+				<line id="28000" speaker="dan" voicelang="ja">My dear old maid, hitching the Demoiselle!</line>
+				<narration>Nozomi giggles.</narration>
+			
+		</condition>
+		<narration>Yuki makes her way to the roof. Yuki reviews the reviews.</narration>
+	</part>
+</scriptment>

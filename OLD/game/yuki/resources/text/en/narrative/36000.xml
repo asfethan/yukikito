@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="36000" point="meguro" localizationstatus="original" fictionaldate="2011-07-20" status="final">
+	<part>
+		<narration>Passing by Yuki is a man on his phone.</narration>
+		<line id="1000" speaker="meguro" voicelang="ja">...didn't "uphold to the critical standard set by previous entries?"</line>
+		<line id="2000" speaker="meguro" voicelang="ja">An 8.5 on GameSpot?</line>
+		<line id="3000" speaker="meguro" voicelang="ja">32/40 on Famitsu?</line>
+		<line id="4000" speaker="meguro" voicelang="ja">Are you firing me because of mainstream video game journalism?</line>
+		<narration>The man listens.</narration>
+		<line id="5000" speaker="meguro" voicelang="ja">You can't fire a man who doesn't work for you.</line>
+		<line id="6000" speaker="meguro" voicelang="ja">Or anyone else, for that matter.</line>
+		<line id="7000" speaker="meguro" voicelang="ja">Good luck with your future Megatens.</line>
+		<line id="8000" speaker="meguro" voicelang="ja">I quit.</line>
+	</part>
+</scriptment>

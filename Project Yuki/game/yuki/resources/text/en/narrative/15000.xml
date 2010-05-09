@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="15000" point="conceptualization_1" localizationstatus="original" fictionaldate="2011-06-06" status="final" >
+	<part>
+		<narration>Yuki and the team are seated around a Chabudai, the foundation of all game development.</narration>
+		<line id="1000" speaker="yuki" voicelang="ja">Welcome&#x2014;</line>
+		<line id="2000" speaker="yuki" voicelang="ja">To the Table of Conceptualization!</line>
+		<narration>Rapid fire banter about the nature of the Unnamed Studio's first project.<comment>The following is chatter that happens as the player selects the attributes of her first game, in an interface separate from the dialogue. No change can be reversed.</comment></narration>
+		<line id="3000" speaker="yuki" voicelang="ja">Let's make this first one count.</line>
+		<condition>
+			<choice number="1">
+				<comment>The player chooses any home entertainment console from the platform list.</comment>
+				<line id="4000" speaker="hanako" voicelang="ja">Let's develop a console game.</line>
+				<line id="5000" speaker="yuki" voicelang="ja">Yes, let's make everything a pain for everyone.</line>
+				<condition>
+					<choice number="1">
+						<comment>The player chooses the second iteration of a certain box from a certain window company.</comment>
+						<line id="5100" speaker="takuya" voicelang="ja">If we're developing for a bunch of Americans, we can't go wrong with 360.</line>
+						<line id="5200" speaker="yuki" voicelang="fr">Ah, a land where local multiplayer dies for online,</line>
+						<line id="5300" speaker="yuki" voicelang="fr">People buy the new hardware on warranty to avoid suspiciously sudden defects in the old,</line>
+						<line id="5400" speaker="yuki" voicelang="fr">And when everyone loses, Microsoft Wins™.</line>
+					</choice>
+					<choice number="2">
+						<comment>The player chooses that console with the cell processor.</comment>
+						<line id="5500" speaker="hanako" voicelang="ja">The last bastion of decent ware is the Playstation platform.</line>
+						<line id="5600" speaker="yuki" voicelang="fr">Playstation isn't a platform, it's a cage.</line>
+					</choice>
+				</condition>
+			</choice>
+			<choice number="2">
+				<comment>The player chooses any handheld.</comment>
+				<line id="6000" speaker="nozomi" voicelang="ja">What if we made something for a handheld?</line>
+				<condition>
+					<choice number="1">
+						<comment>The handheld is some sort of capacitive touchscreen phone from some kind of fruit company.</comment>
+						<line id="7000" speaker="yuki" voicelang="ja">If we make it for iPhone, we could bypass many proprietary hardware restrictions...</line>
+						<line id="8000" speaker="yuki" voicelang="ja">...and dive straight into software restrictions.</line>
+						<line id="9000" speaker="yuki" voicelang="ja">Will we ever break from jail?</line>
+					</choice>
+				</condition>
+			</choice>
+		</condition>
+		<narration>After deciding what to develop, Yuki and company take their documents and make a mad dash for the Studio.</narration>
+		<line id="10000" speaker="yuki" voicelang="ja">Let's make some games!</line>
+		<narration>For but a moment, the rush fades and Yuki's mind wanders.</narration>
+		<line id="11000" speaker="yuki" voicelang="fr">Selecting a platform is the most painful part of conceptualization.</line>
+		<line id="13000" speaker="yuki" voicelang="fr">The video game industry is subject to corporate-level format war.</line>
+		<line id="14000" speaker="yuki" voicelang="fr">A war where developers lose once they decide to pledge allegiance to one hardware configuration.</line>
+		<line id="15000" speaker="yuki" voicelang="fr">Multiplatform is a joke in comparison to cross-platform;</line>
+		<line id="16000" speaker="yuki" voicelang="fr">still, developers think the situation is helped when deciding to whore out to "all three" producers.</line>
+		<line id="17000" speaker="yuki" voicelang="fr">DVD players don't have an "all three."</line>
+		<narration>The team assaults the studio, Yuki steeling her mind in the barracks. The team runs ahead, Yuki flinging westernly her fingers for the count.<comment>Music synchronizes with the countdown.</comment></narration>
+		<narration>Begin the first day of work.</narration>
+	
+		
+	</part>
+</scriptment>
+		

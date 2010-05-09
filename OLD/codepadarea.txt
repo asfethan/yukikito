@@ -1,0 +1,34 @@
+﻿#include <iostream>
+class awesome {
+private:
+int nice;
+public:
+virtual void cool(int userint) = 0;
+};
+
+class sweet: public awesome {
+private:
+int nice;
+public:
+sweet();
+void cool(int userint);
+int getcool() {
+return nice;
+}
+};
+
+sweet::sweet() : awesome() {
+cout << "yo";
+}
+void sweet::cool(int userint) { 
+nice = userint;
+}
+
+int main() {
+sweet great;
+sweet ultracool;
+ultracool.cool(9);
+great.cool(5);
+cout << ultracool.getcool();
+cout << great.getcool();
+}

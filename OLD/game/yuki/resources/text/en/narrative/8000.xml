@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+
+Copyright (C) 2010 Kyle Reynolds
+
+
+
+This program is free software; you can redistribute it and/or
+
+modify it under the terms of the GNU General Public License
+
+as published by the Free Software Foundation; either version 2
+
+of the License, or (at your option) any later version.
+
+
+
+This program is distributed in the hope that it will be useful,
+
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+
+GNU General Public License for more details.
+
+
+
+You should have received a copy of the GNU General Public License
+
+along with this program; if not, write to the Free Software
+
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+
+<scriptment id="8000" point="cannes_end" localizationstatus="original" fictionaldate="1997-01-12" status="final" >
+
+	<part name="bathroom">
+
+		<narration>Yuki stands in the bathroom, across from the bottle of hair dye on the vanity mirror. From another room, Jacques goes on about his first day at Sega.</narration>
+
+		<line id="1000" voicelang="fr" speaker="jacques">...and a Frenchwoman actually came to apply for a position. Naturally, they had me interview her.</line>
+
+		<line id="2000" voicelang="fr" speaker="jacques">It was so awkward; she sounded like a robot.</line>
+
+		<narration>In the bathroom, Yuki walks towards the oh-so-necessary bottle.<comment>The bottle of hair dye is brought to the player's attention. Continue when the player gets closer to the vanity mirror.</comment></narration>
+
+		<line id="2100" voicelang="fr" speaker="yuki">I must do this.</line>
+
+		<line id="2200" voicelang="ja" speaker="yuki">I must belong.</line>
+
+		<line id="2300" voicelang="fr" speaker="yuki">It's the only way to survive.</line>
+
+		<line id="2400" voicelang="ja" speaker="yuki">It's the only way to be loved.</line>
+
+		<narration>Yuki raises the bottle. Jacques continues.<comment>If the player presses the Main Action button here, Yuki cowers.</comment></narration>
+
+		<line id="3000" voicelang="fr" speaker="jacques">She said she was a cinematographer, so I told her the only thing that would make sense:</line>
+
+		<line id="4000" voicelang="fr" speaker="jacques">"A friend of the film industry is an enemy of mine."</line>
+
+		<narration>Yuki puts down the bottle. Why did she so deeply agree with that statement?</narration>
+
+	</part>	
+
+	<part name="cannes_end" fictionaldate="1994-05-17">
+
+		<narration><comment>Sudden cut to Yuki, younger, in a different bathroom.</comment>1994. Black Beauty is but one hair product amongst a sea of hair products used by The Actresses of the film industry. Yuki, in her pajamas, gazes at that sea. She puts down the bottle.<comment>Over each hair product appears rapidly changing vision text.</comment>Asami, from in the bedroom, calls.</narration>
+
+		<line id="5000" voicelang="fr" speaker="asami">Daughter, time for bed!</line>
+
+		<narration>Asami is seated on the edge of the bed. Yuki enters the room and jumps on. Asami pats her on the head. </narration>
+
+		<line id="6000" voicelang="fr" speaker="asami">You caused quite the scene today.</line>
+
+		<narration>Yuki laughs. Someone forcefully knocks the bedroom door.</narration>
+
+		<line id="7000" voicelang="en" speaker="asami">Come in.</line>
+
+		<narration>Enter Someone. He keeps a piece of stapled paper so close to his face as to obscure it. Asami raises a brow.</narration>
+
+		<line id="8000" voicelang="en" speaker="asami">What's wrong?</line>
+
+		<narration>Someone reads:</narration>
+
+		<line id="9000" voicelang="en" speaker="someone">Dr. Takeshi, We deeply regret that we cannot allow you further visit to Cannes.</line>
+
+		<narration>Asami rises from her seating, the facets of vexation accumulating within her gait and on her visage&#x2014;</narration>
+
+		<line id="10000" voicelang="en" speaker="asami">Cut the formal bullshit and tell me the problem, you have your own voice.</line>
+
+		<line id="10100" voicelang="en" speaker="asami">For God's sake, we're partners.</line>
+
+		<line id="11000" voicelang="en" speaker="someone">Are we? Partners work together.</line>
+
+		<line id="12000" voicelang="en" speaker="someone">You haven't been in any credits of any film for the past seven years.</line>
+
+		<line id="13000" voicelang="en" speaker="someone">On top of that, your conduct has been inexcusable.</line>
+
+		<line id="14000" voicelang="en" speaker="asami">Explain.</line>
+
+		<narration>The Someone moves up the paper.</narration>
+
+		<line id="14000" voicelang="en" speaker="someone">1987, you arrived nine months pregnant.</line>
+
+		<line id="15000" voicelang="en" speaker="asami">My score was in an entry!</line>
+
+		<line id="16000" voicelang="en" speaker="someone">You went into labor on stage!</line>
+
+		<narration>Summer rains pelt the hotel windows. The winds drive palm tree leaves to brush against each other. This Someone moves up the paper.</narration>
+
+		<line id="17000" voicelang="en" speaker="someone">1994, you brought a seven year old.</line>
+
+		<line id="18000" voicelang="en" speaker="asami">Come on, don't do this.</line>
+
+		<line id="19000" voicelang="en" speaker="someone">She undressed an actress on camera.</line>
+
+		<line id="19100" voicelang="en" speaker="asami">None of that is my conduct!</line>
+
+		<narration>Silence. Yuki mopes. The Someone moves up the paper.</narration>
+
+		<line id="19200" speaker="someone" voicelang="en">Apple strays not far from the tree.</line>
+
+		
+
+		<line id="20000" voicelang="en" speaker="someone">There is a level of sophistication, of class, that we must uphold.</line>
+
+		<line id="21000" voicelang="en" speaker="someone">You have made no effort to uphold it.</line>
+
+		<narration>The Someone flips to page two.</narration>
+
+		<line id="22000" voicelang="en" speaker="someone">You are freeloading from Cannes to provide a publicity platform your stage career.</line>
+
+		<line id="23000" voicelang="en" speaker="someone">No more.</line>
+
+		<narration>The Someone leaves. An unbearable silence falls over the room. Asami stands in place, staring at the ground, face obscured by hair, for a near-eternity. She raises her hand.</narration>
+
+		<line id="24000" voicelang="fr" speaker="asami">Yuki, come.</line>
+
+		<narration>So Yuki comes. Asami raises her fists, turns around, charges at Yuki, and halts. Yuki winces.</narration>
+
+		<narration>Asami falls to her knees. She places her hands upon Yuki's shoulders.
+
+		A great regret resides upon her face.
+
+		Quickly returns her frightening resolve.
+
+		The mother sheds a tear and shuts her eyes.
+
+		Across the cheek, Asami strikes her child.<comment>Upon impact, sudden shift back to the bathroom.</comment></narration>
+
+		
+
+	</part>
+
+	<part name="japan_back" fictionaldate="1997-01-12">
+
+		<narration>1997. Yuki stumbles and jumps and snatches the bottle from the table and she opens it and rattles it above her hair.<comment>The main action is used here. The player is the one shaking the bottle. The only option is to shake it more vigorously until the dye comes out&#x2014;</comment> Dust. Yuki pants.</narration>
+
+		<line id="25000" voicelang="fr" speaker="yuki">What —</line>
+
+		<narration><comment>The Player is expected to move the cursor close to Yuki. Yuki signifies the Player of this by pointing at the cursor (which lights up as well), and coaxing it over while she looks at the camera. The Player must zoom into the bottle to get a look at it in detail. This is an early sign of the collaborative relationship between the avatar and the Player.</comment>Yuki looks up at the bottle's manufacture date.</narration>
+
+		<line id="26000" voicelang="fr" speaker="yuki">1984?</line>
+
+		<narration>It is too late to go out and buy that fresh new bottle of liquid hope. School starts tomorrow.<comment>To signify the extremely fast passing of time, entities of the bathroom begin to morph into entities of the classroom. Everything violently flies around, crossing Yuki's path, hitting her, knocking her over, surprising her. The bathroom drawer morphs into a desk and tumbles into its designated place. The carpet becomes a clock and flips everything on it, dashing to the wall. The wall-tiles fly off and reveal the sky: it's a window. The vanity mirror becomes a chalkboard.</comment></narration>
+
+		<line id="27000" voicelang="fr" speaker="yuki">No, no, no!</line>
+
+		<line id="28000" voicelang="fr" speaker="yuki">I look too different! I look too wrong!</line>
+
+		<line id="29000" voicelang="fr" speaker="yuki">I look —</line>
+
+		<narration>Class is in session. Yuki examines the unfamiliar heads of the room. All of them are Black Beauties.</narration>
+
+		<line id="30000" voicelang="fr" speaker="yuki">Not Japanese.</line>
+
+		
+
+		
+
+	</part>
+
+		
+
+</scriptment>

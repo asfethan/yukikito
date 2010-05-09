@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="82000" point="caps_time" localizationstatus="original" fictionaldate="2011-11-01" status="final">
+	<part>
+		<condition>
+			<comment>The Player hired Capucine Rousseau.</comment>
+			<narration>Soleil passes the Cardboard City. Capucine sits on a cardboard box and stares at her watch.</narration>
+			<line id="1000" speaker="yuki" voicelang="fr">Wow, 5:31 PM and you aren't asleep?</line>
+			<line id="2000" speaker="capucine" voicelang="fr">Right now?</line>
+			<line id="3000" speaker="yuki" voicelang="fr">Right now.</line>
+			<line id="4000" speaker="capucine" voicelang="fr">Too soon!</line>
+			<narration>Capucine yawns.</narration>
+			<line id="5000" speaker="capucine" voicelang="ja">Can't sleep.</narration>
+			<line id="6000" speaker="capucine" voicelang="ja">No time.</narration>
+			<narration>Capucine tosses the watch. She marches back towards Sega Headquarters.</narration>
+			<line id="7000" speaker="yuki" voicelang="ja">Godspeed.</narration>
+			<comment>Capucine's Base Ambition reaches 90%.</comment>
+		</condition>
+	</part>
+</scriptment>

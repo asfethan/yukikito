@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="24000" point="garriot" localizationstatus="original" fictionaldate="2011-06-22" status="final">
+	<part>
+		<narration>Yuki hears something over the radio.</narration>
+		<line id="1000" speaker="radio" voicelang="ja">...game designer and space-tourist,</line>
+		<line id="2000" speaker="radio" voicelang="ja">has announced that he will put all effort into advancing space tourism,</line>
+		<line id="3000" speaker="radio" voicelang="ja">using funds from the liquidation of his company, Destination Games.</line>
+		<narration>The radio cuts to an interview. The space-tourist's voice starts in English and leads to its Japanese translation.</narration>
+		<line id="4000" speaker="garriott" voicelang="ja">...even my greatest ideas are no match for the final frontier.</line>
+		<line id="5000" speaker="garriott" voicelang="ja">I mean, this is the universe we're dealing with, here.</line>
+		<line id="6000" speaker="garriott" voicelang="ja">I just think it's time to quit video games and move on.</line>
+	</part>
+</scriptment>

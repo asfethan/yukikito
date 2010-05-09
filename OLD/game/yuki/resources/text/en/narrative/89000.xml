@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="89000" point="asami_cardboard" localizationstatus="original" fictionaldate="2011-11-09" status="final">
+	<part>
+		<condition>
+			<comment>The Player did not reach Asami at the hospital. The Player hired Capucine Rousseau.</comment>
+			<narration>The setting sun peeks from behind the clouds. Droplets drip from tips of tiny roofs. Yuki and Capucine walk down the street.</narration>
+			<line id="1000" speaker="yuki" voicelang="fr">...productivity's outside the job.</line>
+			<line id="2000" speaker="yuki" voicelang="fr">Why sleep for 18 hours after work?</line>
+			<line id="3000" speaker="capucine" voicelang="fr">It's enjoyable.</line>
+			<line id="4000" speaker="yuki" voicelang="fr">Enjoyable? Staring at the clock from fear of wasted time?</line>
+			<line id="5000" speaker="capucine" voicelang="fr">Wasted time?</line>
+			<narration>Guitar. In the distance. NoLifeQueen runs to it. Capucine continues to walk. As well, Yuki.</narration>
+			<line id="6000" speaker="yuki" voicelang="fr">You hear something?</line>
+			<narration>The sounds of crumbling structure.</narration>
+			<line id="7000" speaker="capucine" voicelang="fr">I do.</line>
+			<narration>Capucine runs. As does Yuki.</narration>
+			<narration>The Cardboard City. A same-gender, sitting on a wet box, plays the guitar. She looks up at her spawn.</narration>
+			<line id="8000" speaker="asami" voicelang="ja">My daughter!</line>
+			<narration>Asami shivers. She plucks wrong note after wrong note after wrong note. She stares at Yuki.</narration>
+			<line id="9000" speaker="yuki" voicelang="ja">Hello, Asami.</line>
+			<line id="10000" speaker="asami" voicelang="ja">Did you like the flowers I planted in the front yard?</line>
+			<line id="11000" speaker="yuki" voicelang="ja">Flowers?</line>
+			<line id="12000" speaker="asami" voicelang="ja">The lavender, the lavender!</line>
+			<line id="13000" speaker="asami" voicelang="ja">Please tell me you like them. Please, please, please.</line>
+			<condition>
+				<choice number="1">
+					<line id="14000" speaker="yuki" voicelang="ja">I love them.</line>
+					<line id="15000" speaker="asami" voicelang="ja">So they're good! They're great! They're perfect!</line>
+				</choice>
+				<choice number="2">
+					<line id="16000" speaker="yuki" voicelang="ja">I don't like the color.</line>
+					<narration>Asami whispers:</narration>
+					<line id="17000" speaker="asami" voicelang="ja">You like it all over your god-damned lids when you coat them in &#x2014;</line>
+					<narration>Asami takes a deep breath.</narration>
+					<line id="18000" speaker="asami" voicelang="ja">Sorry.</line>
+				</choice>			
+			</condition>
+			<line id="16000" speaker="asami" voicelang="ja">From two to eight, I sowed those seeds in rows.</line>
+			<line id="17000" speaker="asami" voicelang="ja">I tended every leaf with all my might.</line>
+			<line id="18000" speaker="asami" voicelang="ja">Who is your friend? Please tell me you have friends.</line>
+			<line id="19000" speaker="capucine" voicelang="ja">Capucine Rousseau.</line>
+			<line id="20000" speaker="capucine" voicelang="ja">Me? Employed.</line>
+			<narration>Capucine puts out her hand. Asami bows.</narration>
+			<line id="21000" speaker="asami" voicelang="ja">So what brings you to this land &#x2014;</line>
+			<narration>Box breaks and Asami falls and guitar drops on forehead it hurts, Capucine helps Asami up, it still hurts and the box is still broken. More rumbling from the Cardboard City. From there, a box falls. Everyone looks into the distance.</narration>
+			<line id="22000" speaker="asami" voicelang="ja">That's why I'm here.</line>
+			<line id="23000" speaker="asami" voicelang="ja">The structural integrity of an inhabited cardboard box on a rainy day.</line>
+			<narration>Asami picks up her guitar. She plays. Boxes continue to drop from the tops of the so-called buildings. </narration>
+			<line id="24000" speaker="yuki" voicelang="ja">Why would you be here for that?</line>
+			<line id="25000" speaker="asami" voicelang="ja">I'm a doctor now.</line>
+			<line id="26000" speaker="asami" voicelang="ja">A real doctor.</line>
+			<line id="27000" speaker="asami" voicelang="ja">Not just some stage musician with a non-medical PhD and play-time lab-coat.</line>
+			<narration>Yuki looks down at the edges of that play-time lab-coat.</narration>
+			<line id="28000" speaker="asami" voicelang="ja">Isn't it cool, daughter. Isn't it cool.</line>
+			<narration>Asami focuses on her guitar, her downcast eyes shielded by her princess cut. Of the Cardboard City, a manned room falls. She plays a wrong note. A tenanted story falls. She plays a wrong measure. A peopled building falls. She plays a wrong song. To ground the guitar is thrown. To arms with stethoscope, to arms with beeper, to arms with stretcher! Now from the rooms and stories and buildings fall the recession's victims. Asami stands.</narration>
+			<line id="29000" speaker="asami" voicelang="ja">God's greatest grace is the lonely opus.</line>
+			<line id="30000" speaker="asami" voicelang="ja">That's where you get ultimate creative control.</line>
+			<line id="30100" speaker="asami" voicelang="ja">That's where you get perfection.</line>
+			<line id="31000" speaker="asami" voicelang="ja">Both of you, back.</line>
+			<narration>Yuki looks at Capucine.</narration>
+			<line id="32000" speaker="yuki" voicelang="ja">You heard the woman.</line>
+			<line id="33000" speaker="yuki" voicelang="ja">Back.</line>
+			<line id="34000" speaker="capucine" voicelang="ja">Let's go.</line>
+			<narration>Capucine backs. So does Yuki.<comment>The Player walks them both away from the site. All possible actions are cleared; the only thing the Player may do is leave.</comment>The clouds return for round two. Yuki and Capucine leave.</narration>
+			<line id="35000" speaker="yuki" voicelang="fr">So why are you here?</line>
+			<line id="36000" speaker="capucine" voicelang="fr">Here's different.</line>
+		</condition>
+	</part>
+</scriptment>

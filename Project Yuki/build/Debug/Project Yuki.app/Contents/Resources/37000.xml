@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="37000" point="ten_second" localizationstatus="original" fictionaldate="2011-07-24" status="final">
+	<part>
+		<narration>A timer clicks. Nozomi is more than a guest at Yuki's. Both in night clothes, one relaxes in the futon and the other paces about. Yuki cradles the backlit digital timer.<comment>Yuki paces for nine seconds independent of player control. At each tenth second, she pushes a button on the timer and the player regains control.</comment></narration>
+
+		<line id="2000" speaker="yuki" voicelang="fr">Cinematics are the narrative of film.</line>
+		<line id="3000" speaker="yuki" voicelang="fr">Words are the narrative of literature.</line>
+		<narration>Ten Seconds. Yuki presses a button on the timer.<comment>The Player regains control.</comment></narration>
+		<line id="4000" speaker="yuki" voicelang="fr">Mechanics are the narrative of games.</line>
+		<line id="5000" speaker="yuki" voicelang="fr">The plot is the rules and the rules are the plot.</line>
+		<narration>Yuki clenches her fist.<comment>Walks faster independent of Player control.</comment></narration>
+		<line id="5100" speaker="yuki" voicelang="fr">Video games shouldn't even have cutscenes!</line>
+		<line id="5200" speaker="yuki" voicelang="fr">And if they do, they shouldn't be longer than a sixth-minute!</line>
+		<line id="6000" speaker="nozomi" voicelang="ja">You're getting anxious again. Sit down.</line>
+		<narration>Yuki sits on the bed.</narration>
+		<condition>
+			<choice number="1">
+				<narration>Yuki is sitting too far from Nozomi.</narration>
+				<line id="7000" speaker="nozomi" voicelang="ja">Come closer.</line>
+			</choice>
+		</condition>
+		<narration>Timer start. Nozomi puts her arm around Yuki's shoulder. Fringe a-flow, Yuki sighs and leans in, trusting eyes closed. Nozomi embraces her. Nothing is audible. Ten seconds.</narration>
+		<line id="7000" speaker="nozomi" voicelang="ja">Is this comfortable?</line>
+		<condition>
+			<choice number="1">
+				<line id="8000" speaker="yuki" voicelang="fr">Better than comfortable.</line>
+				<line id="9000" speaker="nozomi" voicelang="ja">Oh.</line>
+			</choice>
+			<choice number="2">
+				<line id="10000" speaker="yuki" voicelang="fr">Put more feeling into it.</line>
+				<line id="11000" speaker="nozomi" voicelang="ja">I will do my best.</line>
+			</choice>
+		</condition>
+	</part>
+</scriptment>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="56000" point="presidency" localizationstatus="original" fictionaldate="2011-08-18" status="final">
+	<part>
+		<narration>2014. A man amongst tens of sunglassed guards stands at a world-intent podium.</narration>
+		<line id="1000" speaker="president" voicelang="en">...an amazing woman,</line>
+		<line id="2000" speaker="president" voicelang="en">who, despite her turbulent socioeconomic background,</line>
+		<line id="3000" speaker="president" voicelang="en">rose to the challenge,</line>
+		<line id="4000" speaker="president" voicelang="en">washed her hands,</line>
+		<line id="5000" speaker="president" voicelang="en">and won the Nobel Prize in Simulation.</line>
+		<line id="6000" speaker="president" voicelang="en">Please welcome our new Director of the National Institute of Standards and Technology,</line>
+		<line id="7000" speaker="president" voicelang="en">Yuki Soleil-Takeshi.</line>
+		<narration>Applause. Yuki shuffles to the podium. She pats the president on the back and winks at him.</narration>
+		<line id="8000" speaker="yuki" voicelang="en">Thanks, Big O.</line>
+		<narration>Yuki backs the microphone.</narration>
+		<line id="9000" speaker="yuki" voicelang="en">Wow, who would have thought?</line>
+		<line id="10000" speaker="yuki" voicelang="en">People of prestige, caring about game designers.</line>
+		<line id="11000" speaker="yuki" voicelang="en">I thought all the good awards were reserved for books and synchrotrons.</line>
+		<narration>Yuki laughs. The audience laughs.</narration>
+		<line id="12000" speaker="yuki" voicelang="en">Anyway &#x2014;</line>
+		<narration>2011. Los Angeles. Yuki jumps from sleep.</narration>
+		<line id="13000" speaker="yuki" voicelang="fr">Not good enough.</line>
+		<narration>The Los Angeles sun sets. Yuki makes a phone call.</narration>
+		<line id="14000" speaker="yuki" voicelang="ja">Morning, honey.</line>
+		<narration>Nozomi yawns.</narration>
+		<line id="15000" speaker="nozomi" voicelang="ja">Ready to relay commands.</line>
+		<line id="16000" speaker="nozomi" voicelang="ja">Day-long international calls? You're gonna rack up the bill.</line>
+		<line id="17000" speaker="yuki" voicelang="ja">Working in another country always has its price.</line>
+		<narration>Yuki, until her date of departure, commands her entire team through a series of phone calls.<comment>Normal play resumes at this point, but with an alpha-blended copy of Yuki at work laid over Yuki making orders by phone. Over time, the American image fades away completely.</comment><narration>
+	</part>
+</scriptment>

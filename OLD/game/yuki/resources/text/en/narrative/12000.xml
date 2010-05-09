@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="12000" point="yuki_street" localizationstatus="original" fictionaldate="2011-06-03" status="final" >
+	<part>
+		<narration>Yuki and Nozomi stand in the front yard of the apartment building.</narration>
+		<line id="1000" speaker="nozomi" voicelang="ja">There's my girl, looking like some sort of adult.</line>
+		<line id="2000" speaker="nozomi" voicelang="ja">If you want a job, then follow me.</line>
+		<narration>Nozomi marches forward, Yuki following. Yuki hears a faint clash.</narration>
+		<line id="3000" speaker="yuki" voicelang="ja">You hear that?</line>
+		<line id="4000" speaker="nozomi" voicelang="ja">Hear what&#x2014;</line>
+		<line id="5000" speaker="nozomi" voicelang="ja">Hey! What's going on over there?</line>
+		<narration>Nozomi dashes forward. Yuki follows. Stop. Before Yuki's Eyes is an industrial-strength hydraulic crusher. Stop. It slams foreign objects dead.</narration>
+		<line id="5100" speaker="yuki" voicelang="ja">Stop.</line>
+		<narration>Nozomi turns around. Yuki looks down and kicks at the ground.</narration>
+		<line id="6000" speaker="yuki" voicelang="ja">I can't go over there.</line>
+		<line id="7000" speaker="nozomi" voicelang="ja">Why?</line>
+		<line id="7100" speaker="yuki" voicelang="ja">I'll die!</line>
+		<line id="7200" speaker="nozomi" voicelang="ja">Nonsense, you just need practice.</line>
+		<narration>Nozomi walks through and emerges unharmed.</narration>
+		<line id="8000" speaker="nozomi" voicelang="ja">Now you try.</line>
+		<narration>The hydraulic crusher accelerates. The din grinds at Yuki's ears. Yuki's skull. Yuki's brain.<comment>The camera closes up on Yuki, to the point of the Player being unable to see the top half of the crusher smashing the bottom. The Player will just have to hope the crusher doesn't comem when having Yuki cross.</comment> </narration>
+		<narration>Yuki hauls ass through the crusher. She trips. She lands on her back. Control lost.<comment>Ramp up the sound. The controls fly around between random places on the screen.</comment>For her last trick, Yuki cowers like the failure she is. Like the dropout she is. Like the ill-mannered, illiterate, wrong-haired misfit she is. The crusher then prepares for execution. It ascends into the heavens in its procedure to eliminate all foreign matter, and then&#x2014; nothing. Yuki looks up. Nothing! The crusher fades from mind. Its dissonance is but the clamor of adolescents in the distance.</narration>
+		<line id="9000" speaker="nozomi" voicelang="ja">Christ, were you always this scared of people?</line>
+		<line id="10000" speaker="yuki" voicelang="ja">No, it's just&#x2014;</line>
+		<narration>Nozomi nears Yuki, folds her arms, and taps her foot. Yuki lowers her volume.</narration>
+		<line id="11000" speaker="yuki" voicelang="fr">If I get too friendly with those kids, they'll think I'm a pedophile.</line>
+		<line id="12000" speaker="nozomi" voicelang="ja">What!</line>
+		<line id="13000" speaker="yuki" voicelang="ja">I mean, uh...</line>
+		<narration>Yuki looks down.</narration>
+		<line id="14000" speaker="yuki" voicelang="fr">I applied my mascara wrong.</line>
+		<line id="14100" speaker="nozomi" voicelang="fr">Nonsense, you're beautiful and everyone loves you and they love your eyes&#x2014;</line>
+		<line id="14200" speaker="yuki" voicelang="fr">What about my hair?</line>
+		<line id="15000" speaker="nozomi" voicelang="ja">Shut up.</line>
+
+		<narration>Nozomi grabs Yuki by the wrist and drags her towards the crowd. The crowd seems to be cheering for someone. Yuki tenses. The heels of her shoes scrape across the concrete. The oh-so-courteous Nozomi lets Yuki get first blood. She flings her into the crowd. Yuki bumps into a boy. The boy stares at Yuki. Silence. <comment>As the moment becomes increasingly awkward, interface elements begin to fade from the screen, eventually leaving only one: The talk button. The Player will know what to do.</comment>Yuki crooked halfway smiles.</narration>
+		<line id="16000" speaker="yuki" voicelang="ja">hello.</line>
+		<narration>The butterflies fly away. Yuki actually smiles.<comment>All of the interface elements come back.</comment>The boy smiles back.</narration>
+		<line id="17000" speaker="boy" voicelang="ja">Hey, what's up?</line>
+		<line id="18000" speaker="yuki" voicelang="ja">Nothing much. What's everyone doing over here?</line>
+		<line id="19000" speaker="boy" voicelang="ja">Take a look.</line>
+		<narration>A child and old man together play some sort of competitive puzzle game about blobs on some sort of two-screened handheld. The young adults cheer.</narration>
+		<line id="20000" speaker="truants" voicelang="ja">Mess him up, Taro! Kazuma's got nothing on you!</line>
+		<line id="20100" speaker="truants" voicelang="ja">I've got a thousand Yen riding on you, Taro!</line>
+		<line id="21000" speaker="taro" voicelang="ja">I thought we were going to play vanilla.</line>
+		<line id="22000" speaker="kazuma" voicelang="ja">New dogs have to learn new tricks sometime&#x2014;</line>
+		<narration>Kazuma grins and clenches his fists.</narration>
+		<line id="23000" speaker="kazuma" voicelang="ja">Fever!</line>
+		<narration>Half the crowd cheers. Yuki cheers! The battle rages on.</narration>
+		<line id="24000" speaker="truants" voicelang="ja">Oh, snap!</line>
+
+		<line id="25000" speaker="boy" voicelang="ja">Whose side are you on, big girl? The young or the elderly?</line>
+		<condition>
+			<choice number="1">
+				<line id="26000" speaker="yuki" voicelang="ja">I cheer for kid.</line>
+				<line id="27000" speaker="boy" voicelang="ja">Yeah!</line>
+				<narration>Someone wins. All is quiet. The Kazuma fans look on in shock. Taro drops his handheld and begins to dance. Applause. Kazuma smiles.</narration>
+				<line id="27100" speaker="kazuma" voicelang="ja">The master has been bested.</line>
+				<narration>Kazuma gives back to a child the borrowed handheld. Exit the young Truants, cheering for Taro.</narration>
+			</choice>
+			<choice number="2">
+				<line id="28000" speaker="yuki" voicelang="ja">Old man has my bet.</line>
+				<line id="29000" speaker="boy" voicelang="ja">Oh my, looks like we've got a rebel!</line>
+				<narration>Someone wins. All is quiet. The Taro fans look on in shock. Kazuma holds out his hands. The Taro fans unload their dough. Applause. Taro frowns.</narration>
+				<line id="30000" speaker="taro" voicelang="ja">Sorry, guys.</line>
+				<line id="31000" speaker="kazuma" voicelang="ja">Lighten up! Just have your people call my people and we'll set up another game.</line>
+				<narration>Kazuma gives back to a child the borrowed handheld. Exit the young Truants, waving bye to Kazuma.</narration>
+			</choice>
+		</condition>
+		<narration>An immovable grin is plastered on Yuki's face. She jumps up and down and huffs and puffs and clasps her hands together and yells:</narration>
+		<line id="31100" speaker="yuki" voicelang="fr">That was fun! I didn't die! Is it always like this?</line>
+		<narration> Yuki looks at the sign next to Kazuma. It reads:</narration>
+		<line id="31200" speaker="game">Will beat you at games for food</line>
+		<line id="26000" speaker="kazuma" voicelang="ja">Young Pomme! Come to challenge me to a round of Puyo?</line>
+		<line id="27000" speaker="yuki" voicelang="ja">No time&#x2014; I have a job interview!</line>
+		<narration>Yuki marches forward, Nozomi following. Yuki keeps walking.<comment>Don't notify the Player upon reaching the destination, allow them to continue walking until they notice Nozomi is gone. When nearing Nozomi once again, progress. If the Player knows the area of Japan well, they may realize the only game company building in the area and stop before triggering the point. If so, Yuki laughs.</comment>Yuki runs back over to Nozomi. Nozomi points up.</narration>
+		<line id="28000" speaker="nozomi" voicelang="ja">Well, this is my job.</line>
+		<line id="29000" speaker="yuki" voicelang="fr">What!</line>
+		<narration>This is the Sega Corporation.</narration>
+		<line id="30000" speaker="nozomi" voicelang="ja">Let's go in and chat up the boss.</line>
+	</part>
+</scriptment>

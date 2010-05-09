@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="4000" point="yuki_schoolwalk" localizationstatus="original" fictionaldate="1997-01-10" status="final" >
+		<part name="school_walk">
+		<narration lineid="">Down the street Jacques walks his children. As JJ and he stride ahead, Yuki trails behind. Yuki's picket-sign drags across the ground. Jacques' is slung over-shoulder. Jacques looks at his son. He halts. </narration>
+			<line id="2000" speaker="jacques" voicelang="fr">A Japanese company bought our team.</line>
+			<narration>Yuki, mouth agape, halts. JJ stops walking. Jacques looks down. Jacques sighs. Jacques continues walking.</narration>
+			<line id="3000" speaker="jacques" voicelang="fr">I suppose that's what happens when 	project planning gets costly.</line>
+			<line id="4000" speaker="jj" voicelang="fr">Costly?</line>
+			<line id="5000" speaker="jacques" voicelang="fr">Yeah, it costs money to make video games.</line>
+			<line id="6000" speaker="jacques" voicelang="fr">I told Adeline to wait for the school year to end before the acquisition.</line>
+			<line id="7000" speaker="jacques" voicelang="fr">But, thanks to the the fools down at the Ministry, we had to agree to it yesterday.</line>
+			<line id="8000" speaker="jj" voicelang="fr">Why?</line>
+			<narration lineid="">Yuki gasps.</narration>
+			<line id="9000" speaker="yuki" voicelang="fr">The Software Identity Act?</line>
+			
+			<line id="10000" speaker="jacques" voicelang="fr">Yuki, hush.</line>
+			<narration lineid="">Yuki slows to a stomp.<comment>No matter how the Player attempts to move her, Yuki will trail extremely far behind Jacques and JJ. The camera zooms out.</comment>Jacques looks at his son.</narration>
+			<line id="11000" speaker="jacques" voicelang="fr">The Software Identity Act.</line>
+			<line id="12000" speaker="jacques" voicelang="fr">The Ministry of Culture wants all of the French software to stay French; especially video games.</line>
+			<line id="12100" speaker="jacques" voicelang="fr">They deemed games "artistically relevant," or something like that.</line>
+			<line id="13000" speaker="jacques" voicelang="fr">Whether or not this means that someone finally considers video games to be "Culture" is yet to be disclosed.</line>
+			<narration>The group of Jacques and children continue to walk. They pass a group of picket-sign holders three. Then, they pass a group of picket-sign holders nine. Then, 27. All yelling, all screaming. Jacques grins and turns to a picket-holder.</narration>
+			<line id="14000" speaker="jacques" voicelang="fr">You protesting the SIA?</line>
+			<line id="15000" speaker="man" voicelang="fr">Sure am. Check the sign.</line>
+			<line id="15100" speaker="game">Our code is for the world</line>
+			<line id="16000" speaker="jacques" voicelang="fr">Right on, brother, right on.</line>
+			<line id="17000" speaker="jacques" voicelang="fr">We gotta convince these jokers to repeal the law. Check the sign.</line>
+			<line id="17100" speaker="game">Doom not the game industry</line>
+			<line id="18000" speaker="man" voicelang="fr">Word up! We gotta fight for our rights!</line>
+			<narration>81. All yelling, all screaming. JJ stops there. He looks at Yuki's sign.</narration>
+			<line id="19000" speaker="jj" voicelang="fr">I never paid attention to what your sign said.</line>
+			<line id="20000" speaker="game">The youth code too — think of the future</line>
+			<narration>JJ watches Yuki continue walking.<comment>No scene progression until the Player leads Yuki through the crowd.</comment> Yuki treads, losing herself in a forest of pants.<comment>The Player, through Yuki, walks around.</comment>243. All yelling, all screaming. Mid-walk, a lone Policeman yanks from the outskirts of the crowd Yuki.</narration>
+			<line id="21000" speaker="policeman" voicelang="fr">Little girl, what are you doing out here?</line>
+			<narration>The Policeman, tactical vest and club and helmet and — something shiny — a gun — looks down at Yuki. Yuki shivers.</narration>
+			<condition>	
+				<choice number="1">
+					<line id="22000" speaker="yuki" voicelang="fr">Protesting.</line>
+					<line id="23000" speaker="policeman" voicelang="fr">Great, parents use the children as launchpads to opine.</line>
+					<line id="24000" speaker="policeman" voicelang="fr">Who made you that sign?</line>
+					<line id="25000" speaker="yuki" voicelang="fr">I did—</line>
+					<narration>The Policeman grabs Yuki by the arm and drags her.</narration>
+				</choice>
+				<choice number="2">
+					<line id="26000" speaker="yuki" voicelang="fr">Going to school.</line>
+					<line id="27000" speaker="policeman" voicelang="fr">And, I suppose, the three-hundred others too?</line>
+					<line id="28000" speaker="policeman" voicelang="fr">Who brought you here?</line>
+					<line id="29000" speaker="yuki" voicelang="fr">I did—</line>
+					<narration>The Policeman grabs Yuki by the shoulders and shoves her.</narration>
+				</choice>
+			</condition>
+			<line id="30000" speaker="jacques" voicelang="fr">Get your damn hands off Yuki!</line>
+			<narration>Jacques erupts from the crowd and punches the Policeman in the face. The Policeman collapses. The crowd stops. The crowd stares. Jacques gasps. Jacques rubs his chin, thinking of a plan. He snaps his fingers. Eureka! He pounds the ground.</narration>
+			<line id="31000" speaker="jacques" voicelang="fr">Time to go!</line>
+			<narration><comment>During most of this, the Player can move Yuki, but eventually,</comment>Jacques snatches Yuki from the crowd, carrying her under an arm. Jacques snatches his son from the crowd, carrying him under an arm. Jacques flees. Jacques runs and runs and runs. While in run, he looks at his son.</narration>
+			<line id="32000" speaker="jacques" voicelang="fr">Son, make sure you look over for statements in the notes I printed for you.</line>
+			<line id="32000" speaker="jacques" voicelang="fr">I don't care if you have to do it during Art class, just do it.</line>
+			<narration>He looks down at Yuki.</narration>
+			<line id="33000" speaker="jacques" voicelang="fr">Yuki, I hope you studied for the Biology test.</line>
+			<line id="34000" speaker="yuki" voicelang="fr">Test?</line>
+			<comment>Sudden cut.</comment>
+		</part>
+	
+</scriptment>

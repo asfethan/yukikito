@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="77000" point="dan_kyou" localizationstatus="original" fictionaldate="2011-10-20" status="final">
+	<part>
+		<comment>Sporadic event. Occurs the day after Dan loses his home.</comment>
+	    <condition>
+	        <narration>Yuki did not lend Dan rent money.</narration>
+	        <narration>Dan stands at a man's apartment door with box in hand. The future roommate's door opens, out of it comes Kyou.</narration>
+	        <line id="1000" speaker="kyou" voicelang="ja">Yo.</line>
+	        <line id="2000" speaker="dan" voicelang="ja">Sup.</line>
+	        <condition>
+	        	<comment>Player did not hire Kyou.</comment>
+	  			<narration>Yuki flails.</narration>
+	        	<line id="3000" speaker="yuki" voicelang="ja">Hello!</line>
+	        	<narration>Kyou glares at Yuki. He looks back at Dan.</narration>
+	        	<line id="4000" speaker="kyou" voicelang="ja">This person's stingy, huh?</line>
+	        	<narration>The two laugh.</narration>
+	        </condition>
+	        <line id="5000" speaker="kyou" voicelang="ja">It would be so much easier if you lended Dan some cash.</line>
+	        <line id="6000" speaker="yuki" voicelang="ja">I pay his wages, not his vices.</line>
+	        <narration>Kyou sighs.</narration>
+	        <line id="7000" speaker="kyou" voicelang="ja">Dan, I'll show you around.</line>
+	        <line id="8000" speaker="kyou" voicelang="ja">Yuki, stay outside.</line>
+	        <narration>Yuki sighs. The wind blows.</narration>
+	    </condition>
+	</part>
+</scriptment>

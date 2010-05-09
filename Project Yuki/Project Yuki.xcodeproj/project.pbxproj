@@ -1,0 +1,934 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		002F39FA09D0881F00EBEB88 /* SDL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 002F39F909D0881F00EBEB88 /* SDL.framework */; };
+		002F3A0009D0884600EBEB88 /* SDL.framework in Copy Frameworks into .app bundle */ = {isa = PBXBuildFile; fileRef = 002F39F909D0881F00EBEB88 /* SDL.framework */; };
+		002F3A2E09D0888800EBEB88 /* SDLMain.m in Sources */ = {isa = PBXBuildFile; fileRef = 002F3A2C09D0888800EBEB88 /* SDLMain.m */; };
+		002F3C0109D093BD00EBEB88 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 002F3C0009D093BD00EBEB88 /* OpenGL.framework */; };
+		002F3C6109D0951E00EBEB88 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 002F3C6009D0951E00EBEB88 /* GLUT.framework */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		F65B8717119666DC00D64897 /* yuki_age24.svg in Resources */ = {isa = PBXBuildFile; fileRef = F65B86A0119666D800D64897 /* yuki_age24.svg */; };
+		F65B8718119666DD00D64897 /* index.svg in Resources */ = {isa = PBXBuildFile; fileRef = F65B86A4119666D800D64897 /* index.svg */; };
+		F65B8719119666DD00D64897 /* lavender.svg in Resources */ = {isa = PBXBuildFile; fileRef = F65B86A6119666D900D64897 /* lavender.svg */; };
+		F65B871A119666DD00D64897 /* 10000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86AA119666D900D64897 /* 10000.xml */; };
+		F65B871B119666DD00D64897 /* 100000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86AB119666D900D64897 /* 100000.xml */; };
+		F65B871C119666DD00D64897 /* 80000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86AC119666D900D64897 /* 80000.xml */; };
+		F65B871D119666DD00D64897 /* 81000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86AD119666D900D64897 /* 81000.xml */; };
+		F65B871E119666DD00D64897 /* foreword.html in Resources */ = {isa = PBXBuildFile; fileRef = F65B86AE119666D900D64897 /* foreword.html */; };
+		F65B871F119666DD00D64897 /* foreword.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86AF119666D900D64897 /* foreword.xml */; };
+		F65B8720119666DD00D64897 /* 1000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B0119666D900D64897 /* 1000.xml */; };
+		F65B8721119666DD00D64897 /* 11000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B1119666D900D64897 /* 11000.xml */; };
+		F65B8722119666DD00D64897 /* 110000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B2119666D900D64897 /* 110000.xml */; };
+		F65B8723119666DD00D64897 /* 12000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B3119666D900D64897 /* 12000.xml */; };
+		F65B8724119666DD00D64897 /* 13000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B4119666D900D64897 /* 13000.xml */; };
+		F65B8725119666DD00D64897 /* 14000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B5119666D900D64897 /* 14000.xml */; };
+		F65B8726119666DD00D64897 /* 15000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B6119666D900D64897 /* 15000.xml */; };
+		F65B8727119666DD00D64897 /* 16000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B7119666D900D64897 /* 16000.xml */; };
+		F65B8728119666DD00D64897 /* 17000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B8119666D900D64897 /* 17000.xml */; };
+		F65B8729119666DD00D64897 /* 18000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86B9119666D900D64897 /* 18000.xml */; };
+		F65B872A119666DD00D64897 /* 19000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86BA119666D900D64897 /* 19000.xml */; };
+		F65B872B119666DD00D64897 /* 2000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86BB119666D900D64897 /* 2000.xml */; };
+		F65B872C119666DD00D64897 /* 20000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86BC119666D900D64897 /* 20000.xml */; };
+		F65B872D119666DD00D64897 /* 21000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86BD119666D900D64897 /* 21000.xml */; };
+		F65B872E119666DD00D64897 /* 22000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86BE119666D900D64897 /* 22000.xml */; };
+		F65B872F119666DD00D64897 /* 23000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86BF119666D900D64897 /* 23000.xml */; };
+		F65B8730119666DD00D64897 /* 24000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C0119666D900D64897 /* 24000.xml */; };
+		F65B8731119666DD00D64897 /* 25000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C1119666D900D64897 /* 25000.xml */; };
+		F65B8732119666DD00D64897 /* 26000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C2119666D900D64897 /* 26000.xml */; };
+		F65B8733119666DD00D64897 /* 27000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C3119666D900D64897 /* 27000.xml */; };
+		F65B8734119666DD00D64897 /* 28000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C4119666D900D64897 /* 28000.xml */; };
+		F65B8735119666DD00D64897 /* 29000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C5119666D900D64897 /* 29000.xml */; };
+		F65B8736119666DD00D64897 /* 3000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C6119666DA00D64897 /* 3000.xml */; };
+		F65B8737119666DD00D64897 /* 30000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C7119666DA00D64897 /* 30000.xml */; };
+		F65B8738119666DD00D64897 /* 31000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C8119666DA00D64897 /* 31000.xml */; };
+		F65B8739119666DD00D64897 /* 32000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86C9119666DA00D64897 /* 32000.xml */; };
+		F65B873A119666DD00D64897 /* 33000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86CA119666DA00D64897 /* 33000.xml */; };
+		F65B873B119666DD00D64897 /* 34000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86CB119666DA00D64897 /* 34000.xml */; };
+		F65B873C119666DD00D64897 /* 35000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86CC119666DA00D64897 /* 35000.xml */; };
+		F65B873D119666DD00D64897 /* 36000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86CD119666DA00D64897 /* 36000.xml */; };
+		F65B873E119666DD00D64897 /* 37000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86CE119666DA00D64897 /* 37000.xml */; };
+		F65B873F119666DD00D64897 /* 38000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86CF119666DA00D64897 /* 38000.xml */; };
+		F65B8740119666DD00D64897 /* 39000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D0119666DA00D64897 /* 39000.xml */; };
+		F65B8741119666DD00D64897 /* 4000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D1119666DA00D64897 /* 4000.xml */; };
+		F65B8742119666DD00D64897 /* 40000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D2119666DA00D64897 /* 40000.xml */; };
+		F65B8743119666DD00D64897 /* 41000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D3119666DA00D64897 /* 41000.xml */; };
+		F65B8744119666DD00D64897 /* 42000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D4119666DA00D64897 /* 42000.xml */; };
+		F65B8745119666DD00D64897 /* 43000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D5119666DA00D64897 /* 43000.xml */; };
+		F65B8746119666DD00D64897 /* 44000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D6119666DA00D64897 /* 44000.xml */; };
+		F65B8747119666DD00D64897 /* 45000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D7119666DA00D64897 /* 45000.xml */; };
+		F65B8748119666DD00D64897 /* 46000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D8119666DA00D64897 /* 46000.xml */; };
+		F65B8749119666DD00D64897 /* 47000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86D9119666DA00D64897 /* 47000.xml */; };
+		F65B874A119666DD00D64897 /* 48000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86DA119666DA00D64897 /* 48000.xml */; };
+		F65B874B119666DD00D64897 /* 49000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86DB119666DA00D64897 /* 49000.xml */; };
+		F65B874C119666DD00D64897 /* 5000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86DC119666DA00D64897 /* 5000.xml */; };
+		F65B874D119666DD00D64897 /* 50000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86DD119666DA00D64897 /* 50000.xml */; };
+		F65B874E119666DD00D64897 /* 51000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86DE119666DA00D64897 /* 51000.xml */; };
+		F65B874F119666DD00D64897 /* 52000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86DF119666DA00D64897 /* 52000.xml */; };
+		F65B8750119666DD00D64897 /* 53000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E0119666DA00D64897 /* 53000.xml */; };
+		F65B8751119666DD00D64897 /* 54000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E1119666DA00D64897 /* 54000.xml */; };
+		F65B8752119666DD00D64897 /* 55000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E2119666DA00D64897 /* 55000.xml */; };
+		F65B8753119666DD00D64897 /* 56000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E3119666DA00D64897 /* 56000.xml */; };
+		F65B8754119666DD00D64897 /* 57000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E4119666DA00D64897 /* 57000.xml */; };
+		F65B8755119666DD00D64897 /* 58000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E5119666DA00D64897 /* 58000.xml */; };
+		F65B8756119666DD00D64897 /* 59000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E6119666DA00D64897 /* 59000.xml */; };
+		F65B8757119666DD00D64897 /* 6000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E7119666DA00D64897 /* 6000.xml */; };
+		F65B8758119666DD00D64897 /* 60000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E8119666DA00D64897 /* 60000.xml */; };
+		F65B8759119666DD00D64897 /* 61000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86E9119666DB00D64897 /* 61000.xml */; };
+		F65B875A119666DD00D64897 /* 62000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86EA119666DB00D64897 /* 62000.xml */; };
+		F65B875B119666DD00D64897 /* 63000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86EB119666DB00D64897 /* 63000.xml */; };
+		F65B875C119666DD00D64897 /* 64000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86EC119666DB00D64897 /* 64000.xml */; };
+		F65B875D119666DD00D64897 /* 65000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86ED119666DB00D64897 /* 65000.xml */; };
+		F65B875E119666DD00D64897 /* 66000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86EE119666DB00D64897 /* 66000.xml */; };
+		F65B875F119666DD00D64897 /* 67000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86EF119666DB00D64897 /* 67000.xml */; };
+		F65B8760119666DD00D64897 /* 68000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F0119666DB00D64897 /* 68000.xml */; };
+		F65B8761119666DD00D64897 /* 69000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F1119666DB00D64897 /* 69000.xml */; };
+		F65B8762119666DD00D64897 /* 7000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F2119666DB00D64897 /* 7000.xml */; };
+		F65B8763119666DD00D64897 /* 70000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F3119666DB00D64897 /* 70000.xml */; };
+		F65B8764119666DD00D64897 /* 71000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F4119666DB00D64897 /* 71000.xml */; };
+		F65B8765119666DD00D64897 /* 72000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F5119666DB00D64897 /* 72000.xml */; };
+		F65B8766119666DD00D64897 /* 73000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F6119666DB00D64897 /* 73000.xml */; };
+		F65B8767119666DD00D64897 /* 74000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F7119666DB00D64897 /* 74000.xml */; };
+		F65B8768119666DD00D64897 /* 75000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F8119666DB00D64897 /* 75000.xml */; };
+		F65B8769119666DD00D64897 /* 76000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86F9119666DB00D64897 /* 76000.xml */; };
+		F65B876A119666DD00D64897 /* 77000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86FA119666DB00D64897 /* 77000.xml */; };
+		F65B876B119666DD00D64897 /* 78000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86FB119666DB00D64897 /* 78000.xml */; };
+		F65B876C119666DD00D64897 /* 79000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86FC119666DB00D64897 /* 79000.xml */; };
+		F65B876D119666DD00D64897 /* 8000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86FD119666DB00D64897 /* 8000.xml */; };
+		F65B876E119666DD00D64897 /* 82000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86FE119666DB00D64897 /* 82000.xml */; };
+		F65B876F119666DD00D64897 /* 83000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B86FF119666DB00D64897 /* 83000.xml */; };
+		F65B8770119666DD00D64897 /* 84000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8700119666DB00D64897 /* 84000.xml */; };
+		F65B8771119666DD00D64897 /* 85000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8701119666DB00D64897 /* 85000.xml */; };
+		F65B8772119666DD00D64897 /* 86000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8702119666DB00D64897 /* 86000.xml */; };
+		F65B8773119666DD00D64897 /* 87000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8703119666DB00D64897 /* 87000.xml */; };
+		F65B8774119666DD00D64897 /* 88000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8704119666DB00D64897 /* 88000.xml */; };
+		F65B8775119666DD00D64897 /* 89000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8705119666DB00D64897 /* 89000.xml */; };
+		F65B8776119666DD00D64897 /* 9000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8706119666DB00D64897 /* 9000.xml */; };
+		F65B8777119666DD00D64897 /* 90000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8707119666DB00D64897 /* 90000.xml */; };
+		F65B8778119666DD00D64897 /* 92000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8708119666DB00D64897 /* 92000.xml */; };
+		F65B8779119666DD00D64897 /* 93000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8709119666DB00D64897 /* 93000.xml */; };
+		F65B877A119666DD00D64897 /* 94000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B870A119666DB00D64897 /* 94000.xml */; };
+		F65B877B119666DD00D64897 /* 95000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B870B119666DC00D64897 /* 95000.xml */; };
+		F65B877C119666DD00D64897 /* 96000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B870C119666DC00D64897 /* 96000.xml */; };
+		F65B877D119666DD00D64897 /* 97000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B870D119666DC00D64897 /* 97000.xml */; };
+		F65B877E119666DD00D64897 /* 98000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B870E119666DC00D64897 /* 98000.xml */; };
+		F65B877F119666DD00D64897 /* 99000.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B870F119666DC00D64897 /* 99000.xml */; };
+		F65B8780119666DD00D64897 /* Junction.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F65B8710119666DC00D64897 /* Junction.ttf */; };
+		F65B8781119666DD00D64897 /* howto.xml in Resources */ = {isa = PBXBuildFile; fileRef = F65B8711119666DC00D64897 /* howto.xml */; };
+		F65B8782119666DD00D64897 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = F65B8712119666DC00D64897 /* index.html */; };
+		F65B8783119666DD00D64897 /* jquery.js in Sources */ = {isa = PBXBuildFile; fileRef = F65B8713119666DC00D64897 /* jquery.js */; };
+		F65B8784119666DD00D64897 /* yuki.css in Resources */ = {isa = PBXBuildFile; fileRef = F65B8714119666DC00D64897 /* yuki.css */; };
+		F65B8785119666DD00D64897 /* yuki.xsl in Resources */ = {isa = PBXBuildFile; fileRef = F65B8715119666DC00D64897 /* yuki.xsl */; };
+		F65B878A1196670600D64897 /* game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F65B87861196670600D64897 /* game.cpp */; };
+		F65B878B1196670600D64897 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F65B87871196670600D64897 /* main.cpp */; };
+		F65B878D1196670600D64897 /* world.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F65B87891196670600D64897 /* world.cpp */; };
+		F65B88351196746F00D64897 /* keyboardinput.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F65B88341196746F00D64897 /* keyboardinput.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		002F39FD09D0883400EBEB88 /* Copy Frameworks into .app bundle */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				002F3A0009D0884600EBEB88 /* SDL.framework in Copy Frameworks into .app bundle */,
+			);
+			name = "Copy Frameworks into .app bundle";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		002F39F909D0881F00EBEB88 /* SDL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDL.framework; path = /Library/Frameworks/SDL.framework; sourceTree = "<absolute>"; };
+		002F3A2B09D0888800EBEB88 /* SDLMain.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = SDLMain.h; sourceTree = SOURCE_ROOT; };
+		002F3A2C09D0888800EBEB88 /* SDLMain.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = SDLMain.m; sourceTree = SOURCE_ROOT; };
+		002F3C0009D093BD00EBEB88 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
+		002F3C6009D0951E00EBEB88 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = ../../../../../../../../../../System/Library/Frameworks/GLUT.framework; sourceTree = SOURCE_ROOT; };
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* Project Yuki.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project Yuki.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F65B865D1196647B00D64897 /* action.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = action.h; sourceTree = SOURCE_ROOT; };
+		F65B865E1196647B00D64897 /* area.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = area.h; sourceTree = SOURCE_ROOT; };
+		F65B865F1196647B00D64897 /* attribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = attribute.h; sourceTree = SOURCE_ROOT; };
+		F65B86601196647B00D64897 /* camera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = camera.h; sourceTree = SOURCE_ROOT; };
+		F65B86611196647B00D64897 /* cut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cut.h; sourceTree = SOURCE_ROOT; };
+		F65B86621196647B00D64897 /* display.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = display.h; sourceTree = SOURCE_ROOT; };
+		F65B86631196647B00D64897 /* entity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = entity.h; sourceTree = SOURCE_ROOT; };
+		F65B86641196647B00D64897 /* entrypoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = entrypoint.h; sourceTree = SOURCE_ROOT; };
+		F65B86651196647B00D64897 /* flag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = flag.h; sourceTree = SOURCE_ROOT; };
+		F65B86661196647B00D64897 /* game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = game.h; sourceTree = SOURCE_ROOT; };
+		F65B86671196647B00D64897 /* graphicdisplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = graphicdisplay.h; sourceTree = SOURCE_ROOT; };
+		F65B86681196647B00D64897 /* image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = image.h; sourceTree = SOURCE_ROOT; };
+		F65B86691196647B00D64897 /* input.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = input.h; sourceTree = SOURCE_ROOT; };
+		F65B866A1196647B00D64897 /* keyboardinput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = keyboardinput.h; sourceTree = SOURCE_ROOT; };
+		F65B866B1196647B00D64897 /* localization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = localization.h; sourceTree = SOURCE_ROOT; };
+		F65B866C1196647B00D64897 /* player.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = player.h; sourceTree = SOURCE_ROOT; };
+		F65B866D1196647B00D64897 /* point.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = point.h; sourceTree = SOURCE_ROOT; };
+		F65B866E1196647B00D64897 /* resource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = resource.h; sourceTree = SOURCE_ROOT; };
+		F65B866F1196647B00D64897 /* say.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = say.h; sourceTree = SOURCE_ROOT; };
+		F65B86701196647B00D64897 /* scene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = scene.h; sourceTree = SOURCE_ROOT; };
+		F65B86711196647B00D64897 /* shift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = shift.h; sourceTree = SOURCE_ROOT; };
+		F65B86721196647B00D64897 /* sprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sprite.h; sourceTree = SOURCE_ROOT; };
+		F65B86731196647C00D64897 /* timer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = timer.h; sourceTree = SOURCE_ROOT; };
+		F65B86741196647C00D64897 /* validator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = validator.h; sourceTree = SOURCE_ROOT; };
+		F65B86751196647C00D64897 /* widget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = widget.h; sourceTree = SOURCE_ROOT; };
+		F65B86761196647C00D64897 /* world.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = world.h; sourceTree = SOURCE_ROOT; };
+		F65B86A0119666D800D64897 /* yuki_age24.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = yuki_age24.svg; path = game/yuki/assets/characters/yuki_age24.svg; sourceTree = SOURCE_ROOT; };
+		F65B86A4119666D800D64897 /* index.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = index.svg; path = game/yuki/resources/sprite/keyboardkey/index.svg; sourceTree = SOURCE_ROOT; };
+		F65B86A6119666D900D64897 /* lavender.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = lavender.svg; path = game/yuki/resources/sprite/lavender/lavender.svg; sourceTree = SOURCE_ROOT; };
+		F65B86AA119666D900D64897 /* 10000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 10000.xml; path = game/yuki/resources/text/en/narrative/10000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86AB119666D900D64897 /* 100000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 100000.xml; path = game/yuki/resources/text/en/narrative/100000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86AC119666D900D64897 /* 80000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 80000.xml; path = game/yuki/resources/text/en/narrative/80000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86AD119666D900D64897 /* 81000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 81000.xml; path = game/yuki/resources/text/en/narrative/81000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86AE119666D900D64897 /* foreword.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = foreword.html; path = game/yuki/resources/text/en/narrative/foreword.html; sourceTree = SOURCE_ROOT; };
+		F65B86AF119666D900D64897 /* foreword.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = foreword.xml; path = game/yuki/resources/text/en/narrative/foreword.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B0119666D900D64897 /* 1000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 1000.xml; path = game/yuki/resources/text/en/narrative/1000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B1119666D900D64897 /* 11000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 11000.xml; path = game/yuki/resources/text/en/narrative/11000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B2119666D900D64897 /* 110000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 110000.xml; path = game/yuki/resources/text/en/narrative/110000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B3119666D900D64897 /* 12000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 12000.xml; path = game/yuki/resources/text/en/narrative/12000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B4119666D900D64897 /* 13000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 13000.xml; path = game/yuki/resources/text/en/narrative/13000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B5119666D900D64897 /* 14000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 14000.xml; path = game/yuki/resources/text/en/narrative/14000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B6119666D900D64897 /* 15000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 15000.xml; path = game/yuki/resources/text/en/narrative/15000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B7119666D900D64897 /* 16000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 16000.xml; path = game/yuki/resources/text/en/narrative/16000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B8119666D900D64897 /* 17000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 17000.xml; path = game/yuki/resources/text/en/narrative/17000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86B9119666D900D64897 /* 18000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 18000.xml; path = game/yuki/resources/text/en/narrative/18000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86BA119666D900D64897 /* 19000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 19000.xml; path = game/yuki/resources/text/en/narrative/19000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86BB119666D900D64897 /* 2000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 2000.xml; path = game/yuki/resources/text/en/narrative/2000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86BC119666D900D64897 /* 20000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 20000.xml; path = game/yuki/resources/text/en/narrative/20000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86BD119666D900D64897 /* 21000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 21000.xml; path = game/yuki/resources/text/en/narrative/21000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86BE119666D900D64897 /* 22000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 22000.xml; path = game/yuki/resources/text/en/narrative/22000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86BF119666D900D64897 /* 23000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 23000.xml; path = game/yuki/resources/text/en/narrative/23000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C0119666D900D64897 /* 24000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 24000.xml; path = game/yuki/resources/text/en/narrative/24000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C1119666D900D64897 /* 25000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 25000.xml; path = game/yuki/resources/text/en/narrative/25000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C2119666D900D64897 /* 26000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 26000.xml; path = game/yuki/resources/text/en/narrative/26000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C3119666D900D64897 /* 27000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 27000.xml; path = game/yuki/resources/text/en/narrative/27000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C4119666D900D64897 /* 28000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 28000.xml; path = game/yuki/resources/text/en/narrative/28000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C5119666D900D64897 /* 29000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 29000.xml; path = game/yuki/resources/text/en/narrative/29000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C6119666DA00D64897 /* 3000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 3000.xml; path = game/yuki/resources/text/en/narrative/3000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C7119666DA00D64897 /* 30000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 30000.xml; path = game/yuki/resources/text/en/narrative/30000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C8119666DA00D64897 /* 31000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 31000.xml; path = game/yuki/resources/text/en/narrative/31000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86C9119666DA00D64897 /* 32000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 32000.xml; path = game/yuki/resources/text/en/narrative/32000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86CA119666DA00D64897 /* 33000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 33000.xml; path = game/yuki/resources/text/en/narrative/33000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86CB119666DA00D64897 /* 34000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 34000.xml; path = game/yuki/resources/text/en/narrative/34000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86CC119666DA00D64897 /* 35000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 35000.xml; path = game/yuki/resources/text/en/narrative/35000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86CD119666DA00D64897 /* 36000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 36000.xml; path = game/yuki/resources/text/en/narrative/36000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86CE119666DA00D64897 /* 37000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 37000.xml; path = game/yuki/resources/text/en/narrative/37000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86CF119666DA00D64897 /* 38000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 38000.xml; path = game/yuki/resources/text/en/narrative/38000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D0119666DA00D64897 /* 39000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 39000.xml; path = game/yuki/resources/text/en/narrative/39000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D1119666DA00D64897 /* 4000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 4000.xml; path = game/yuki/resources/text/en/narrative/4000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D2119666DA00D64897 /* 40000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 40000.xml; path = game/yuki/resources/text/en/narrative/40000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D3119666DA00D64897 /* 41000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 41000.xml; path = game/yuki/resources/text/en/narrative/41000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D4119666DA00D64897 /* 42000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 42000.xml; path = game/yuki/resources/text/en/narrative/42000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D5119666DA00D64897 /* 43000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 43000.xml; path = game/yuki/resources/text/en/narrative/43000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D6119666DA00D64897 /* 44000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 44000.xml; path = game/yuki/resources/text/en/narrative/44000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D7119666DA00D64897 /* 45000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 45000.xml; path = game/yuki/resources/text/en/narrative/45000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D8119666DA00D64897 /* 46000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 46000.xml; path = game/yuki/resources/text/en/narrative/46000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86D9119666DA00D64897 /* 47000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 47000.xml; path = game/yuki/resources/text/en/narrative/47000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86DA119666DA00D64897 /* 48000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 48000.xml; path = game/yuki/resources/text/en/narrative/48000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86DB119666DA00D64897 /* 49000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 49000.xml; path = game/yuki/resources/text/en/narrative/49000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86DC119666DA00D64897 /* 5000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 5000.xml; path = game/yuki/resources/text/en/narrative/5000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86DD119666DA00D64897 /* 50000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 50000.xml; path = game/yuki/resources/text/en/narrative/50000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86DE119666DA00D64897 /* 51000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 51000.xml; path = game/yuki/resources/text/en/narrative/51000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86DF119666DA00D64897 /* 52000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 52000.xml; path = game/yuki/resources/text/en/narrative/52000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E0119666DA00D64897 /* 53000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 53000.xml; path = game/yuki/resources/text/en/narrative/53000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E1119666DA00D64897 /* 54000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 54000.xml; path = game/yuki/resources/text/en/narrative/54000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E2119666DA00D64897 /* 55000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 55000.xml; path = game/yuki/resources/text/en/narrative/55000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E3119666DA00D64897 /* 56000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 56000.xml; path = game/yuki/resources/text/en/narrative/56000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E4119666DA00D64897 /* 57000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 57000.xml; path = game/yuki/resources/text/en/narrative/57000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E5119666DA00D64897 /* 58000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 58000.xml; path = game/yuki/resources/text/en/narrative/58000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E6119666DA00D64897 /* 59000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 59000.xml; path = game/yuki/resources/text/en/narrative/59000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E7119666DA00D64897 /* 6000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 6000.xml; path = game/yuki/resources/text/en/narrative/6000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E8119666DA00D64897 /* 60000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 60000.xml; path = game/yuki/resources/text/en/narrative/60000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86E9119666DB00D64897 /* 61000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 61000.xml; path = game/yuki/resources/text/en/narrative/61000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86EA119666DB00D64897 /* 62000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 62000.xml; path = game/yuki/resources/text/en/narrative/62000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86EB119666DB00D64897 /* 63000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 63000.xml; path = game/yuki/resources/text/en/narrative/63000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86EC119666DB00D64897 /* 64000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 64000.xml; path = game/yuki/resources/text/en/narrative/64000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86ED119666DB00D64897 /* 65000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 65000.xml; path = game/yuki/resources/text/en/narrative/65000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86EE119666DB00D64897 /* 66000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 66000.xml; path = game/yuki/resources/text/en/narrative/66000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86EF119666DB00D64897 /* 67000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 67000.xml; path = game/yuki/resources/text/en/narrative/67000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F0119666DB00D64897 /* 68000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 68000.xml; path = game/yuki/resources/text/en/narrative/68000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F1119666DB00D64897 /* 69000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 69000.xml; path = game/yuki/resources/text/en/narrative/69000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F2119666DB00D64897 /* 7000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 7000.xml; path = game/yuki/resources/text/en/narrative/7000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F3119666DB00D64897 /* 70000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 70000.xml; path = game/yuki/resources/text/en/narrative/70000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F4119666DB00D64897 /* 71000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 71000.xml; path = game/yuki/resources/text/en/narrative/71000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F5119666DB00D64897 /* 72000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 72000.xml; path = game/yuki/resources/text/en/narrative/72000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F6119666DB00D64897 /* 73000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 73000.xml; path = game/yuki/resources/text/en/narrative/73000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F7119666DB00D64897 /* 74000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 74000.xml; path = game/yuki/resources/text/en/narrative/74000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F8119666DB00D64897 /* 75000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 75000.xml; path = game/yuki/resources/text/en/narrative/75000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86F9119666DB00D64897 /* 76000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 76000.xml; path = game/yuki/resources/text/en/narrative/76000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86FA119666DB00D64897 /* 77000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 77000.xml; path = game/yuki/resources/text/en/narrative/77000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86FB119666DB00D64897 /* 78000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 78000.xml; path = game/yuki/resources/text/en/narrative/78000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86FC119666DB00D64897 /* 79000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 79000.xml; path = game/yuki/resources/text/en/narrative/79000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86FD119666DB00D64897 /* 8000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 8000.xml; path = game/yuki/resources/text/en/narrative/8000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86FE119666DB00D64897 /* 82000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 82000.xml; path = game/yuki/resources/text/en/narrative/82000.xml; sourceTree = SOURCE_ROOT; };
+		F65B86FF119666DB00D64897 /* 83000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 83000.xml; path = game/yuki/resources/text/en/narrative/83000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8700119666DB00D64897 /* 84000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 84000.xml; path = game/yuki/resources/text/en/narrative/84000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8701119666DB00D64897 /* 85000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 85000.xml; path = game/yuki/resources/text/en/narrative/85000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8702119666DB00D64897 /* 86000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 86000.xml; path = game/yuki/resources/text/en/narrative/86000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8703119666DB00D64897 /* 87000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 87000.xml; path = game/yuki/resources/text/en/narrative/87000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8704119666DB00D64897 /* 88000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 88000.xml; path = game/yuki/resources/text/en/narrative/88000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8705119666DB00D64897 /* 89000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 89000.xml; path = game/yuki/resources/text/en/narrative/89000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8706119666DB00D64897 /* 9000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 9000.xml; path = game/yuki/resources/text/en/narrative/9000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8707119666DB00D64897 /* 90000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 90000.xml; path = game/yuki/resources/text/en/narrative/90000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8708119666DB00D64897 /* 92000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 92000.xml; path = game/yuki/resources/text/en/narrative/92000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8709119666DB00D64897 /* 93000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 93000.xml; path = game/yuki/resources/text/en/narrative/93000.xml; sourceTree = SOURCE_ROOT; };
+		F65B870A119666DB00D64897 /* 94000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 94000.xml; path = game/yuki/resources/text/en/narrative/94000.xml; sourceTree = SOURCE_ROOT; };
+		F65B870B119666DC00D64897 /* 95000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 95000.xml; path = game/yuki/resources/text/en/narrative/95000.xml; sourceTree = SOURCE_ROOT; };
+		F65B870C119666DC00D64897 /* 96000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 96000.xml; path = game/yuki/resources/text/en/narrative/96000.xml; sourceTree = SOURCE_ROOT; };
+		F65B870D119666DC00D64897 /* 97000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 97000.xml; path = game/yuki/resources/text/en/narrative/97000.xml; sourceTree = SOURCE_ROOT; };
+		F65B870E119666DC00D64897 /* 98000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 98000.xml; path = game/yuki/resources/text/en/narrative/98000.xml; sourceTree = SOURCE_ROOT; };
+		F65B870F119666DC00D64897 /* 99000.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 99000.xml; path = game/yuki/resources/text/en/narrative/99000.xml; sourceTree = SOURCE_ROOT; };
+		F65B8710119666DC00D64897 /* Junction.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Junction.ttf; path = game/yuki/resources/text/en/narrative/Junction.ttf; sourceTree = SOURCE_ROOT; };
+		F65B8711119666DC00D64897 /* howto.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = howto.xml; path = game/yuki/resources/text/en/narrative/howto.xml; sourceTree = SOURCE_ROOT; };
+		F65B8712119666DC00D64897 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = game/yuki/resources/text/en/narrative/index.html; sourceTree = SOURCE_ROOT; };
+		F65B8713119666DC00D64897 /* jquery.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = jquery.js; path = game/yuki/resources/text/en/narrative/jquery.js; sourceTree = SOURCE_ROOT; };
+		F65B8714119666DC00D64897 /* yuki.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = yuki.css; path = game/yuki/resources/text/en/narrative/yuki.css; sourceTree = SOURCE_ROOT; };
+		F65B8715119666DC00D64897 /* yuki.xsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = yuki.xsl; path = game/yuki/resources/text/en/narrative/yuki.xsl; sourceTree = SOURCE_ROOT; };
+		F65B87861196670600D64897 /* game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = game.cpp; sourceTree = SOURCE_ROOT; };
+		F65B87871196670600D64897 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = SOURCE_ROOT; };
+		F65B87891196670600D64897 /* world.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = world.cpp; sourceTree = SOURCE_ROOT; };
+		F65B88341196746F00D64897 /* keyboardinput.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = keyboardinput.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				002F39FA09D0881F00EBEB88 /* SDL.framework in Frameworks */,
+				002F3C6109D0951E00EBEB88 /* GLUT.framework in Frameworks */,
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				002F3C0109D093BD00EBEB88 /* OpenGL.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				F65B865D1196647B00D64897 /* action.h */,
+				F65B865E1196647B00D64897 /* area.h */,
+				F65B865F1196647B00D64897 /* attribute.h */,
+				F65B86601196647B00D64897 /* camera.h */,
+				F65B86611196647B00D64897 /* cut.h */,
+				F65B86621196647B00D64897 /* display.h */,
+				F65B86631196647B00D64897 /* entity.h */,
+				F65B86641196647B00D64897 /* entrypoint.h */,
+				F65B86651196647B00D64897 /* flag.h */,
+				F65B86661196647B00D64897 /* game.h */,
+				F65B86671196647B00D64897 /* graphicdisplay.h */,
+				F65B86681196647B00D64897 /* image.h */,
+				F65B86691196647B00D64897 /* input.h */,
+				F65B866A1196647B00D64897 /* keyboardinput.h */,
+				F65B88341196746F00D64897 /* keyboardinput.cpp */,
+				F65B866B1196647B00D64897 /* localization.h */,
+				F65B866C1196647B00D64897 /* player.h */,
+				F65B866D1196647B00D64897 /* point.h */,
+				F65B866E1196647B00D64897 /* resource.h */,
+				F65B866F1196647B00D64897 /* say.h */,
+				F65B86701196647B00D64897 /* scene.h */,
+				F65B86711196647B00D64897 /* shift.h */,
+				F65B86721196647B00D64897 /* sprite.h */,
+				F65B86731196647C00D64897 /* timer.h */,
+				F65B86741196647C00D64897 /* validator.h */,
+				F65B86751196647C00D64897 /* widget.h */,
+				F65B86761196647C00D64897 /* world.h */,
+				002F3A2B09D0888800EBEB88 /* SDLMain.h */,
+				002F3A2C09D0888800EBEB88 /* SDLMain.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				002F39F909D0881F00EBEB88 /* SDL.framework */,
+				002F3C6009D0951E00EBEB88 /* GLUT.framework */,
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+				002F3C0009D093BD00EBEB88 /* OpenGL.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* Project Yuki.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* Project Yuki */ = {
+			isa = PBXGroup;
+			children = (
+				F65B87861196670600D64897 /* game.cpp */,
+				F65B87871196670600D64897 /* main.cpp */,
+				F65B87891196670600D64897 /* world.cpp */,
+				F65B869B119666D700D64897 /* action */,
+				F65B869C119666D700D64897 /* game */,
+				F65B8716119666DC00D64897 /* scene */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = "Project Yuki";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107310486CEB800E47090 /* Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F65B869B119666D700D64897 /* action */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = action;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B869C119666D700D64897 /* game */ = {
+			isa = PBXGroup;
+			children = (
+				F65B869D119666D700D64897 /* yuki */,
+			);
+			path = game;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B869D119666D700D64897 /* yuki */ = {
+			isa = PBXGroup;
+			children = (
+				F65B869E119666D700D64897 /* assets */,
+				F65B86A1119666D800D64897 /* resources */,
+			);
+			name = yuki;
+			path = game/yuki;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B869E119666D700D64897 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				F65B869F119666D700D64897 /* characters */,
+			);
+			name = assets;
+			path = game/yuki/assets;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B869F119666D700D64897 /* characters */ = {
+			isa = PBXGroup;
+			children = (
+				F65B86A0119666D800D64897 /* yuki_age24.svg */,
+			);
+			name = characters;
+			path = game/yuki/assets/characters;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B86A1119666D800D64897 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				F65B86A2119666D800D64897 /* sprite */,
+				F65B86A7119666D900D64897 /* text */,
+			);
+			name = resources;
+			path = game/yuki/resources;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B86A2119666D800D64897 /* sprite */ = {
+			isa = PBXGroup;
+			children = (
+				F65B86A3119666D800D64897 /* keyboardkey */,
+				F65B86A5119666D800D64897 /* lavender */,
+			);
+			name = sprite;
+			path = game/yuki/resources/sprite;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B86A3119666D800D64897 /* keyboardkey */ = {
+			isa = PBXGroup;
+			children = (
+				F65B86A4119666D800D64897 /* index.svg */,
+			);
+			name = keyboardkey;
+			path = game/yuki/resources/sprite/keyboardkey;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B86A5119666D800D64897 /* lavender */ = {
+			isa = PBXGroup;
+			children = (
+				F65B86A6119666D900D64897 /* lavender.svg */,
+			);
+			name = lavender;
+			path = game/yuki/resources/sprite/lavender;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B86A7119666D900D64897 /* text */ = {
+			isa = PBXGroup;
+			children = (
+				F65B86A8119666D900D64897 /* en */,
+			);
+			name = text;
+			path = game/yuki/resources/text;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B86A8119666D900D64897 /* en */ = {
+			isa = PBXGroup;
+			children = (
+				F65B86A9119666D900D64897 /* narrative */,
+			);
+			name = en;
+			path = game/yuki/resources/text/en;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B86A9119666D900D64897 /* narrative */ = {
+			isa = PBXGroup;
+			children = (
+				F65B86AA119666D900D64897 /* 10000.xml */,
+				F65B86AB119666D900D64897 /* 100000.xml */,
+				F65B86AC119666D900D64897 /* 80000.xml */,
+				F65B86AD119666D900D64897 /* 81000.xml */,
+				F65B86AE119666D900D64897 /* foreword.html */,
+				F65B86AF119666D900D64897 /* foreword.xml */,
+				F65B86B0119666D900D64897 /* 1000.xml */,
+				F65B86B1119666D900D64897 /* 11000.xml */,
+				F65B86B2119666D900D64897 /* 110000.xml */,
+				F65B86B3119666D900D64897 /* 12000.xml */,
+				F65B86B4119666D900D64897 /* 13000.xml */,
+				F65B86B5119666D900D64897 /* 14000.xml */,
+				F65B86B6119666D900D64897 /* 15000.xml */,
+				F65B86B7119666D900D64897 /* 16000.xml */,
+				F65B86B8119666D900D64897 /* 17000.xml */,
+				F65B86B9119666D900D64897 /* 18000.xml */,
+				F65B86BA119666D900D64897 /* 19000.xml */,
+				F65B86BB119666D900D64897 /* 2000.xml */,
+				F65B86BC119666D900D64897 /* 20000.xml */,
+				F65B86BD119666D900D64897 /* 21000.xml */,
+				F65B86BE119666D900D64897 /* 22000.xml */,
+				F65B86BF119666D900D64897 /* 23000.xml */,
+				F65B86C0119666D900D64897 /* 24000.xml */,
+				F65B86C1119666D900D64897 /* 25000.xml */,
+				F65B86C2119666D900D64897 /* 26000.xml */,
+				F65B86C3119666D900D64897 /* 27000.xml */,
+				F65B86C4119666D900D64897 /* 28000.xml */,
+				F65B86C5119666D900D64897 /* 29000.xml */,
+				F65B86C6119666DA00D64897 /* 3000.xml */,
+				F65B86C7119666DA00D64897 /* 30000.xml */,
+				F65B86C8119666DA00D64897 /* 31000.xml */,
+				F65B86C9119666DA00D64897 /* 32000.xml */,
+				F65B86CA119666DA00D64897 /* 33000.xml */,
+				F65B86CB119666DA00D64897 /* 34000.xml */,
+				F65B86CC119666DA00D64897 /* 35000.xml */,
+				F65B86CD119666DA00D64897 /* 36000.xml */,
+				F65B86CE119666DA00D64897 /* 37000.xml */,
+				F65B86CF119666DA00D64897 /* 38000.xml */,
+				F65B86D0119666DA00D64897 /* 39000.xml */,
+				F65B86D1119666DA00D64897 /* 4000.xml */,
+				F65B86D2119666DA00D64897 /* 40000.xml */,
+				F65B86D3119666DA00D64897 /* 41000.xml */,
+				F65B86D4119666DA00D64897 /* 42000.xml */,
+				F65B86D5119666DA00D64897 /* 43000.xml */,
+				F65B86D6119666DA00D64897 /* 44000.xml */,
+				F65B86D7119666DA00D64897 /* 45000.xml */,
+				F65B86D8119666DA00D64897 /* 46000.xml */,
+				F65B86D9119666DA00D64897 /* 47000.xml */,
+				F65B86DA119666DA00D64897 /* 48000.xml */,
+				F65B86DB119666DA00D64897 /* 49000.xml */,
+				F65B86DC119666DA00D64897 /* 5000.xml */,
+				F65B86DD119666DA00D64897 /* 50000.xml */,
+				F65B86DE119666DA00D64897 /* 51000.xml */,
+				F65B86DF119666DA00D64897 /* 52000.xml */,
+				F65B86E0119666DA00D64897 /* 53000.xml */,
+				F65B86E1119666DA00D64897 /* 54000.xml */,
+				F65B86E2119666DA00D64897 /* 55000.xml */,
+				F65B86E3119666DA00D64897 /* 56000.xml */,
+				F65B86E4119666DA00D64897 /* 57000.xml */,
+				F65B86E5119666DA00D64897 /* 58000.xml */,
+				F65B86E6119666DA00D64897 /* 59000.xml */,
+				F65B86E7119666DA00D64897 /* 6000.xml */,
+				F65B86E8119666DA00D64897 /* 60000.xml */,
+				F65B86E9119666DB00D64897 /* 61000.xml */,
+				F65B86EA119666DB00D64897 /* 62000.xml */,
+				F65B86EB119666DB00D64897 /* 63000.xml */,
+				F65B86EC119666DB00D64897 /* 64000.xml */,
+				F65B86ED119666DB00D64897 /* 65000.xml */,
+				F65B86EE119666DB00D64897 /* 66000.xml */,
+				F65B86EF119666DB00D64897 /* 67000.xml */,
+				F65B86F0119666DB00D64897 /* 68000.xml */,
+				F65B86F1119666DB00D64897 /* 69000.xml */,
+				F65B86F2119666DB00D64897 /* 7000.xml */,
+				F65B86F3119666DB00D64897 /* 70000.xml */,
+				F65B86F4119666DB00D64897 /* 71000.xml */,
+				F65B86F5119666DB00D64897 /* 72000.xml */,
+				F65B86F6119666DB00D64897 /* 73000.xml */,
+				F65B86F7119666DB00D64897 /* 74000.xml */,
+				F65B86F8119666DB00D64897 /* 75000.xml */,
+				F65B86F9119666DB00D64897 /* 76000.xml */,
+				F65B86FA119666DB00D64897 /* 77000.xml */,
+				F65B86FB119666DB00D64897 /* 78000.xml */,
+				F65B86FC119666DB00D64897 /* 79000.xml */,
+				F65B86FD119666DB00D64897 /* 8000.xml */,
+				F65B86FE119666DB00D64897 /* 82000.xml */,
+				F65B86FF119666DB00D64897 /* 83000.xml */,
+				F65B8700119666DB00D64897 /* 84000.xml */,
+				F65B8701119666DB00D64897 /* 85000.xml */,
+				F65B8702119666DB00D64897 /* 86000.xml */,
+				F65B8703119666DB00D64897 /* 87000.xml */,
+				F65B8704119666DB00D64897 /* 88000.xml */,
+				F65B8705119666DB00D64897 /* 89000.xml */,
+				F65B8706119666DB00D64897 /* 9000.xml */,
+				F65B8707119666DB00D64897 /* 90000.xml */,
+				F65B8708119666DB00D64897 /* 92000.xml */,
+				F65B8709119666DB00D64897 /* 93000.xml */,
+				F65B870A119666DB00D64897 /* 94000.xml */,
+				F65B870B119666DC00D64897 /* 95000.xml */,
+				F65B870C119666DC00D64897 /* 96000.xml */,
+				F65B870D119666DC00D64897 /* 97000.xml */,
+				F65B870E119666DC00D64897 /* 98000.xml */,
+				F65B870F119666DC00D64897 /* 99000.xml */,
+				F65B8710119666DC00D64897 /* Junction.ttf */,
+				F65B8711119666DC00D64897 /* howto.xml */,
+				F65B8712119666DC00D64897 /* index.html */,
+				F65B8713119666DC00D64897 /* jquery.js */,
+				F65B8714119666DC00D64897 /* yuki.css */,
+				F65B8715119666DC00D64897 /* yuki.xsl */,
+			);
+			name = narrative;
+			path = game/yuki/resources/text/en/narrative;
+			sourceTree = SOURCE_ROOT;
+		};
+		F65B8716119666DC00D64897 /* scene */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = scene;
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* Project Yuki */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Project Yuki" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+				002F39FD09D0883400EBEB88 /* Copy Frameworks into .app bundle */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Project Yuki";
+			productInstallPath = "$(HOME)/Applications";
+			productName = "Project Yuki";
+			productReference = 8D1107320486CEB800E47090 /* Project Yuki.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Project Yuki" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* Project Yuki */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* Project Yuki */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				F65B8717119666DC00D64897 /* yuki_age24.svg in Resources */,
+				F65B8718119666DD00D64897 /* index.svg in Resources */,
+				F65B8719119666DD00D64897 /* lavender.svg in Resources */,
+				F65B871A119666DD00D64897 /* 10000.xml in Resources */,
+				F65B871B119666DD00D64897 /* 100000.xml in Resources */,
+				F65B871C119666DD00D64897 /* 80000.xml in Resources */,
+				F65B871D119666DD00D64897 /* 81000.xml in Resources */,
+				F65B871E119666DD00D64897 /* foreword.html in Resources */,
+				F65B871F119666DD00D64897 /* foreword.xml in Resources */,
+				F65B8720119666DD00D64897 /* 1000.xml in Resources */,
+				F65B8721119666DD00D64897 /* 11000.xml in Resources */,
+				F65B8722119666DD00D64897 /* 110000.xml in Resources */,
+				F65B8723119666DD00D64897 /* 12000.xml in Resources */,
+				F65B8724119666DD00D64897 /* 13000.xml in Resources */,
+				F65B8725119666DD00D64897 /* 14000.xml in Resources */,
+				F65B8726119666DD00D64897 /* 15000.xml in Resources */,
+				F65B8727119666DD00D64897 /* 16000.xml in Resources */,
+				F65B8728119666DD00D64897 /* 17000.xml in Resources */,
+				F65B8729119666DD00D64897 /* 18000.xml in Resources */,
+				F65B872A119666DD00D64897 /* 19000.xml in Resources */,
+				F65B872B119666DD00D64897 /* 2000.xml in Resources */,
+				F65B872C119666DD00D64897 /* 20000.xml in Resources */,
+				F65B872D119666DD00D64897 /* 21000.xml in Resources */,
+				F65B872E119666DD00D64897 /* 22000.xml in Resources */,
+				F65B872F119666DD00D64897 /* 23000.xml in Resources */,
+				F65B8730119666DD00D64897 /* 24000.xml in Resources */,
+				F65B8731119666DD00D64897 /* 25000.xml in Resources */,
+				F65B8732119666DD00D64897 /* 26000.xml in Resources */,
+				F65B8733119666DD00D64897 /* 27000.xml in Resources */,
+				F65B8734119666DD00D64897 /* 28000.xml in Resources */,
+				F65B8735119666DD00D64897 /* 29000.xml in Resources */,
+				F65B8736119666DD00D64897 /* 3000.xml in Resources */,
+				F65B8737119666DD00D64897 /* 30000.xml in Resources */,
+				F65B8738119666DD00D64897 /* 31000.xml in Resources */,
+				F65B8739119666DD00D64897 /* 32000.xml in Resources */,
+				F65B873A119666DD00D64897 /* 33000.xml in Resources */,
+				F65B873B119666DD00D64897 /* 34000.xml in Resources */,
+				F65B873C119666DD00D64897 /* 35000.xml in Resources */,
+				F65B873D119666DD00D64897 /* 36000.xml in Resources */,
+				F65B873E119666DD00D64897 /* 37000.xml in Resources */,
+				F65B873F119666DD00D64897 /* 38000.xml in Resources */,
+				F65B8740119666DD00D64897 /* 39000.xml in Resources */,
+				F65B8741119666DD00D64897 /* 4000.xml in Resources */,
+				F65B8742119666DD00D64897 /* 40000.xml in Resources */,
+				F65B8743119666DD00D64897 /* 41000.xml in Resources */,
+				F65B8744119666DD00D64897 /* 42000.xml in Resources */,
+				F65B8745119666DD00D64897 /* 43000.xml in Resources */,
+				F65B8746119666DD00D64897 /* 44000.xml in Resources */,
+				F65B8747119666DD00D64897 /* 45000.xml in Resources */,
+				F65B8748119666DD00D64897 /* 46000.xml in Resources */,
+				F65B8749119666DD00D64897 /* 47000.xml in Resources */,
+				F65B874A119666DD00D64897 /* 48000.xml in Resources */,
+				F65B874B119666DD00D64897 /* 49000.xml in Resources */,
+				F65B874C119666DD00D64897 /* 5000.xml in Resources */,
+				F65B874D119666DD00D64897 /* 50000.xml in Resources */,
+				F65B874E119666DD00D64897 /* 51000.xml in Resources */,
+				F65B874F119666DD00D64897 /* 52000.xml in Resources */,
+				F65B8750119666DD00D64897 /* 53000.xml in Resources */,
+				F65B8751119666DD00D64897 /* 54000.xml in Resources */,
+				F65B8752119666DD00D64897 /* 55000.xml in Resources */,
+				F65B8753119666DD00D64897 /* 56000.xml in Resources */,
+				F65B8754119666DD00D64897 /* 57000.xml in Resources */,
+				F65B8755119666DD00D64897 /* 58000.xml in Resources */,
+				F65B8756119666DD00D64897 /* 59000.xml in Resources */,
+				F65B8757119666DD00D64897 /* 6000.xml in Resources */,
+				F65B8758119666DD00D64897 /* 60000.xml in Resources */,
+				F65B8759119666DD00D64897 /* 61000.xml in Resources */,
+				F65B875A119666DD00D64897 /* 62000.xml in Resources */,
+				F65B875B119666DD00D64897 /* 63000.xml in Resources */,
+				F65B875C119666DD00D64897 /* 64000.xml in Resources */,
+				F65B875D119666DD00D64897 /* 65000.xml in Resources */,
+				F65B875E119666DD00D64897 /* 66000.xml in Resources */,
+				F65B875F119666DD00D64897 /* 67000.xml in Resources */,
+				F65B8760119666DD00D64897 /* 68000.xml in Resources */,
+				F65B8761119666DD00D64897 /* 69000.xml in Resources */,
+				F65B8762119666DD00D64897 /* 7000.xml in Resources */,
+				F65B8763119666DD00D64897 /* 70000.xml in Resources */,
+				F65B8764119666DD00D64897 /* 71000.xml in Resources */,
+				F65B8765119666DD00D64897 /* 72000.xml in Resources */,
+				F65B8766119666DD00D64897 /* 73000.xml in Resources */,
+				F65B8767119666DD00D64897 /* 74000.xml in Resources */,
+				F65B8768119666DD00D64897 /* 75000.xml in Resources */,
+				F65B8769119666DD00D64897 /* 76000.xml in Resources */,
+				F65B876A119666DD00D64897 /* 77000.xml in Resources */,
+				F65B876B119666DD00D64897 /* 78000.xml in Resources */,
+				F65B876C119666DD00D64897 /* 79000.xml in Resources */,
+				F65B876D119666DD00D64897 /* 8000.xml in Resources */,
+				F65B876E119666DD00D64897 /* 82000.xml in Resources */,
+				F65B876F119666DD00D64897 /* 83000.xml in Resources */,
+				F65B8770119666DD00D64897 /* 84000.xml in Resources */,
+				F65B8771119666DD00D64897 /* 85000.xml in Resources */,
+				F65B8772119666DD00D64897 /* 86000.xml in Resources */,
+				F65B8773119666DD00D64897 /* 87000.xml in Resources */,
+				F65B8774119666DD00D64897 /* 88000.xml in Resources */,
+				F65B8775119666DD00D64897 /* 89000.xml in Resources */,
+				F65B8776119666DD00D64897 /* 9000.xml in Resources */,
+				F65B8777119666DD00D64897 /* 90000.xml in Resources */,
+				F65B8778119666DD00D64897 /* 92000.xml in Resources */,
+				F65B8779119666DD00D64897 /* 93000.xml in Resources */,
+				F65B877A119666DD00D64897 /* 94000.xml in Resources */,
+				F65B877B119666DD00D64897 /* 95000.xml in Resources */,
+				F65B877C119666DD00D64897 /* 96000.xml in Resources */,
+				F65B877D119666DD00D64897 /* 97000.xml in Resources */,
+				F65B877E119666DD00D64897 /* 98000.xml in Resources */,
+				F65B877F119666DD00D64897 /* 99000.xml in Resources */,
+				F65B8780119666DD00D64897 /* Junction.ttf in Resources */,
+				F65B8781119666DD00D64897 /* howto.xml in Resources */,
+				F65B8782119666DD00D64897 /* index.html in Resources */,
+				F65B8784119666DD00D64897 /* yuki.css in Resources */,
+				F65B8785119666DD00D64897 /* yuki.xsl in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				002F3A2E09D0888800EBEB88 /* SDLMain.m in Sources */,
+				F65B8783119666DD00D64897 /* jquery.js in Sources */,
+				F65B878A1196670600D64897 /* game.cpp in Sources */,
+				F65B878B1196670600D64897 /* main.cpp in Sources */,
+				F65B878D1196670600D64897 /* world.cpp in Sources */,
+				F65B88351196746F00D64897 /* keyboardinput.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Project_Yuki_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = "Project Yuki";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Project_Yuki_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = "Project Yuki";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(HOME)/Library/Frameworks",
+					/Library/Frameworks,
+					"$(FRAMEWORK_SEARCH_PATHS)",
+				);
+				GCC_VERSION = 4.0;
+				"GCC_VERSION[arch=x86_64]" = 4.2;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(HOME)/Library/Frameworks/SDL.framework/Headers",
+					/Library/Frameworks/SDL.framework/Headers,
+					"$(HEADER_SEARCH_PATHS)",
+				);
+				PREBINDING = NO;
+				SDKROOT = macosx10.4;
+				"SDKROOT[arch=x86_64]" = "$(DEVELOPER_SDK_DIR)/MacOSX10.6.sdk";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(HOME)/Library/Frameworks",
+					/Library/Frameworks,
+					"$(FRAMEWORK_SEARCH_PATHS)",
+				);
+				GCC_VERSION = 4.0;
+				"GCC_VERSION[arch=x86_64]" = 4.2;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(HOME)/Library/Frameworks/SDL.framework/Headers",
+					/Library/Frameworks/SDL.framework/Headers,
+					"$(HEADER_SEARCH_PATHS)",
+				);
+				PREBINDING = NO;
+				SDKROOT = macosx10.4;
+				"SDKROOT[arch=x86_64]" = "$(DEVELOPER_SDK_DIR)/MacOSX10.6.sdk";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Project Yuki" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Project Yuki" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

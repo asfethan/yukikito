@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="64000" point="the_clan_plan" localizationstatus="original" fictionaldate="2008-06-12" status="final">
+	<part>
+		<narration><comment>Zoom out to Yuki's face. Play lighthearted fantasy music.</comment>2008. Jacques shrieks.</narration>
+		<line id="1000" speaker="jacques" voicelang="fr">What!</line>
+		<narration>Yuki's face is blank. She stands across from her father in the empty apartment room.</narration>
+		<line id="2000" speaker="jacques" voicelang="fr">You're dropping out?</line>
+		<narration>Yuki's face is blank.</narration>
+		<line id="3000" speaker="jacques" voicelang="fr">First, my son decides to major in Music,</line>
+		<narration>Yuki's face is blank.</narration>
+		<line id="4000" speaker="jacques" voicelang="fr">Then, my daughter doesn't even finish the nonsense she started!</line>
+		<narration>The harsh Tokyo sun through the window shines directly into Yuki's eyes. Yuki's face is blank. Her apartment door lays wide open. Jacques shoves the resignation paper into Yuki's face &#x2014; is blank. The paper drops. Jacques sighs.</narration>
+		<line id="5000" speaker="jacques" voicelang="fr">You're no child of mine.</line>
+		<narration>A knock. At the open door.</narration>
+		<line id="6000" speaker="nozomi" voicelang="ja">Oh &#x2014; Monsieur Soleil!</line>
+		<line id="7000" speaker="jacques" voicelang="ja">Hey, Nozomi.</line>
+		<narration>Jacques walks out of the door to the front area. Nozomi looks around.</narration>
+		<line id="8000" speaker="nozomi" voicelang="ja">What are you doing all the way over here?</line>
+		<line id="9000" speaker="jacques" voicelang="ja">I don't know.</line>
+		<narration>Nozomi looks through the door and sees a little lady, cold and unmoving in the window-magnified summer heat.<comment>Cue harp.</comment>Nozomi gasps.</narration>
+		<line id="10000" speaker="nozomi" voicelang="ja">Hey, who's that?</line>
+		<line id="11000" speaker="jacques" voicelang="ja">I don't know.</line>
+		<narration>Jacques slams the door shut.</narration>
+		<line id="12100" speaker="jacques" voicelang="ja">Some girl checking out the apartment. She can't afford it.</line>
+		<narration><comment>Sudden cut to Nozomi and Jacques walking to the Sega building.</comment>Jacques and Nozomi walk to work.</narration>
+		<line id="12000" speaker="nozomi" voicelang="ja">Only a couple more months until Phantasy Star 5 goes gold.</line>
+		<line id="13000" speaker="nozomi" voicelang="ja">Are you ready?</line>
+		<narration><comment>Music ramp up. Interface style change. A lot of internal changes to reflect the large-scale nature of Sega before the fallout.</comment>Jacques clenches his fists and looks to the heavens.</narration>
+		<line id="14000" speaker="jacques" voicelang="ja">I was born ready.</line>
+		<narration>Jacques and Nozomi walk into the lobby of Sega headquarters, past smiling faces.</narration>
+		<line id="15000" speaker="suzuki" voicelang="ja">Hey hey, Monsieur Soleil!</line>
+		<line id="16000" speaker="naka" voicelang="ja">There's the guy turning Phantasy Star to the heavens!</line>
+		<line id="17000" speaker="kodama" voicelang="ja">The real Phantasy Star.</line>
+		<line id="18000" speaker="jacques" voicelang="ja">No sweat, no pressure, no problem.</line>
+		<narration>Jacques walks into the studio. Hundreds of employees hustle and bustle with smiles on their faces and hope in their souls. Shiny reckoners perform at godspeed. Tens of Concierges deliver release-candidate masterpieces. Jacques raises a single hand. All stand at attention. Jacques smirks.</narration>
+		<line id="19000" speaker="jacques" voicelang="ja">Are you all ready to work on the greatest game of all time?</line>
+		<narration>All the studio cheers, Jacques flinging westernly his fingers for the count. It is 8:59:57 Japan Standard Time.</narration>
+		<line id="20000" speaker="team" voicelang="ja">Three!</line>
+		<line id="21000" speaker="team" voicelang="ja">Two!</line>
+		<line id="22000" speaker="jacques" voicelang="ja">One.</line>
+		<narration>And so begins a day of work under Jacques' control.</narration>
+		<narration>Work ends. Not for Nozomi.</narration>
+		<line id="23000" speaker="nozomi" voicelang="ja">I'm staying overtime, Monsieur. See you tomorrow.</line>
+		<line id="24000" speaker="jacques" voicelang="ja">Don't work yourself too hard &#x2014; unless I tell you to, of course.</line>
+		<narration>The two laugh.</narration>
+		<narration>Jacques begins the long commute to he and his wife's home. He passes by Yuki's empty apartment. He hears something. Ramming. Clashing. Crying. He pays it no mind.<comment>Player controlling Jacques, these sounds stay at the same volume no matter how far he goes.</comment>He hears something else.</narration>
+		<line id="24000" speaker="asami" voicelang="fr">She's quite sensitive.</line>
+		<line id="25000" speaker="jacques" voicelang="fr">What?</line>
+		<narration>The trees begin to shake.</narration>
+		<line id="26000" speaker="asami" voicelang="fr">We've come across a snag, Jacques.</line>
+		<line id="27000" speaker="jacques" voicelang="fr">Where are you?</line>
+		<narration>Silence. A golden ring appears. It's floating. Jacques collects it.<comment>If the Player does not make Jacques collect the ring, the view is bound to the area with it.</comment></narration>
+		<line id="28000" speaker="asami" voicelang="fr">Yuki is your successor.</line>
+		<narration>Another ring. Jacques collects it.</narration>
+		<line id="29000" speaker="asami" voicelang="fr">What you did earlier &#x2014; is that any way to treat a Queen?</line>
+		<narration>Jacques collects another ring. He stops and holds his temples, concentrating on the trees. The trees continue.</narration>
+		<line id="31000" speaker="asami" voicelang="fr">I know, she's inadequate &#x2014; wait, I didn't say that!</line>
+		<line id="32000" speaker="asami" voicelang="fr">What are you doing to me?</line>
+		<narration>Jacques holds his head.</narration>
+		<line id="33000" speaker="jacques" voicelang="fr">Nothing. You did say that.</line>
+		<line id="34000" speaker="jacques" voicelang="fr">Finish the sentence.</line>
+		<narration>The trees sigh.</narration>
+		<line id="35000" speaker="asami" voicelang="fr">She's woefully inadequate &#x2014; our daughter is extra baggage.</line>
+		<narration>Jacques hears a voice. The sun sets.</narration>
+		<line id="36000" speaker="yuki" voicelang="fr">I knew it. I'm a mistake.</line>
+		<line id="37000" speaker="jacques" voicelang="fr">Mistake &#x2014; no! No!</line>
+		<line id="38000" speaker="jacques" voicelang="fr">Both of you, shut up!</line>
+		<line id="39000" speaker="yuki" voicelang="fr">I already did.</line>
+		<narration>Another ring appears near the entrance to Sega headquarters.<comment>Player must get it.</comment> Jacques runs in the opposite direction of Yuki's apartment. The sun's cries echo. Jacques yells audibly into the night.</narration>
+		<line id="40000" speaker="jacques" voicelang="fr">You're not real &#x2014; you're not real!</line>
+		<line id="41000" speaker="yuki" voicelang="fr">Of course I'm not real! It's easy to deny a mistake!</line>
+		<line id="42000" speaker="jacques" voicelang="fr">You're not a mistake &#x2014; You're not a mistake!</line>
+		<narration>Jacques keeps running, collecting rings on the way to Sega headquarters. Nozomi, standing at the door, yawns.</narration>
+		<line id="43000" speaker="nozomi" voicelang="ja">What a day, what a day. All worth it, though, for Phantasy Star 5&#x2014;</line>
+		<line id="44000" speaker="jacques" voicelang="ja">Nozomi!</line>
+		<line id="45000" speaker="nozomi" voicelang="ja">Huh?</line>
+		<line id="46000" speaker="jacques" voicelang="ja">Open the door!</line>
+		<line id="47000" speaker="jacques" voicelang="ja">We have so much work to do, so much work to do, so much work &#x2014;</line>
+		<narration>Jacques and Nozomi walk back into the building. Months pass.<comment>Show the usual in-game calendar in Jacques-style. Beep three times, each beep advancing the date further to September 9, 2008.</comment></narration>
+	</part>
+</scriptment>

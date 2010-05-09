@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="25000" point="possibility" localizationstatus="original" fictionaldate="2011-06-26" status="final">
+	<part>
+		<narration>Yuki looks, from the window of headquarters, at the outside crowd.</narration>
+		<line id="1000" speaker="yuki" voicelang="fr">Nothing in simulation bears the importance of complexity.</line>
+		<line id="2000" speaker="yuki" voicelang="fr">The number of explorable outcomes, situations, strategies; possibilities.</line>
+		<line id="3000" speaker="yuki" voicelang="fr">The Range of Possibility.</line>
+		<line id="4000" speaker="yuki" voicelang="fr">All criticism and improvement of simulation leads to the Range of Possibility.</line>
+		<line id="5000" speaker="yuki" voicelang="fr">The Range of Possibility births wonder, discovery, depth; skill.</line>
+	</part>
+</scriptment>

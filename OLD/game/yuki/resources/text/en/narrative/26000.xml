@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="26000" point="umehara" localizationstatus="original" fictionaldate="2011-06-29" status="final">
+	<part>
+		<narration>Yuki, at the bar, looks to her left&#x2014;</narration>
+		<line id="1000" speaker="yuki" voicelang="ja">Umehara?</line>
+		<line id="2000" speaker="umehara" voicelang="ja">Pankratova?</line>
+		<line id="3000" speaker="yuki" voicelang="ja">What?</line>
+		<line id="4000" speaker="umehara" voicelang="ja">You assumed I was a famous competitive gamer,</line>
+		<line id="5000" speaker="umehara" voicelang="ja">so I assumed you were the woman with the world's longest legs.</line>
+		<line id="6000" speaker="umehara" voicelang="ja">It's only fair.</line>
+		<line id="7000" speaker="yuki" voicelang="ja">Doesn't hurt to play to win.</line>
+		<line id="8000" speaker="yuki" voicelang="ja">So what are you doing here?</line>
+		<line id="9000" speaker="umehara" voicelang="ja">Learning by observation.</line>
+		<narration>Umehara points to the bartender.<comment>Yuki has the player take a look too.</comment>The tender, with acrobatic motion in an unscripted ocean, shepherds bottles to their places and items to their cases, every delicate touch contributing to a glass gliding from man to man.</narration>
+
+		<line id="10000" speaker="umehara" voicelang="ja">Devastation, Evolution, Tougeki&#x2014; all canceled.</comment>
+		<line id="11000" speaker="umehara" voicelang="ja">Gonna lay low and try a new kind of physical challenge.</comment>
+		<narration>Umehara continues to watch the bartender in action.</narration>
+	</part>
+</scriptment>

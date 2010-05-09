@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="78000" point="lori_regret" localizationstatus="original" fictionaldate="2011-10-28" status="final">
+	<part>
+		<comment>Sporadic event occurs between 2011-10-28 and 2011-10-29. </comment>
+		<condition>
+			<comment>The Player failed to get Lori with Takuya.</comment>
+			<narration>Sitting on the outdoor chair of the bar-bar is Lori Ciel. She weeps. Yuki sits opposite.</narration>
+			<line id="1000" speaker="lori" voicelang="fr">Yuki.</line>
+			<line id="2000" speaker="yuki" voicelang="fr">Oh no. </line>
+			<line id="3000" speaker="yuki" voicelang="fr">It didn't work out, did it?</line>
+			<narration>Lori sighs.</narration>
+			<line id="4000" speaker="lori" voicelang="fr">I am alone.</line>
+			<line id="5000" speaker="yuki" voicelang="fr">There are still plenty of fish out there&#x2014;</line>
+			<narration>Lori raises her hand.</narration>
+			<line id="6000" speaker="lori" voicelang="fr">When I came here, I was the only wrong-hair in a class of 300.</line>
+			<line id="7000" speaker="lori" voicelang="fr">1984 &#x2014; Only the right-haired turned friends.</line>
+			<line id="7100" speaker="lori" voicelang="fr">I looked alone.</line>
+			<line id="8000" speaker="lori" voicelang="fr">1994 &#x2014; Only the good-tongued found love.</line>
+			<line id="8100" speaker="lori" voicelang="fr">I felt alone.</line>
+			<line id="9000" speaker="lori" voicelang="fr">2004 &#x2014; Even the different-landed held vows.</line>
+			<line id="10000" speaker="lori" voicelang="fr">I was alone.</line>
+			<line id="11000" speaker="lori" voicelang="fr">2011 &#x2014; Of loneliness, I now realize:</line>
+			<line id="12000" speaker="lori" voicelang="fr">It is not my hair.</line>
+			<line id="13000" speaker="lori" voicelang="fr">It is not my tongue.</line>
+			<line id="14000" speaker="lori" voicelang="fr">It is not my land.</line>
+			<line id="15000" speaker="lori" voicelang="fr">It is me.</line>
+			<narration>An airplane flies overhead.</narration>
+		</condition>
+	</part>
+</scriptment>

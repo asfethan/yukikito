@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="33000" point="jj" localizationstatus="original" fictionaldate="2011-07-15" status="final">
+	<part>
+		<narration>Work is over. From her pocket, Yuki pulls the printed page in its creased and crumpled glory.<comment>Sudden cut to the practice hall.</comment></narration>
+		<narration>Yuki stands at the corner near the entrance of the practice hall. On stage is Guest Chief Conductor Jacques Soleil Jr. and his orchestra. The mass of musicians play a song. They're all men!</narration>
+		<line id="1000" speaker="jj" voicelang="ja">Louder, violins!</line>
+		<line id="2000" speaker="jj" voicelang="ja">Louder!</line>
+		<line id="3000" speaker="jj" voicelang="ja">Sforzando, come on!</line>
+		<line id="4000" speaker="jj" voicelang="ja">Push it!</line>
+		<narration>JJ breaks his stick over the stand. He points his hand at every single member of the orchestra.</narration>
+		<line id="5000" speaker="jj" voicelang="ja">I didn't hire an all-male orchestra to play like a bunch of girls,</line>
+		<line id="6000" speaker="jj" voicelang="ja">Nor did I hire you so that after work I could diddle your naughty bits!</line>
+		<line id="7000" speaker="jj" voicelang="ja">Violin section, play like you have a pair.</line>
+		<line id="8000" speaker="jj" voicelang="ja">This piece requires vigor!</line>
+		<line id="9000" speaker="jj" voicelang="ja">That's why I got the hardest, best, and fastest, strongest players.</line>
+		<line id="10000" speaker="jj" voicelang="ja">And coincidentally, none of you are women,</line>
+		<narration>Jacques spins to look behind him for a bit.</narration>
+		<condition>
+			<choice number="1">
+				<narration>Yuki keeps her distance from the group. Hopefully, no-one sees her.</narration>
+				<line id="11000" speaker="jj" voicelang="ja">Because women lack vigor!</line>
+				<narration>A cellist points behind JJ, off to the distance.</narration>
+				<line id="12000" speaker="cellist" voicelang="ja">There's a girl&#x2014;</line>
+				<line id="13000" speaker="jj" voicelang="ja">And that's why you have to play well, bro!</line>
+				<line id="14000" speaker="jj" voicelang="ja">No woman wants a man who sucks at his job.</line>
+				<line id="15000" speaker="jj" voicelang="ja">Alas, A woman's will is man's last stand.</line>
+				<line id="16000" speaker="jj" voicelang="ja">We are all missing that one warm, loving, caring woman.</line>
+				<line id="17000" speaker="jj" voicelang="ja">All of us. Right? Anyway.</line>
+				<line id="18000" speaker="jj" voicelang="ja">Tough it out! Play harder!</line>
+				<narration>The men tough it out and play harder.</narration>
+			</choice>
+			<choice number="2">
+				<narration>Yuki stands directly behind JJ. This isn't the best place.</narration>
+				<line id="19000" speaker="jj" voicelang="ja">Because women lack vigor&#x2014;</line>
+				<narration>JJ spots Yuki.</narration>
+				<line id="20000" speaker="jj" voicelang="ja">Yuki?</line>
+				<line id="21000" speaker="jj" voicelang="ja">Oh God.</line>
+				<narration>JJ sprints through the exit. Yuki picks up the half-stick.<comment>Get the Player to do this.</comment></narration>
+				<line id="22000" speaker="yuki" voicelang="ja">You're all ungrateful bastards.</line>
+				<line id="23000" speaker="yuki" voicelang="ja">Mr. Soleil is the pearl cast before us all.</line>
+				<line id="24000" speaker="yuki" voicelang="ja">You have a strong, courageous man fostering your talents.</line>
+				<line id="25000" speaker="yuki" voicelang="ja">And you're taking him for granted!</line>
+				<line id="25100" speaker="yuki" voicelang="ja">You heard the man.</line>
+				<line id="26000" speaker="yuki" voicelang="ja">Play like you have a pair.</line>
+				<line id="27000" speaker="yuki" voicelang="ja">Play!</line>
+				<narration>The men play like they have a pair. They play.</line>
+			</choice>
+		</condition>
+		<narration>The men play with twice the vigor; none of it becomes Yuki's.<comment>Zoom in on Yuki's face. Close-up sudden shift to The Clan.</comment></narration>
+
+	</part>
+</scriptment>

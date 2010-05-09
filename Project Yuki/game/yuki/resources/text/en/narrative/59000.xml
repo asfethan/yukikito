@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="59000" point="important_game" localizationstatus="original" fictionaldate="2011-08-28" status="final">
+	<part>
+		<narration>Yuki, in her house, begins to pick up the things she tossed about.</narration>
+		<line id="1000" speaker="yuki" voicelang="fr">The Clan's embrace of malicious activity makes it a burden to play.</line>
+		<line id="2000" speaker="yuki" voicelang="fr">Brilliantly so.</line>
+		<line id="3000" speaker="yuki" voicelang="fr">The Clan compromises the most powerful of systems and the most sensitive of data.</line>
+		<line id="4000" speaker="yuki" voicelang="fr">It was designed to repel both administrators and end users.</line>
+		<line id="5000" speaker="yuki" voicelang="fr">At least, the ones too weak to bear the consequences of playing it.</line>
+		<line id="6000" speaker="yuki" voicelang="fr">The game with actual, life-impacting consequences &#x2014;</line>
+		<line id="7000" speaker="yuki" voicelang="fr">The Important Game.</line>
+		<narration>A knock on the door.</narration>
+		<line id="8000" speaker="nozomi" voicelang="ja">Hey, let's go to the club.</line>
+		<line id="9000" speaker="yuki" voicelang="fr">I don't really know if I want to &#x2014;</line>
+		<line id="10000" speaker="nozomi" voicelang="ja">You do!</line>
+		<narration><comment>Sudden cut.</comment>Nozomi and Yuki, holding hands while in flapper dress, stand at a door. This is their stop.</narration>
+		<narration>Club Sega, Akihabara. The outside of the club is gold-trimmed and wiped-windowed. Maintenance is expensive. We're in a recession. The inside of the club is no different. A string quartet plays Canon in D. All are in dress and suit. A man at the front welcomes Yuki and Nozomi.</narration>
+		<line id="11000" speaker="man" voicelang="fr">Evening, Mademoiselle &#x2014;</line>
+		<line id="12000" speaker="nozomi" voicelang="ja">Fie on you! &#x2014; Mademoiselle.</line>
+		<line id="13000" speaker="man" voicelang="fr">Have you reserved a table?</line>
+		<line id="14000" speaker="nozomi" voicelang="ja">Yes, I have. It's the table between Harrier Hideaway and Fantasy Zone&#x2014;</line>
+		<line id="15000" speaker="nozomi" voicelang="ja">What was it &#x2014; oh yes,</line>
+		<line id="16000" speaker="nozomi" voicelang="ja">Magic Touch.</line>
+		<narration>The man gasps.</narration>
+		<line id="16100" speaker="man" voicelang="ja">To the table with you both, and no delay!</line>
+		<narration>Nozomi and Yuki sit at the Magic Touch. Grafted into the table is a cabinet of some sort of cooperative alien-shooting game. The cabinet was modified so the two players must sit extremely close to each other. There are glasses of fine wines at each end of the table. The couple plays a round. Yuki fidgets a little. Nozomi takes her hands from the controls and rubs Yuki.</narration>
+		<line id="17000" speaker="nozomi" voicelang="ja">Yuki &#x2014;</line>
+		<line id="18000" speaker="nozomi" voicelang="ja">I would die for you.</line>
+		<narration>Nozomi gets out of the seat. Yuki rises. Nozomi shivers. She kneels down and pulls out something shiny.</narration>
+		<line id="19000" speaker="nozomi" voicelang="ja">Will you marry me?</line>
+		<narration>Yuki twitches &#x2014; Her hands behind her back &#x2014; scrape against each other &#x2014; She pulls one hand out. Before Yuki's Eyes &#x2014; in her hands &#x2014; something shiny &#x2014; a gun. The world fades away &#x2014; Yuki cocks the gun and points-blank at Nozomi.</narration>
+		<condition>
+		    <comment>The Player is allowed unlimited time to make the choice.</comment>
+			<choice number="1">
+				<line id="20000" speaker="yuki" voicelang="fr">No.</line>
+				<narration>Yuki shoots her in the face. Yuki gasps, every inflection of Nozomi's voice in panic &#x2014; in loss &#x2014; in death &#x2014; permeating her thought. Oh God. That wasn't real, that wasn't real &#x2014;</narration>
+				<narration>Revert changes! Revert changes!</narration>
+			</choice>
+			<choice number="2">
+				<line id="21000" speaker="yuki" voicelang="fr">Yes.</line>
+				<narration>The  drops out of Yuki's hands.</narration>
+			</choice>
+		</condition>
+		<narration>The  disappears.</narration>
+		<line id="22000" speaker="yuki" voicelang="fr">Yes &#x2014; Yes &#x2014; Yes &#x2014; Yes &#x2014; Yes &#x2014;</line>
+		<narration>Yuki stoops down to Nozomi's level. She jumps at her. She lays atop her horizontal on the floor of the arcade in the room full of other people, watching &#x2014; staring &#x2014; judging &#x2014; Yuki, crying.</narration>
+		<line id="23000" speaker="yuki" voicelang="fr">My dear wife &#x2014; I'm so wrong.</line>
+		<narration>Nozomi strokes Yuki's hair.</narration>
+		<line id="24000" speaker="nozomi" voicelang="ja">So wrong &#x2014; So wrong &#x2014;</line>
+	</part>
+</scriptment>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="53000" point="la_airport" localizationstatus="original" fictionaldate="2011-08-17" status="final">
+	<part>
+		<narration>Yuki's new shirt calls exactly the sort of attention it wants. From the swarms of point-and-shoots emerge flashes of light. The so-called press showers attention on the blonde, french, female game designer.</narration>
+		<line id="1000" speaker="press" voicelang="en">So this year, you're the only representative of Sega?</line>
+		<line id="2000" speaker="press" voicelang="en">Is it true that the New PNN created its first game in only two months?</line>
+		<line id="3000" speaker="yuki" voicelang="en">I &#x2014; I want to save my good English &#x2014; for the presentation &#x2014;</line>
+		<narration>A press-man runs up with a microphone.</narration>
+		<line id="4000" speaker="press" voicelang="fr">I'm an interpreter, you can save your good French for right now!</line>
+		<narration>Yuki closes her eyes. She about-faces.<comment>Perspective and style change to first person wireframe.</comment></narration>
+		<narration>Yuki plays a demo of some other company's game.</narration>
+		<line id="5000" speaker="game">Played a demo.</line>
+		<narration>Yuki runs into another press-man.</narration>
+		<line id="6000" speaker="game">Press Photographer appeared!</line>
+		<line id="7000" speaker="game">Say Cheese!</line>
+		<narration>Yuki finally makes it to the conference room.</narration>
+		<line id="8000" speaker="game">Made it to the conference room.</line>
+		<line id="9000" speaker="game">Both Ubisoft and Sega share this room.</line>
+		<narration>Yuki looks around. The room is empty. She sighs.</narration>
+		<line id="10000" speaker="yuki" voicelang="fr">Everyone else can stay out there. I'll just wait until the presentation.</line>
+		<narration>Yuki paces around the room. It begins to fill up.<comment>Player can walk her around. As she walks normal speed, frequent sudden shift as the room populates.</comment> Yuki takes a seat.</narration>
+		<narration>Ubisoft's presentation. A public relations representative paces across stage, sweating buckets.</narration>
+		<line id="11000" speaker="pr" voicelang="en">So &#x2014; there you have it, folks.</line>
+		<line id="12000" speaker="pr" voicelang="en">Ubisoft Paris' latest and greatest product for the North American market &#x2014;</line>
+		<line id="13000" speaker="pr" voicelang="en">Rayman 3: Hoodlum Havoc.</line>
+		<line id="14000" speaker="pr" voicelang="en">It's &#x2014; It's a classic!</line>
+		<line id="15000" speaker="pr" voicelang="en">Now, onto the subject of licensed movie properties...</line>
+		<narration>Yuki yawns.</narration>
+		<line id="16000" speaker="yuki" voicelang="fr">Seems the Software Identity Act has laid its waste.</line>
+		<narration>Next to her smirks a producer.</narration>
+		<line id="17000" speaker="raymond" voicelang="fr">Yeah.</line>
+		<line id="18000" speaker="raymond" voicelang="fr">Law has made Paris impotent. So they shove work on Shanghai and Montreal.</line>
+		<line id="19000" speaker="raymond" voicelang="fr">Montreal will have none of it.</line>
+		<line id="20000" speaker="raymond" voicelang="fr">By 2012, everything coming out of this French company will be Chinese.</line>
+		<line id="21000" speaker="yuki" voielang="fr">So much for "identity," huh?</line>
+		<narration>The two laugh. The producer notices Yuki's pen-and-paper.</narration>
+		<line id="22000" speaker="raymond" voicelang="fr">What's that you're working on?</line>
+		<narration>Yuki looks down.<comment>Urge player to get a good look at this.</comment></narration>
+		<line id="23000" speaker="yuki" voicelang="fr">The script for my presentation.</line>
+		<line id="24000" speaker="raymond" voicelang="fr">But it only has one word.</line>
+		<line id="25000" speaker="yuki" voicelang="fr">I know, isn't it wonderful?</line>
+		<narration>The producer shakes Yuki's hand.</narration>
+		<line id="26000" speaker="raymond" voicelang="fr">Jade.</line>
+		<line id="27000" speaker="yuki" voicelang="fr">Yuki.</line>
+		<line id="28000" speaker="raymond" voicelang="en">Takeshi? What are you doing in the audience seats?</line>
+		<line id="29000" speaker="raymond" voicelang="en">Sega's presentation is in, like, five minutes&#x2014;</line>
+		<narration>Announcement!</line>
+		<line id="30000" speaker="announcer" voicelang="en">And now, representing Sega and its newest development studio,</line>
+		<line id="31000" speaker="announcer" voicelang="en">The New Parisian-Nagoyan Network,</line>
+		<line id="32000" speaker="announcer" voicelang="en">Vice President Yuki Soleil-Takeshi!</line>
+
+		<condition>
+			<choice number="1">	
+				<narration>Yuki takes a while to get up.</narration>
+				<line id="33000" speaker="announcer" voicelang="en">Ms. Takeshi? Are you around?</line>
+			</choice>
+		</condition>
+		<narration>Yuki leaves her seat. She finagles her way thorugh the seating arrangement. Hands slam hands. The applause echoes. And echoes. And echoes. She looks ahead. The stage-steps end abruptly, afterward an abyss. The wind howls.</narration>
+		<line id="33000" speaker="raymond" voicelang="en">Come on Yuki, get up there &#x2014;</line>
+		<narration>Yuki runs down the aisle and to the stage-steps. <comment>Ramp up sound, ramp up heartbeat.</comment>She leaps.</narration>
+		<narration>Yuki stands on air. The crowd goes silent. She turns to them. All stare ahead towards the blank screen and the blank woman, readied for first impression.<comment>Cut to far-away view encompassing Yuki and crowd.</comment>Yuki clears her throat.</narration>
+		<line id="34000" speaker="yuki" voicelang="en">Games!</line>
+		<narration>Yuki raises hands to the heavens, projecting personality without an amplifier. The presentation starts. The screen shows Sega's logo.<comment>Cut to close up of Yuki's face. Player doesn't get to see what's on that screen otherwise.</comment>Yuki turns to look.</narration>
+		<narration>Yuki gasps. The crowd shivers. Hardened journalists salute. Softened ones go into shock. Designers pray. Producers stare. Raymond sheds a tear. Yuki whispers.</narration>
+		<line id="35000" speaker="yuki" voicelang="fr">Oh my god.</line>
+		<narration>Silence. Yuki, soft a-puff and hard a-pant, turns weak-legged to the crowd.</narration>
+		<line id="36000" speaker="yuki" voicelang="en">That's &#x2014; that's the game.</line>
+		<narration>Yuki exits, everyone staring at her walk.<comment>Player has to walk Yuki out, camera does not follow. Sudden cut.</comment></narration>
+		<narration>Flash.</narration>
+		<line id="37000" speaker="press" voicelang="en">Fantastic presentation!</line>
+		<line id="38000" speaker="press" voicelang="en">Not a single buzzword!</line>
+		<line id="39000" speaker="press" voicelang="en">You actually have stage presence!</line>
+		<line id="40000" speaker="press" voicelang="en">Let me take a picture with you!</line>
+		<line id="41000" speaker="press" voicelang="en">Hey, pose with us!</line>
+		<narration><comment>With every flash, the framerate lowers.</comment>Time fades. Yuki loses track of the number of pictures.</narration>
+	</part>
+</scriptment>

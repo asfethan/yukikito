@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="92000" point="dream_moscow" localizationstatus="original" fictionaldate="2011-11-15" status="final">
+	<part>
+		<narration>Yuki, sitting at a wooden desk in front of a patterned wall behind a heightened boom-mic, straightens her papers. At the bottom of the screen reads, "Candidate Interview." Yuki looks at the camera and says:</narration>
+		<line id="1000" speaker="yuki" voicelang="fr">My name is Yuki Takeshi and I am illiterate.</line>
+		<line id="2000" speaker="yuki" voicelang="fr">I dropped out of college.</line>
+		<line id="3000" speaker="yuki" voicelang="fr">I am in a same-sex marriage.</line>
+		<line id="4000" speaker="yuki" voicelang="fr">I am an orphan.</line>
+		<line id="5000" speaker="yuki" voicelang="fr">I hallucinate around people.</line>
+		<line id="6000" speaker="yuki" voicelang="fr">I only got hired to lead a company for shits and giggles as they die.</line>
+		<narration>NoLifeQueen flips up the "desk" and kicks down the "wall" and throws away the "boom-mic." NoLifeQueen looks at the camera and says:</narration>
+		<line id="7000" speaker="nolifequeen" voicelang="ru">Her name is Yuki Takeshi and she's just foreign!</line>
+		<line id="8000" speaker="nolifequeen" voicelang="ru">She's just a misunderstood genius!</line>
+		<line id="9000" speaker="nolifequeen" voicelang="ru">She's just experimenting!</line>
+		<line id="10000" speaker="nolifequeen" voicelang="ru">She's just in a tussle with her mom!</line>
+		<line id="11000" speaker="nolifequeen" voicelang="ru">She just has a personality disorder! She's not alone!</line>
+		<line id="12000" speaker="nolifequeen" voicelang="ru">She was hired because she's a great game designer!</line>
+		<narration>Across the cheek, Yuki slaps NoLifeQueen.</narration>
+		<line id="13000" speaker="yuki" voicelang="fr">Who is a great game designer?</line>
+		<narration>Yuki punches NoLifeQueen in the stomach.</narration>
+		<narration>NoLifeQueen whirls and winces and collapses. Yuki looks behind her. Deep in a valley, stacked upon each other, are millions of multi-colored blocks, divided into groups of four — tetrominos — a mine of them.</narration>
+		<narration>Enter two men.</narration>
+		<line id="14000" speaker="man" voicelang="ru">Just a bit further to the Other Side!</line>
+		<line id="15000" speaker="pazhitnov" voicelang="ru">The grass better be greener here.</line>
+		<line id="16000" speaker="man" voicelang="ru">I promise, it will be different!</line>
+		<narration>The two men slide down the black-gravel hill. Yuki follows.<comment>The Moscow Tetromino Mine is more of an exploratory area. Tons of places to go, people to do, things to see, and only two people from Yuki's Real Life. Well elaborate to the Player that this place is different.</comment></narration>
+		<narration>Yuki makes it down the hill. Into this mount of nature-shined four-blocks is carved a beautiful town of people unlike any seen before. The two men stride and gaze upon the unblemished blocks. One raises his arms to the blocks and heavens.</narration>
+		<line id="17000" speaker="man" voicelang="ru">Look at this. I bet the structures these make would be perfect to any architect.</line>
+		<line id="18000" speaker="pazhitnov" voicelang="ru">Deep to any philosopher.</line>
+		<line id="19000" speaker="man" voicelang="ru">Worthy of any king.</line>
+		<line id="20000" speaker="pazhitnov" voicelang="ru">Engaging to any common man.</line>
+		<line id="21000" speaker="pazhitnov" voicelang="ru">Come, Gerasimov. We have plans to make.</line>
+		<condition>
+			<narration>Yuki sees Kenneth Anderson.</narration>
+			<condition>
+				<choice number="1">
+					<comment>The Player hired Kenneth Anderson.</comment>
+					<line id="22000" speaker="yuki" voicelang="en">Kenny?</line>
+				</choice>
+				<choice number="2">
+					<comment>The Player did not hire Kenneth Anderson.</comment>
+					<line id="23000" speaker="yuki" voicelang="en">Kenneth?</line>
+				</choice>
+			</condition>
+			<line id="23000" speaker="kenneth" voicelang="en">Oh, hey!</line>
+			<line id="24000" speaker="yuki" voicelang="en">Why are you here?</line>
+			<line id="25000" speaker="kenneth" voicelang="en">It's different!</line>
+			<line id="26000" speaker="kenneth" voicelang="en">Shoot, that's why I left my home-land — I was tired of seeing it.</line>
+			<line id="28000" speaker="yuki" voicelang="en">You mean — you weren't forced to leave?</line>
+			<line id="29000" spekaer="kenneth" voicelang="en">Well, I — no.</line>
+			<line id="30000" speaker="kenneth" voicelang="en">But I'm living the Japanese Dream, damn it —</line>
+			<line id="31000" speaker="kenneth" voicelang="en">Imagine, immigration for the sake of not Famine nor Union nor Huguenot —</line>
+			<line id="32000" speaker="kenneth" voicelang="en">But for indulgence, for leisure, for pure desire!</line>
+			<line id="32100" speaker="kenneth" voicelang="en">Or in protest of some petty law.</line>
+		</condition>
+		
+		<condition>
+			<narration>Yuki finds Capucine Rousseau. Capucine, devoid of her usual watch and unheard of her usual yawn, dances in circles and waves her arms.</narration>
+			<line id="1000" speaker="capucine" voicelang="fr">It's beautiful!</line>
+			<line id="2000" speaker="capucine" voicelang="fr">Love it!</line>
+			<narration>Yuki watches her continue her unrestrained twirls.</narration>
+			<line id="3000" speaker="yuki" voicelang="fr">What's beautiful? Not that I despise this place, but what is here to love?</line>
+			<line id="4000" speaker="capucine" voicelang="fr">The grass.</line>
+			<line id="5000" speaker="capucine" voicelang="fr">It's greener.</line>
+		</condition>
+	</part>
+</scriptment>

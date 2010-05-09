@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="43000" point="first_finish" localizationstatus="original" fictionaldate="2011-08-04" status="final">
+	<part>
+		<narration>The New Parisian-Nagoyan Network has finished its first game.</narration>
+		<line id="1000" speaker="yuki" voicelang="ja">The New Parisian-Nagoyan Network has finished its first game!</line>
+		<narration>Yuki pops bottles of champagne.</narration>
+		<line id="2000" speaker="dan" voicelang="ja">And in record time. Just over 60 days!</line>
+		<narration>Nozomi mumbles in the distance.</narration>
+		<line id="3000" speaker="nozomi" voicelang="ja">The review copies are out. The meta-score will normalize by Monday.</line>
+		<line id="4000" speaker="nozomi" voicelang="ja">Good job everyone. I'm going home now.</line>
+	</part>
+</scriptment>

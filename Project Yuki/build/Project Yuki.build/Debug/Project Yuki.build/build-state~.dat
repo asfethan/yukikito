@@ -1,0 +1,823 @@
+TProject Yuki
+v7
+r0
+t295068476.396511
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-guquddnftnincgeurerhasxezvov/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-eenvxwxkuencuucnfmcwkpewjeqi/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+cProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+cProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bjzliytjxahihkdyfvfmoailfvpu/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
+cProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal ppc c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/atlantis.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/dolphin.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/shark.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/swim.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/whale.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki" normal x86_64
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" normal i386 c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/atlantis.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c" normal i386 c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/dolphin.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" normal i386 c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/shark.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c" normal i386 c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/swim.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c" normal i386 c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/whale.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" normal i386 c com.apple.compilers.gcc.4_0
+cLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki" normal i386
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" normal ppc c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/atlantis.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c" normal ppc c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/dolphin.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" normal ppc c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/shark.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c" normal ppc c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/swim.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c" normal ppc c com.apple.compilers.gcc.4_0
+cCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/whale.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" normal ppc c com.apple.compilers.gcc.4_0
+cLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki" normal ppc
+cCreateUniversalBinary "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki" normal "x86_64 i386 ppc"
+cPBXCp "build/Debug/Project Yuki.app/Contents/Frameworks/SDL.framework" /Library/Frameworks/SDL.framework
+cTouch "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app"
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c000000004A1199E200000000000000EE
+t1242667490
+s238
+
+N/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers/SDL.h
+c000000004ADD32BD0000000000000CA1
+t1256010429
+s3233
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004628D22F000000000000563C
+t1177080367
+s22076
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/math.h
+c00000000462E7AF500000000000004B7
+t1177451253
+s1207
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdio.h
+c00000000463BAA5A0000000000003B7F
+t1178315354
+s15231
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdlib.h
+c00000000463BAA5A0000000000002647
+t1178315354
+s9799
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/string.h
+c00000000463BAA5A00000000000014D3
+t1178315354
+s5331
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/param.h
+c0000000046F2351400000000000025D9
+t1190278420
+s9689
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/time.h
+c0000000046F235150000000000001FA5
+t1190278421
+s8101
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/unistd.h
+c00000000463BAA5A0000000000004EED
+t1178315354
+s20205
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Library/Frameworks/SDL.framework
+c000000004BE60FC300000000000000EE
+t1273368515
+s238
+
+N/Library/Frameworks/SDL.framework/SDL
+c000000004ADD32BD0000000000156068
+t1256010429
+s1400936
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004AF07C310000000000040130
+t1257274417
+s262448
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/../../../../../../../../../../System/Library/Frameworks/GLUT.framework/GLUT
+c000000004A12475500000000001A2920
+t1242711893
+s1714464
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/English.lproj/InfoPlist.strings
+c000000004BE62ADC000000000000024A
+t1273375452
+s586
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch
+c000000004BE62ADC00000000000000AF
+t1273375452
+s175
+i"SDL.h"
+i<Cocoa/Cocoa.h>
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.h
+c000000004BE62ADC0000000000000176
+t1273375452
+s374
+i<Cocoa/Cocoa.h>
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m
+c000000004BE62ADC0000000000002C00
+t1273375452
+s11264
+i"SDL.h"
+i"SDLMain.h"
+i<sys/param.h>
+i<unistd.h>
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c
+c000000004BE62ADC0000000000002AD0
+t1273375452
+s10960
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i<sys/time.h>
+i<GLUT/glut.h>
+i"atlantis.h"
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.h
+c000000004BE62ADC0000000000000A2E
+t1273375452
+s2606
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c
+c000000004BE62ADC000000000000CB2C
+t1273375452
+s52012
+i<math.h>
+i<GLUT/glut.h>
+i"atlantis.h"
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c
+c000000004BE62ADC000000000000842D
+t1273375452
+s33837
+i<GLUT/glut.h>
+i<math.h>
+i"atlantis.h"
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c
+c000000004BE62ADC00000000000015C1
+t1273375452
+s5569
+i<math.h>
+i<stdlib.h>
+i<GLUT/glut.h>
+i"atlantis.h"
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c
+c000000004BE62ADC000000000000BC17
+t1273375452
+s48151
+i<GLUT/glut.h>
+i<math.h>
+i"atlantis.h"
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app
+t1273375676
+s32768
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Frameworks/SDL.framework
+t1273375674
+s32768
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Info.plist
+t1273375482
+s982
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki
+t1273375674
+s425404
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/PkgInfo
+t1273375482
+s8
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1273375482
+s586
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki
+t1273375632
+s146328
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki.LinkFileList
+c000000004BE62AFA000000000000033F
+t1273375482
+s831
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/SDLMain.o
+t1273375626
+s39656
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/atlantis.o
+t1273375626
+s19004
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/dolphin.o
+t1273375628
+s103956
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o
+t1273375626
+s16044
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/shark.o
+t1273375628
+s69468
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/swim.o
+t1273375630
+s11648
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/whale.o
+t1273375630
+s97108
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki
+t1273375674
+s138684
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki.LinkFileList
+c000000004BE62AFA0000000000000338
+t1273375482
+s824
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/SDLMain.o
+t1273375668
+s44288
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/atlantis.o
+t1273375670
+s25240
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/dolphin.o
+t1273375672
+s119980
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o
+t1273375670
+s18300
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/shark.o
+t1273375672
+s81592
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/swim.o
+t1273375672
+s13440
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/whale.o
+t1273375672
+s112388
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki
+t1273375618
+s134312
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki.LinkFileList
+c000000004BE62AFA000000000000034D
+t1273375482
+s845
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/SDLMain.o
+t1273375610
+s42396
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/atlantis.o
+t1273375612
+s17168
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/dolphin.o
+t1273375612
+s70284
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o
+t1273375610
+s17764
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/shark.o
+t1273375614
+s48936
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/swim.o
+t1273375614
+s10556
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/whale.o
+t1273375616
+s66096
+
+N/Volumes/KYLE_REY/yukikito/Project Yuki/main.c
+c000000004BE62ADC0000000000000FEE
+t1273375452
+s4078
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"SDL.h"
+
+N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch.gch
+t1273375602
+s2035560
+
+N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch.gch
+t1273375575
+s4323760
+
+N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bjzliytjxahihkdyfvfmoailfvpu/Project_Yuki_Prefix.pch.gch
+t1273375601
+s28795248
+
+N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch.gch
+t1273375594
+s2281320
+
+N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-eenvxwxkuencuucnfmcwkpewjeqi/Project_Yuki_Prefix.pch.gch
+t1273375593
+s30511584
+
+N/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-guquddnftnincgeurerhasxezvov/Project_Yuki_Prefix.pch.gch
+t1273375573
+s54962800
+
+NInfo.plist
+c000000004BE62ADC0000000000000418
+t1273375452
+s1048
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295068281#295068282#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+s295068420.054777
+e295068426.084999
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/SDLMain.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@57"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m295068420#295068426#0(0"0(0#0#49"/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m4300885448#1377"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-eenvxwxkuencuucnfmcwkpewjeqi/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/SDLMain.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/atlantis.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c" normal i386 c com.apple.compilers.gcc.4_0
+s295068426.882163
+e295068427.998891
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/atlantis.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c: In function 'Atlantis_Display':
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:330: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:335: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:340: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:345: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+lSLF07#2@67"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068426#295068428#0(677"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c: In function 'Atlantis_Display':/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:330: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:335: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:340: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:345: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness4(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068427#93#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#330#0#330#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068427#239#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#335#0#335#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068427#385#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#340#0#340#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068427#531#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#345#0#345#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c4300885448#1378"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/atlantis.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/dolphin.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" normal i386 c com.apple.compilers.gcc.4_0
+s295068427.999231
+e295068428.688840
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/dolphin.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@66"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c295068428#295068428#0(0"0(0#0#58"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c4300885448#1376"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/dolphin.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" normal i386 c com.apple.compilers.gcc.4_0
+s295068426.085360
+e295068426.881947
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@54"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.c295068426#295068426#0(0"0(0#0#46"/Volumes/KYLE_REY/yukikito/Project Yuki/main.c4300885448#1361"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/shark.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c" normal i386 c com.apple.compilers.gcc.4_0
+s295068428.689049
+e295068429.397000
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/shark.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@64"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c295068428#295068429#0(0"0(0#0#56"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c7665776580704888832#1372"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/shark.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/swim.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c" normal i386 c com.apple.compilers.gcc.4_0
+s295068429.397219
+e295068430.255909
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/swim.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@63"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c295068429#295068430#0(0"0(0#0#55"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c4300885448#1370"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/swim.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/whale.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" normal i386 c com.apple.compilers.gcc.4_0
+s295068430.256310
+e295068430.636545
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/whale.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@64"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c295068430#295068430#0(0"0(0#0#56"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c4300885448#1372"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/whale.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal ppc objective-c com.apple.compilers.gcc.4_0
+s295068433.276000
+e295068469.569312
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/SDLMain.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@57"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m295068433#295068469#0(0"0(0#0#49"/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m4300885448#1371"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bjzliytjxahihkdyfvfmoailfvpu/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/SDLMain.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/atlantis.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c" normal ppc c com.apple.compilers.gcc.4_0
+s295068470.800625
+e295068471.087978
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/atlantis.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_0
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c: In function 'Atlantis_Display':
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:330: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:335: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:340: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:345: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+lSLF07#2@67"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068470#295068471#0(677"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c: In function 'Atlantis_Display':/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:330: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:335: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:340: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:345: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness4(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068471#93#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#330#0#330#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068471#239#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#335#0#335#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068471#385#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#340#0#340#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068471#531#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#345#0#345#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c4300885448#1372"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/atlantis.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/dolphin.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" normal ppc c com.apple.compilers.gcc.4_0
+s295068471.088364
+e295068472.265224
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/dolphin.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@66"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c295068471#295068472#0(0"0(0#0#58"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c4300885448#1370"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/dolphin.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" normal ppc c com.apple.compilers.gcc.4_0
+s295068469.569670
+e295068470.800409
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/main.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@54"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.c295068469#295068470#0(0"0(0#0#46"/Volumes/KYLE_REY/yukikito/Project Yuki/main.c4300885448#1355"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/shark.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c" normal ppc c com.apple.compilers.gcc.4_0
+s295068472.265438
+e295068472.904588
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/shark.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@64"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c295068472#295068472#0(0"0(0#0#56"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c4300885448#1366"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/shark.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/swim.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c" normal ppc c com.apple.compilers.gcc.4_0
+s295068472.904905
+e295068473.128667
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/swim.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@63"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c295068472#295068473#0(0"0(0#0#55"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c4300885448#1364"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/swim.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/whale.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" normal ppc c com.apple.compilers.gcc.4_0
+s295068473.128898
+e295068473.578044
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/whale.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@64"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c295068473#295068473#0(0"0(0#0#56"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c4300885448#1366"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/whale.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/SDLMain.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295068402.347682
+e295068410.334067
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/SDLMain.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m295068402#295068410#0(0"0(0#0#49"/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m4300885448#1380"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-guquddnftnincgeurerhasxezvov/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/SDLMain.m" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/SDLMain.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/atlantis.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s295068411.015283
+e295068412.542705
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/atlantis.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c: In function 'Atlantis_Display':
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:330: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:335: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:340: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+o/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:345: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness
+lSLF07#2@67"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068411#295068412#0(677"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c: In function 'Atlantis_Display':/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:330: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:335: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:340: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c:345: warning: pointer targets in passing argument 1 of 'DrawStr' differ in signedness4(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068412#93#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#330#0#330#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068412#239#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#335#0#335#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068412#385#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#340#0#340#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@71"Pointer targets in passing argument 1 of 'DrawStr' differ in signedness295068412#531#146#0(6@59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c295068252#345#0#345#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#59"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c4300885448#1381"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/atlantis.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/atlantis.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/dolphin.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s295068412.543044
+e295068413.315199
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/dolphin.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c295068412#295068413#0(0"0(0#0#58"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c4300885448#1379"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/dolphin.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/dolphin.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s295068410.334431
+e295068411.015072
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/main.c295068410#295068411#0(0"0(0#0#46"/Volumes/KYLE_REY/yukikito/Project Yuki/main.c4300885448#1364"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/main.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/shark.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s295068413.315415
+e295068414.244448
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/shark.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c295068413#295068414#0(0"0(0#0#56"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c4300885448#1375"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/shark.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/shark.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/swim.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s295068414.244750
+e295068415.400718
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/swim.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c295068414#295068415#0(0"0(0#0#55"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c4300885448#1373"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/swim.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/swim.o"0#
+
+CCompileC "build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/whale.o" "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s295068415.400930
+e295068416.176615
+r1
+xCompileC
+xbuild/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/whale.o
+x/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c295068415#295068416#0(0"0(0#0#56"/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c4300885448#1375"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -include /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/atlantis/whale.c" -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/whale.o"0#
+
+CCopyStringsFile "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s295068282.398537
+e295068283.882664
+r1
+xCopyStringsFile
+x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings295068282#295068284#0(0"0(0#0#71"/Volumes/KYLE_REY/yukikito/Project Yuki/English.lproj/InfoPlist.strings4300885448#377"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Resources/English.lproj"0#
+
+CCreateUniversalBinary "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki" normal "x86_64 i386 ppc"
+s295068474.700396
+e295068475.464881
+r1
+xCreateUniversalBinary
+x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@105"CreateUniversalBinary "build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki" normal "x86_64 i386 ppc"295068474#295068475#0(0"0(0#0#55"/Volumes/KYLE_REY/yukikito/Project Yuki/x86_64 i386 ppc4300885448#558"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /usr/bin/lipo -create "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki" "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki" "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki" -output "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/MacOS/Project Yuki"0#
+
+CLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki" normal i386
+s295068430.636734
+e295068433.275600
+r1
+xLd
+x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki
+xnormal
+xi386
+lSLF07#2@127"Link /Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki295068430#295068433#0(0"0(0#0#0"4300885448#743"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.4u.sdk "-L/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -filelist "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki.LinkFileList" -mmacosx-version-min=10.4 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/i386/Project Yuki"0#
+
+CLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki" normal ppc
+s295068473.578241
+e295068474.700034
+r1
+xLd
+x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki
+xnormal
+xppc
+old: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o
+lSLF07#2@126"Link /Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki295068473#295068474#0(184"ld: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o1(22@170"Object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o295068474#0#184#0(6@0"295068474#0#0#0#0#0"0(0#0#0"4300885448#740"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch ppc -isysroot /Developer/SDKs/MacOSX10.4u.sdk "-L/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -filelist "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki.LinkFileList" -mmacosx-version-min=10.4 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/ppc/Project Yuki"0#
+
+CLd "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki" normal x86_64
+s295068416.176941
+e295068420.054391
+r1
+xLd
+x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki
+xnormal
+xx86_64
+lSLF07#2@129"Link /Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki295068416#295068420#0(0"0(0#0#0"4300885448#747"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki.LinkFileList" -mmacosx-version-min=10.6 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Objects-normal/x86_64/Project Yuki"0#
+
+CPBXCp "build/Debug/Project Yuki.app/Contents/Frameworks/SDL.framework" /Library/Frameworks/SDL.framework
+s295068475.465086
+e295068476.326698
+r1
+xPBXCp
+xbuild/Debug/Project Yuki.app/Contents/Frameworks/SDL.framework
+x/Library/Frameworks/SDL.framework
+lSLF07#2@38"Copy /Library/Frameworks/SDL.framework295068475#295068476#0(0"0(0#0#33"/Library/Frameworks/SDL.framework4300885448#322"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Library/Frameworks/SDL.framework "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Frameworks"0#
+
+CProcessInfoPlistFile "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Info.plist" Info.plist
+s295068282.329879
+e295068282.398298
+r1
+xProcessInfoPlistFile
+x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist295068282#295068282#0(0"0(0#0#50"/Volumes/KYLE_REY/yukikito/Project Yuki/Info.plist7074989449873530880#321"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    builtin-infoPlistUtility Info.plist -genpkginfo "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal ppc c com.apple.compilers.gcc.4_0
+s295068401.508428
+e295068402.347450
+r1
+xProcessPCH
+x/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch.gch
+xProject_Yuki_Prefix.pch
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295068401#295068402#0(0"0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1256"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bgjtoxlxkrvxfjgvbouniqckmpxm/Project_Yuki_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+s295068374.283984
+e295068379.543466
+r1
+xProcessPCH
+x/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch.gch
+xProject_Yuki_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295068374#295068379#0(0"0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1262"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bhuuimhszyepwxdhrnhdntdntmdd/Project_Yuki_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bjzliytjxahihkdyfvfmoailfvpu/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
+s295068394.791577
+e295068401.508062
+r1
+xProcessPCH
+x/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bjzliytjxahihkdyfvfmoailfvpu/Project_Yuki_Prefix.pch.gch
+xProject_Yuki_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295068394#295068401#0(0"0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1266"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/ppc" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-bjzliytjxahihkdyfvfmoailfvpu/Project_Yuki_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+s295068393.771750
+e295068394.791346
+r1
+xProcessPCH
+x/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch.gch
+xProject_Yuki_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295068393#295068395#0(0"0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1261"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-byltsalcsostljfxmvkmosnmarob/Project_Yuki_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-eenvxwxkuencuucnfmcwkpewjeqi/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s295068379.543826
+e295068393.771389
+r1
+xProcessPCH
+x/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-eenvxwxkuencuucnfmcwkpewjeqi/Project_Yuki_Prefix.pch.gch
+xProject_Yuki_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295068379#295068393#0(0"0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1271"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/i386" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-eenvxwxkuencuucnfmcwkpewjeqi/Project_Yuki_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-guquddnftnincgeurerhasxezvov/Project_Yuki_Prefix.pch.gch Project_Yuki_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295068283.883132
+e295068374.283678
+r1
+xProcessPCH
+x/var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-guquddnftnincgeurerhasxezvov/Project_Yuki_Prefix.pch.gch
+xProject_Yuki_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Project_Yuki_Prefix.pch295068283#295068374#0(0"0(0#0#63"/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch4300885448#1272"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/Project Yuki.hmap" "-F/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug" -F/Users/torchie/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/include" -I/Users/torchie/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources/x86_64" "-I/Volumes/KYLE_REY/yukikito/Project Yuki/build/Project Yuki.build/Debug/Project Yuki.build/DerivedSources" -c "/Volumes/KYLE_REY/yukikito/Project Yuki/Project_Yuki_Prefix.pch" -o /var/folders/em/emYQiXzNG84fzqWPPXSx9E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Yuki_Prefix-guquddnftnincgeurerhasxezvov/Project_Yuki_Prefix.pch.gch0#
+
+CTouch "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app"
+s295068476.326969
+e295068476.396395
+r1
+xTouch
+x/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app
+lSLF07#2@74"Touch /Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app295068476#295068476#0(0"0(0#0#0"4300885448#142"    cd "/Volumes/KYLE_REY/yukikito/Project Yuki"    /usr/bin/touch -c "/Volumes/KYLE_REY/yukikito/Project Yuki/build/Debug/Project Yuki.app"0#
+

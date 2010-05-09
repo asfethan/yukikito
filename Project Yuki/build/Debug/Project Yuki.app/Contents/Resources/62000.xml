@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="62000" point="spielberg" localizationstatus="original" fictionaldate="2011-09-07" status="final">
+	<part>
+		<narration>Yuki is watching a video of the Electronic Entertainment Expo in 2011. A man is on a podium.</narration>
+		<line id="1000" speaker="spielberg" voicelang="en">My apologies to the video game community.</line>
+		<line id="2000" speaker="spielberg" voicelang="en">Recently, my film projects have been occupying much of my time.</line>
+		<line id="3000" speaker="spielberg" voicelang="en">Deal with your business or it will deal with you, they say, so &#x2014;</line>
+		<line id="4000" speaker="spielberg" voicelang="en">I've decided to turn my full attention to film.</line>
+	</part>
+</scriptment>

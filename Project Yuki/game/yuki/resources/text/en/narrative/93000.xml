@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Project Yuki Original English Scriptment
+Copyright (C) 2010 Kyle Reynolds
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.-->
+
+
+
+<?xml-stylesheet href="yuki.css" type="text/css"?>
+<scriptment id="93000" point="airfield_record" localizationstatus="original" fictionaldate="2011-11-18" status="final">
+	<part>
+		<condition>
+			<comment>The Player hired Isabella Ortiz.</comment>
+				<narration>Yuki, Takuya, and Isabella sit at the inner fencing of the airfield. Good old Haneda. Good old airfields. Isabella connects her condenser microphone to the USB port of her external battery-powered desktop computer and begins recording through the high speed data connector and sound-checks through the neodymium-magnet headphones.</narration>
+				<line id="1000" speaker="isabella" voicelang="ja">I can't believe they let us just enter an airport with all this strange equipment.</line>
+				<line id="2000" speaker="takuya" voicelang="ja">There are so few return trips now.</line>
+				<line id="3000" speaker="takuya" voicelang="ja">Security's so lax that Haneda would allow in a terrorist.</line>
+				<narration>Takuya sighs.</narration>
+				<line id="4000" speaker="takuya" voicelang="ja">I miss the different-landers.</line>
+				<line id="5000" speaker="takuya" voicelang="ja">Every time I saw some different-tongued tourist or lost foreigner,</line>
+				<line id="6000" speaker="takuya" voicelang="ja">I thought, "Wow. We're still a world power. We're still on top."</line>
+				<line id="7000" speaker="takuya" voicelang="ja">"They still dig us more than we dig them. Maybe this 'Japan' thing will be okay."</line>
+				<narration>Yuki snickers.</narration>
+				<line id="8000" speaker="takuya" voicelang="ja">You listening, Yuki? You don't get that good-old middle-age wisdom too often.</line>
+				<condition>
+					<choice number="1">
+						<line id="9000" speaker="yuki" voicelang="ja">You didn't use the word "Postwar" enough.</line>
+						<line id="9100" speaker="takuya" voicelang="ja">What?</line>
+						<line id="10000" speaker="yuki" voicelang="ja">The critics only care when you talk Postwar.</line>
+					</choice>
+					<choice number="2">
+						<line id="11000" speaker="yuki" voicelang="ja">I can't sit here and listen to this language all day.</line>
+						<line id="12000" speaker="yuki" voicelang="ja">Speak my tongue sometime, yours is tiring.</line>
+						<line id="13000" speaker="takuya" voicelang="fr">You am try to get on nerves of me!</line>
+					</choice>
+				</condition>
+			<line id="14000" speaker="takuya" voicelang="ja">Kids these days.</line>
+		</condition>
+	</part>
+</scriptment>
